@@ -6,15 +6,15 @@ At the core of most of the lore in Verum, The Prism and the various colors of th
 
 Each iteration can be connected to a specific covenant and color. Each color represents a specific idea.
 
-| Iteration | Covenant | Color             |
-| --------- | -------- | ----------------- |
-| First     | Life     | Red (Wisdom)      | 
-| Second    | Time     | Orange (Ambition) |
-| Third     | Wisdom   | Yellow (Time)     |
-| Fourth    | Ambition | Green (Life)      |
-| Fifth     | Dream    | Blue (Dream)      |
-| Sixth     | Death    | Indigo (Death)    |
-| Seventh   | Mercy    | Violet (Mercy)    |
+| Iteration | Covenant | Color             | Original Seven                                                             |
+| --------- | -------- | ----------------- | -------------------------------------------------------------------------- |
+| First     | Life     | Red (Wisdom)      | Frotul, Dwarven cleric - Same player as Falcon                             |
+| Second    | Time     | Orange (Ambition) | Scorter Firefist, Heavily armored Elven man - Same player as Saphira       |
+| Third     | Wisdom   | Yellow (Time)     | Tatalia, Middle-aged woman wearing a mithril hauberk - Same player as Koga |
+| Fourth    | Ambition | Green (Life)      | Falcon BladeWeaver, Elven ranger                                           |
+| Fifth     | Dream    | Blue (Dream)      | Saphira, Human woman in blue robes                                         |
+| Sixth     | Death    | Indigo (Death)    | Koga, Elven rogue                                                          |
+| Seventh   | Mercy    | Violet (Mercy)    | Mister Wigglyfoot, Halfling rogue (?)                                      |
 
 ## The Covenants & Their Shape
 
