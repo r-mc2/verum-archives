@@ -1,4 +1,4 @@
-# Death and Debts -- Session 01
+# Death and Debts -- Session 11
 
 ## Relevant Lore
 

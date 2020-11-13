@@ -5,6 +5,9 @@ These represent the Astral Traveler and her Handmaidens.
 
 ## Astral Traveler
 
+* Known Aliases: (TBD)
+* Domains: (TBD)
+
 (TBD)
 
 ## Handmaidens
@@ -12,5 +15,8 @@ These represent the Astral Traveler and her Handmaidens.
 (TBD)
 
 ### (Name 1)
+
+* Known Aliases: (TBD)
+* Domains: (TBD)
 
 (TBD)
