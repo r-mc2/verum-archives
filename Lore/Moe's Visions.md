@@ -38,3 +38,15 @@ Stands the great wizard Tyre.
 > Ives’s circle has only just begun.
 >
 > “This is the beginning, not the end.”
+
+## Mirage
+
+(Shadow of Tyre -- Session 16)
+
+> ***Moe** cyclops eyes Mirage<br>
+> **Arcadum**: The first thing that you notice is that, strangely, she is bright and difficult to look at. She thrums with so much of the lifestream, as she's kind of wading through a river of it constantly. You see images of her past, present, and future.<br>
+In the past you can see images of her dancing with her sisters in Majital, gathering wayward travelers from the road, and feeding off of their happiness before they perish from normal means.<br>
+...She stands with Inu and the lifestream, she sings one of the four chords, the chord of Freedom.<br>
+Future. You see the infinite waves, deep, deep beneath them. The heavy waters, the dark abysses, and then you see her, singing with two others whose faces are obscured. And a being deep below that should be kept sleeping awakens instead.
+
+The statement is that Moe thinks the being should be kept asleep. Dangerous at the very least.

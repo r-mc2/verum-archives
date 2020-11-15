@@ -1,8 +1,231 @@
 # Death and Debts -- Session 11
 
+Aired: 11/11/2020
+
 ## Relevant Lore
 
-(TBD)
+With the women at camp and the third changeling finally present the Vizier gathers Terryn, Ahst, and Neve to perform the ritual:
+
+> **Arcadum**: The changelings form a triangle.<br>
+It whirls into a funnel, and then each Changeling's eyes go white, and the Seers' Bowl opens a portal.<br>
+The ritual fades and there it lies before you.<br>
+<br>
+**Vizier**: So there it is. To see something that is theoretical be conjured before you. Look at it. It is almost as if it is a piece of glass.
+Great care should be taken for any that should try to enter, we know not what lies on the other side. We know only that destiny awaits.<br>
+<br>
+**Arcadum**: As they enter a strange realm, an entirely new realm, and one that neither of you have seen except for Terryn, but only in the flashes of her vision.<br>
+Up ahead there appears to be a building of some kind, its outlines are marred, shaped in a strange manner.<br>
+A dichotomy of black and white monotones reflect and break apart from one another.<br>
+As you look down your feet fall on solid ground, but it is ground you cannot see. It is almost as if you are walking on errant thought, and reflective water.<br>
+Almost as stone, but then you see it to be the belly of a serpent.<br>
+Before you there is a great door, the door has the symbol of a silver serpent coiling around, eating itself.<br>
+What you see is a room filled with wonders. Below you there is what appears to be stars reflective from the sky that you walk upon, pews are lined almost as if there is a great cathedral, and everywhere there is the same monochromatic shattering of light.
+
+> **Strippin**: Is there sound here?<br>
+**Arcadum**: Not really, but there is an echo to your steps. The sound is of walking on water, a slight sloshing sound that echoes ethereally.
+
+> **Arcadum**: You can make out something near the altar.<br>
+You are interrupted as something appears behind you.<br>
+<br>
+**Tomen**: Finally, finally you are here. This is good. Welcome! Welcome to the home that was promised us. A home that was denied us. There are many questions you might have, and there are yet things to be explained.<br>
+This is the mirrored realm, we are in between light. We are within that which makes the Prism and it is here that the fates of all things will be decided.<br>
+**Neve**: Are you saying that this place will help us with the fate of the world?<br>
+**Tomen**: Yes, for it is here that the battle shall take place. At least that is the plan.<br>
+**Ahst**: Wait wait wait, Tomen I think you're getting ahead of yourself. We're not a big deal.<br>
+**Tomen**: You are far more important than you know, come there is yet more to see.<br>
+**Tomen**: You see, for this place is a part of the Prism. It is reflection, light, and yet not. It is the space between, you see.<br>
+**Terryn**: How is that possible?<br>
+**Tomen**: For you see, our world is divided into different pieces. Each ruled and each governed by a different aspect, and yet here... here is where that light filters, it is the framework in which these seven pieces are held. And this is a being known in many cultures of Kalkatesh. He is brat (?). The Silver Serpent. The Viaken know him as Jormungandr. Here he is a friend, he is a teacher. He is the Prism.<br>
+**Arcadum**: The twin headed silver serpent does not speak, it only looks at you with curious eyes as its presence fills the room.<br>
+**Tomen**: Light requires refraction for its colors to shine. For without stimulus light never changes. The light of Life. The light of people. The light of the soul.<br>
+***Tomen** will move his hands across the great scales of the silver serpent<br>
+**Tomen**: Within these scales are the mirrors of creation, where light shines truly.<br>
+<br>
+**Arcadum**: As you move your gaze across the great serpent, you will see there is one space in the serpent's stomach, there is an enormous gash. The flesh is torn, and the wound is raw, and it appears to be bleeding black ichor, almost like ink.<br>
+**Tomen**: The gash that you see upon the serpent is the actions of the Enemy, of the Traitor. Of the moment when all things were changed, and the Wheel failed.<br>
+Despair pours from the serpent. But there is yet Hope, for look upon it.<br>
+**Arcadum**: He will gesture on the serpent's wound and you will see that there is evidence it has grown larger, but the bleeding has been slowed even with your presence.<br>
+**Tomen**: Even now the flow is halted. Even now Hope shines reflected, and there are things that have not yet happened, but seem to occur before us. For you see, already the pieces, they fall into place. The movements of the alliance of Life against the Violet has already begun to spread Order through our world. But the Enemy is clever, and more powerful than any can know. It seeks to corrupt, to deceive, to stop. Our vigilance shall reward us only extended time, but not victory. But the three of you, there is yet Hope.<br>
+**Ahst**: I need you guys to just hum the tune you hear, or sing it.
+
+> **Strippin (Ahst)**: Ahst wants to do the dance of Life to restore it and ease it's pain with the Changelings.
+
+> **Arcadum**: As you pull forth your songblade and begin your dance, the dance in which the song in which life was sung.<br>
+Mirage ceases moving, and an ethereal force jaunts towards her. She looks up towards the Heavens, and light begins to irradiate from her wings.<br>
+As you continue your dance, light fills the room and there you see a Chord lay before you, and the Chord, like thread across the needle of the songblade, stitches shut the wound.<br>
+But the weight of the serpents pain is too much for a single chord, and the stitching gives way.<br>
+
+> **Melody**: What are the walls like?<br>
+**Arcadum**: The walls, if that is what they could be called, shimmer like glass, and all around you a light fills the room from an unknown source.
+
+> **Melody**: I want to shift into Umi's fiance.
+
+> **Arcadum**: Terryn transforms into a swole orc<br>
+**Terryn**: I try to brace the snake's wound, wrapping my shadow tentacles around it's body if I can.<br>
+**Arcadum**: As you place your hands upon the serpent the visage of the orc fades as you revert to your true form and where your hands once were there is a rainbow of color, a prismatic touch.<br>
+**Party**: Maybe we can cover the scales with ourselves?<br>
+
+Terryn and Neve will cover the serpent, and Ahst will dance.
+
+> **Arcadum**: As you place your hands upon the serpent, once again the stitching tries to hold, but fails. But Ahst you notice something as the two changelings hold their hands upon the scales on the serpent, on their backs you can see a prismatic color swirl and scale across their backs.
+
+All three Changelings cover the serpent.
+
+> **Arcadum**: As you place your hands upon the serpent. Three mirrors grasp at the silver scales, three mirrors the apex of the prism. Three mirrors.<br>
+As you call to what strength you each possess, to whatever power that might be lying within. The power of the prismatic strength, of the silver serpent roils through your body, reflecting across each of the people that you have been before. It swirls across each other. Mirage begins to float off the ground, a beam of light begins to swirl around her, and fire into the sky.<br>
+The three of you continue to move your hands across the scales and Tomen, finally, adds his own hands to the serpents scales.<br>
+The magic flows, its power unyielding, its strength swirling. And then finally, with sufficient strength to hear its voice, the serpent speaks.<br>
+<br>
+**Serpent**: It has been millenia since last I spoke. The mirrors have found my voice, it would seem. Tell me... tell me of my slumber. Has the Enemy returned?<br>
+**Neve**: He has. He comes ever closer.<br>
+**Serpent**: First I have awakened, six times has sealed this iteration. But never awake. Never in this way. The colors have begun to stir, they move to their place. The final battle is upon us. The battle will decide the fate of us all. Changelings, sisters, and brother of the Mirrored Realm you must act in my stead. My presence cannot be revealed to the Enemy's eye until you are prepared. Seek thee the Seven eyes and bring them before me. For the gates have opened and now we must prepare.<br>
+<br>
+Gather thee these Seven eyes, travel thee to the Trigram Isles, there you shall finally unleash of the Vega. You'll need their skills at arms and armaments. You must conquer the labyrinth and claim the gifts of the mad one, the last traitor did all that could be done in preparation for this.<br>
+**Ahst**: The Vega are already found.<br>
+**Serpent**: You have found, yes. But not their home. For they themselves know not their own secrets. But you have done well, Changeling. Seek thee the three Chords yet unsung for without the Song of Creation as our battle hymn(?) I fear we may not break the covenant that must be shattered before the Enemy's demise.<br>
+**Party**: Where will we find the Trigram Isles?<br>
+**Serpent**: You already have.<br>
+<br>
+**Arcadum**: The Mirrored Realm will fade and its true form will be revealed. The Mirrored Realm is a realm hidden between light. The Trigram Isles are found here in the realm of mirrors.
+
+> **Serpent**: Indeed, there are many things that must be done before the fight begins.
+
+(Basically, bring the Vega to the mirrored realm.)
+
+> **Serpent**: For each eye brought before me, bring them here. For each one brought before me, they shall take their place, for all Seven must be corrected.<br>
+Once brought before me I shall grant them a blessing to allow their return.
+
+The three ladies decide to go back to camp and bring the 4 eyes they know they already have.
+
+> **Party**: Tomen are you coming with us?<br>
+**Tomen**: I must do as I can. For now I must prepare the isles. I did not even know this is where this was. But now I must do my duty and see that you have all the things that you require for what is to come.<br>
+**Ahst**: I think I know how to heal the Serpent.<br>
+**Neve**: Do you need the other three Chords?<br>
+**Ahst**: Yeah, felt like we were doing the right thing, it just wasn't enough.<br>
+**Neve**: Maybe we could bring the other songblades here?<br>
+**Ahst**: Maybe.<br>
+
+> **Terryn**: How do we get back?<br>
+**Serpent**: That I can provide you. Now you are Changelings whose form is known to me, all you must do is find a mirror, and you can return to this realm.<br>
+Go forth and seek the eyes, bring them before me. You must move with haste, Changelings. For we have not the time to dawdle.
+
+> **Tomen**: If you look above us you can see it. Right now the light... The light overwhelms the absence. Order overwhelms Entropy, but Entropy has limitless strength. We will have to use the advantages we have for now.
+
+Changelings go back to camp, argue briefly with Braktor and the other Eyes, then bring the eyes to the Mirrored Realm through the same portal.
+
+> **Arcadum**: Toot, Braktor, Guy, Morc. Your eyes brighten with Violet even if you thought it was gone. Violet comes back in rapid succession, before it is suppressed, and instead it glows with a white flame.<br>
+
+The group heads into the sanctuary:
+
+**Tomen**: Ah, you've brought them. Come with me. Oh, greetings, I am Tomen, brother of Changelings.<br>
+
+Tomen takes them further inside to the Serpent:
+
+**Tomen**: This is the Silver Serpent. This is Braub, Bagiri, Jormungandr, tis the Prism itself.<br>
+**Braktor**: Odin mentioned it before, but I didn't think it was this literal.<br>
+
+Changelings will hug the serpent, and he will awaken again.
+
+> **Serpent**: Efficient you are in your movements, before me the eyes stand. Four of Seven. Greetings travelers, I am the Silver Serpent. I am the Prism.<br>
+**Braktor**: I didn't think you were real until now.<br>
+**Serpent**: I understand your skepticism Seven, and I know the sacrifices you have made. Rest easy, for now you stand before the Prism itself. Your eyes, here, there power shines, but without the Enemy's sight. For here is a place between light. The Enemy's power does not see us.<br>
+**Braktor**: So we're safe to talk here?<br>
+**Serpent**: Yes. Yes we are.<br>
+**Braktor**: I can see you're wounded, what do you know of the other avatars of the colors? I have met one recently.<br>
+**Serpent**: I have heard only that one has awakened. This is unprecedented. This is joyous.<br>
+**Braktor**: He's of the Green, can he come here? Can he help heal your wounds?<br>
+**Serpent**: Who can say. Never before has a color awoken, never before has a color walked. Never before.<br>
+**Braktor**: We're working on more of them too, we're already close to another one.<br>
+**Serpent**: You say that you have met it, is it a person?<br>
+**Braktor**: It's like me, except the original, from a bygone age. Forever lost.<br>
+**Ahst**: His name's Falcon, he's the ranger of the First Seven.<br>
+**Arcadum**: The serpent shudders as you say the name.<br>
+**Serpent**: What? It felt-<br>
+**Arcadum**: The Serpent will look at its wound and you will see for a brief moment that it begins to seal and then opens again.<br>
+**Ahst**: Falcon Bladeweaver.<br>
+<br>
+**Arcadum**: As the name is uttered, power surges through the entirety of the complex. The silver serpent once plain and white, one seventh of it turns to a bright green and the wound begins to heal just slightly.<br>
+**Serpent**: The colors return, yes. This is the way. This is a joyous day! Joyous, a joyous day!<br>
+**Ahst**: He said to us the other six were already on their way.<br>
+**Braktor**: Of the Indigo Scar, Koga.<br>
+**Arcadum**: There's a brief flash, Indigo light. But the serpent does not take the color.<br>
+**Serpent**: It is still sealed, I can feel its pull, but it is restricted.
+
+> **Serpent**: There are some things that would put this realm at risk.<br>
+**Guy**: As a Lord of Flowing Water you're probably familiar with me and the mirrors there.<br>
+**Serpent**: Your purpose, each of the Eyes will walk their path until they are prepared to be called for the final battle. For now, return to your companions, for the ship that can sail the stars has a terrible burden, and an auspicious purpose that has yet to be revealed.<br>
+**Braktor**: I get my power from the Lifestream, is this a place of life? We've met a creature of the Black.<br>
+**Serpent**: Inu guards life, Uni guards the Void.<br>
+**Braktor**: We met him.<br>
+**Serpent**: I am the Prism. I guard the middle.<br>
+
+Ahst will offer the clementia flower to the serpent as a gift:
+
+> **Serpent**: Such a flower, powerful vestige of life. A piece of the shattered covenant.<br>
+**Braktor**: Can you talk about the shattered covenant?<br>
+**Serpent**: It was broken by the Traitor. But I fear, before the end, yet another must be broken.<br>
+**Braktor**: Yeah, I feel like I know. Yeah. What if we could fix it? Fix the shattered covenant?<br>
+**Serpent**: If such a thing were possible it would be ideal.<br>
+**Braktor**: Uni told us how.<br>
+**Serpent**: Good, then it would seem your purpose is tied. But for now take these.<br>
+
+The great serpent will give each of the Seven Eyes a silver ring:
+
+> **Serpent**: When the time comes, these rings will call you to this realm, and the final battle shall be on the horizon.<br>
+**Braktor**: Do you know of any way to find the others? One of our companions can find one of them, I don't know if you can find the other two though?<br>
+**Serpent**: The other eyes... I can see them. One lingers within a temple, freshly desecrated, gambling away their woes. Another celebrates with their comrades, celebrating an ascension. And the third wanders the continent in search of a piece of history.<br>
+**Braktor**: I Can teleport through the lifestream, do you want me to find them?<br>
+**Serpent**: Tis the Changelings duties to gather the eyes, it is yours, Weaver, to work with the guardians, to find the missing Chords. For without the song we cannot do which is necessary.<br>
+
+> **Arcadum**: It is through Mirage that you will find the others, for within them the notes of the songs surge. She will need to listen to her voice, it shall lead her to the Chords.
+
+> **Braktor**: What of the Traveler?<br>
+**Serpent**: Yes. Her handmaidens and their servants will serve the Traveler in time.<br>
+**Braktor**: What if we could make more contact, is there something that should be done?
+
+> **Guy**: How is it determined who is a Chord, who is Derok, what fate determines who are these people?<br>
+**Serpent**: Fate is a fickle thing, the threads twist, and the tapestry is changing. But as each thread solidifies and its path is known, the colors become clear, and the image to those that can see it can be read clearly. Three Chords yet remain to be found.<br>
+**Guy**: What makes them need to exist in the first place?<br>
+**Serpent**: ‘Tis the way of the world. It is because it is. Why do you exist?<br>
+**Guy**: I wonder about that myself.<br>
+**Serpent**: A plaguing question, but in either case you must seek the three chords through the chords you possess. And through them perhaps the Colors can be found.
+
+> **Neve**: What about the seventh color?<br>
+**Serpent**: Concern not yourself with the Seventh. It will be here soon enough. Focus on what we can do, not what we cannot.<br>
+**Neve**: Is it also trapped, and asleep?<br>
+**Serpent**: No.<br>
+**Braktor**: If it was we wouldn't be here. You have to understand that this has been brewing for six years and I saw the signs but I was too ignorant to do anything about it sooner. We missed our window to make the first strike, because we couldn't have known.
+
+Ahst will give Terryn a sending stone to Neve.
+
+---
+
+The group returns to camp and after a short discussion a *visitor* arrives at camp.
+
+> ***Azolon** informs the party of Violet ships searching the Astral Sea for colors.<br>
+***Azolon** will narrow his eyes and look at Braktor and say one word.<br>
+**Azolon**: Purgatory.<br>
+**Braktor**: How is that good news?<br>
+**Azolon**: Do you know of it?<br>
+**Braktor**: I do.<br>
+**Azolon**: What do you know of it?<br>
+**Braktor**: Not a lot that’s safe to talk about.<br>
+**Azolon**: Do you know where it is?<br>
+**Braktor**: I think it would be useful to know, but I think it’s something I’d have to do on my own.<br>
+**Azolon**: I can give you the information of its coordinates because I stumbled on it.<br>
+**Braktor**: How do you stumble on that?<br>
+**Azolon**: Now you’re being hesitant about the nature of this information, I don’t want to tell you how I stumbled on it.<br>
+**Braktor**: Listen you found it and you’re not dead, so good start.<br>
+**Azolon**: Indeed. Let us just say that the material plane and this place have an umbilical cord.<br>
+**Braktor**: That makes sense. Maybe you can just write it down for me. By the way there is something you should know, we found an aspect of one of the colors.
+
+Azolon is introduced to the ladies and tries his best to welcome to the camp and inform them of what staying would entail given the pending Violet attack. Learning of their mission to head to meet with the Lord of Blades 
+he offers, instead, to teleport them near his location.
+
+---
+
+Bit more bickering, end of session.
+
 
 ## Full Transcript
 
@@ -79,7 +302,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > ***Toot** turns on record.<br>
 > ***Ahst** grabs Neve’s arm and leads her to the scrying bowl<br>
 > ***Hackne Silvermask** gently pats Terryn’s head, “It’s okay, I get a case of mistaken identity all the time.”<br>
-> ***Ozzie** looks jealously at the head pats.v
+> ***Ozzie** looks jealously at the head pats.<br>
 > **Drugs McGee**: My apologies, I haven’t eaten for a week or two. –terryn shrugs and stares ate the ground, counting the pebbles and thinking of home.<br>
 >
 > Summer has connected
@@ -129,7 +352,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Umi**: so many birdsss<br>
 > ***Eustace** vibrates in and out of existence as the timelines converge.<br>
 > **Vaeri**: *rummages through her things… looking for soemthing”<br>
-> Ahst: “Why did Braktor hire a bunch of cheerleaders?”<br>
+> **Ahst**: “Why did Braktor hire a bunch of cheerleaders?”<br>
 > **Drugs McGee**: Terryn attempts to busker, she begins pantomiming the action of doing the limbo<br>
 >
 > Moe Kowbull has connected.
@@ -140,10 +363,10 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Umi**: I feel like im watching a movieee<br>
 > ***Guy** gets first in the attractiveness line<br>
 > **Braktor Ironbellows**: “Inu told me to get these ladies. The camp was attacked by the Violet. Hackne and I got married. YOur sexual predadot showed up.”<br>
-> **Braktor Ironbellows**: Predator*<br>
+> **Braktor Ironbellows**: Predator\*<br>
 > ***Seren** squint<br>
 > **Vaeri**: *pulls out some kind of communication stone form her belongings and measures it*<br>
-> **Zara**: Whispers to Vaeri*Do you have any beer?*<br>
+> **Zara**: Whispers to Vaeri *Do you have any beer?*<br>
 > ***Ozzie** tries to hold Guy’s and Mirage’s hands. “I’m taken, but holding hands ain’t cheatin’ “<br>
 > **Braktor Ironbellows**: “Oy, there’s beer in the tent we were standing in front of.”<br>
 > **Braktor Ironbellows**: “Morc go get the beer”<br>
@@ -214,7 +437,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Revlis (Revvy)**: “Holy shit you got a keg?!”<br>
 > **Seren**: “oh my…. I love him already”<br>
 > **Hackne Silvermask**: “You have a spider friend too, Eustace?<br>
-> **Umi**: why cant I have a keg ;_;<br>
+> **Umi**: why cant I have a keg ;\_;<br>
 > **Zara**: Vaeiri….”<br>
 > **Braktor Ironbellows**: “It’s my keg. Please share.”<br>
 > **Zara**: “Psstttt”<br>
@@ -270,14 +493,14 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Ozzie**: “That sounds like someone Seren would date.”<br>
 > **Ozzie**: “No offense”<br>
 > **bunny_gif**: “He lives in a sewer now”<br>
-> **Vaeri**: “Goes to drink the keg a bit…. and turns to Seren* “You… monster…Ive read some things”<br>
+> **Vaeri**: “Goes to drink the keg a bit…. and turns to Seren\* “You… monster…Ive read some things”<br>
 > **Ozzie**: “But your standards are kinda low”<br>
 > **Revlis (Revvy)**: *gazes at Seren* “You’re absolutel gorgeous! I understand why Derick was so broken up now.”<br>
 > **Umi**: He was living in the sewers and he was really sad<br>
 > ***♥Mirage♥** flexes and winks at Zara.<br>
 > **Seren**: “wait wait wait…. he had what?”<br>
 > **Eustace**: “What’s that mean? What’s wrong with piercings?”<br>
-> **Vaeri**: “Would hold out a communication stone of some kind*<br>
+> **Vaeri**: *Would hold out a communication stone of some kind*<br>
 > ***Madd Morc** eyes Vaeri’s hat, “Hey, where’d you get dat?”<br>
 > **Umi**: “nothing wrong with piercings at all! but he had them on his penis!”<br>
 > ***Braktor Ironbellows** Braktor grumps<br>
@@ -307,7 +530,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Ozzie**: “I will give you 100 gold if you see him again and bring me his piercing.”<br>
 > ***Wokou Kaizoku** stands in the distance wondering what is going on<br>
 > **Umi**: *twirls around acting innocent*<br>
-> **Vaeri**: “Looks over to Madd and instictibly clutches her cool hat* “I got this from a friend”<br>
+> **Vaeri**: *Looks over to Madd and instictibly clutches her cool hat* “I got this from a friend”<br>
 > **Braktor Ironbellows**: “Hey Zara, can you toss me a mug of that?”<br>
 > **Zara**: “I don’t remember any of that. Then again Iam drunk half a’ day.”<br>
 > **Seren**: “Hey you girls wanna see something freaky?”<br>
@@ -553,7 +776,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Braktor Ironbellows**: “Honewtly, Seren, the wedding was gift enough for me. I can’t ask for anything else.”<br>
 > **Revlis (Revvy)**: *sits down next to Umi and pats her head* “Have a nice dream little one?”<br>
 > **Braktor Ironbellows**: (Well expect for my staff to be upgraded or like, a level up but I’ll never get those)<br>
-> **Braktor Ironbellows**: Honestly*<br>
+> **Braktor Ironbellows**: Honestly\*<br>
 > **Seren**: “No no no, I insist. I could uuuuh… Get you alcohol?”<br>
 > **Umi**: “There were so many tentacles!!” *hugs revlis*<br>
 > **Ozzie**: “You’re cool lookin’. Don’t think I ever seen a dragon person before. Well, I guess I did once when it came out of Belanovan. I mean, when it.. nevermind.””<br>
@@ -598,13 +821,13 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Seren**: “When you know… I almost exploded.”<br>
 > **Hackne Silvermask**: “It was only a kidd how did it end up like this?”<br>
 > **Derok Dranf**: You taste like cigarettes and body fluid.<br>
-> **Umi**: *looks over at eustace* YOU KILLED A SHARK?! ;_;<br>
+> **Umi**: *looks over at eustace* YOU KILLED A SHARK?! ;\_;<br>
 > **Guy**: “I convinced my entire group that we should send those weapons to you. I’m the good guy, here.”<br>
 > ***Braktor Ironbellows** facepalms<br>
 > **Derok Dranf**: Oh so you went from sacrificing me to charity. That makes snese.<br>
 > **Eustace**: “It was a mutant violet shark, it was threatening the existence of all dreams. Turst me, I’m with you.”<br>
 > **Derok Dranf**: Snese btw<br>
-> **Umi**: *starts muttering in spanish* ;___;<br>
+> **Umi**: *starts muttering in spanish* ;\_\_\_;<br>
 > ***Derok Dranf** vibrates for a reason.<br>
 > **Guy**: “You have to fuck things up a bit before you know whats wrong, right? It’s a destructive patter but it gets the job done eventualy.”<br>
 > ***Derok Dranf** vibrates intently for a reason<br>
@@ -752,11 +975,11 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Revlis (Revvy)**: *summons an illusion of our own orgy portal*<br>
 > **Revlis (Revvy)**: :D<br>
 > **Ozzie**: “I’m taken, but I’ll watch. Give you some tips, I’m kind of a pro.”<br>
-> **Umi**: I wish I had magic pants.. ;_;<br>
+> **Umi**: I wish I had magic pants.. ;\_;<br>
 > **bunny_gif**: *stretches in orgy portal illusion*<br>
 > **Eustace**: “What happens to your pants when your legs change anyway?”<br>
 > **Seren**: “I don’t technically wear pants” :T<br>
-> **Revlis (Revvy)**: “Unseen servant gives everyone in the orgy portal massages*<br>
+> **Revlis (Revvy)**: *Unseen servant gives everyone in the orgy portal massages*<br>
 > **Vaeri**: *sits down on the ground and rests her chin on her hand*<br>
 > **Umi**: “smiles innocently” I am not wearing any pants… I just wear special magical bandages.<br>
 > ***Ozzie** looks at his satyrs. “Why don’t satyrs wear pants?”<br>
@@ -963,11 +1186,11 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Hackne Silvermask**: “Wait, did I miss something? Who hooked up who?”<br>
 > **♥Mirage♥**: “Aww. Well I’m sure any part of you could pick up a lover. Teeth and all ;)”<br>
 > **Zara**: “Anyone gunna sleep here? Awesome. “ Zara passes out on the ground with a smile ’<br>
-> **Umi**: *is surprised because no one has ever touched her tooth before and her headlight glows like crazy* (*/▽\*)<br>
+> **Umi**: *is surprised because no one has ever touched her tooth before and her headlight glows like crazy* (\*/▽\\\*)<br>
 > **bunny_gif**: *sleeps with zara *<br>
 > **Braktor Ironbellows**: (That was quick)<br>
 > **bunny_gif**: z z z z **hugs zara*<br>
-> **Umi**: It’s a bit sharp I hope I didn’t hurt you! ^ ^ *looks at mirage* Im surprised at the amount of people I have met that are not afraid of my teeth at all…I tried to look intimidating and it never works ;_;
+> **Umi**: It’s a bit sharp I hope I didn’t hurt you! ^ ^ *looks at mirage* Im surprised at the amount of people I have met that are not afraid of my teeth at all…I tried to look intimidating and it never works ;\_;
 >
 > Surefour has connected.<br>
 >
@@ -978,10 +1201,10 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > ***Ozzie** puts his clothes on Zara to keep her warm<br>
 > **Ozzie**: “Don’t catch a cold, now.”<br>
 > **Seren**: “Also the teeth are cute! I would show you mine…. but im not supposed to be opening my mouth wind around others right now…”<br>
-> **Seren**: wide*<br>
+> **Seren**: wide\*<br>
 > **Eustace**: “It’s quite sharp! You should weaponize it if you want to be intimidating. Dig right into your enemies!”<br>
 > **Zara**: “…… warm…” Zara would give a big smile and cuddle up inside the clothes of Ozziee<br>
-> **bunny_gif**: *snores* “pants..pants…” sleep mumble grabs zara closer*
+> **bunny_gif**: *snores* “pants..pants…” sleep mumble grabs zara closer\*
 (⌣｡⌣)<br>
 > **Vaeri**: *looks at the sky*<br>
 > **Umi**: Hmm using my teeth as a weapon… I never thought about it before but maybe I should! I try to sharpen them every month! (*⌒▽⌒*)θ〜♪<br>
@@ -1077,7 +1300,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Vaeri**: *sits back down*<br>
 > ***Ahst** initially resists but eventually melts into Mirages embrace<br>
 > **Ozzie**: “Are we doing things to Guy?”<br>
-> *Ahst*: “Nice”<br>
+> **Ahst**: “Nice”<br>
 > **Derok Dranf**: Hey Guy, want a donut? No hard feelings.<br>
 > **Ozzie**: “He does like nuts.”<br>
 > **Braktor Ironbellows**: “Hey, Belanovan. You hear that? This is the rest of your life now.”<br>

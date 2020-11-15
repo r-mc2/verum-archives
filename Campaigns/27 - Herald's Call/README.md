@@ -12,6 +12,6 @@
 
 ### Player Characters
 
-#### Character Name (Player Name)
+#### Archael Sunspear (Sacriel)
 
 (Short description TBD)

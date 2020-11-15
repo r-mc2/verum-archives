@@ -11,6 +11,7 @@ The takers of notes, the WPM speed demons, they who type.
 * PyroSalamander
 * Arof
 * Panax
+* Disguised
 
 ## Archivists
 Curators of the notes. Librarians of the Great Library.
