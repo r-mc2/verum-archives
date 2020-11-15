@@ -32,18 +32,18 @@ Zach decides look at Flamewrath with his Violet Eye.
 However I have something else to tell you.<br>
 Your eye begins to reflect off of his skin, and it is too late before you realize what he is.
 >
-> Your eye begins to look over Flamewrath, and you do not realize it before it is too late. Flamewrath is not a human but he is a changeling and as such your eye begins to reflect off of his skin. You see a frightened pale skinned woman and behind her reveals your eye<br>
-<br>
-The Violet reflects off of this mirror, and thus I need you to make a Wisdom saving throw, let's see if you can stop yourself.
+> Your eye begins to look over Flamewrath, and you do not realize it before it is too late. Flamewrath is not a human but he is a changeling and as such your eye begins to reflect off of his skin. You see a frightened pale skinned woman and behind her reveals your eye
+>
+> The Violet reflects off of this mirror, and thus I need you to make a Wisdom saving throw, let's see if you can stop yourself.
 
 (10(7) + 7 = 17)
 
 > **Arcadum**: With a 17 you are able to pull back your face, almost covering your eye, but in that brief instance in the flash of a mere second, you see many different flashing images.<br>
 Listen carefully.
 >
-> Seven Points, a center spiral, a rising sun, a falling star, and 12 points of Violet light, like needles pierce the tapestry of Kalkatesh, and one by one the lights bloom into radiant flowers and from that point the Herald appears.<br>
-<br>
-Okay, as you can see I have a very important thing for everyone here to discuss. Now many of you are not fully connected to the story.
+> Seven Points, a center spiral, a rising sun, a falling star, and 12 points of Violet light, like needles pierce the tapestry of Kalkatesh, and one by one the lights bloom into radiant flowers and from that point the Herald appears.
+>
+> Okay, as you can see I have a very important thing for everyone here to discuss. Now many of you are not fully connected to the story.
 
 Party is given the option to spend Order as a result of Dodger making the Wisdom save from looking through Flamewrath.
 

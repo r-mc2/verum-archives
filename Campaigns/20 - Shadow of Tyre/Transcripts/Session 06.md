@@ -85,7 +85,7 @@ The group banters about the possible end of all of Verum.
 What appears before you appears through a crack in reality. A forgotten memory and a hidden secret. The last vestige of a shattered Covenant. The Source. The Truth. The Why.<br>
 A woman stands before you. Ethereal. Hair like raidiant fire. She floats with a soft grace. Forward she moves towards Moe to answer his question.<br>
 The Violet Servant raises its weapon...<br>
-***Arcadum snaps.
+***Arcadum snaps.<br>
 **Arcadum**: ...and dissipates. The woman walks and stands before Moe. Your question echoes again, "What does The Violet fear?" and she answers:<br>
 > **The Astral Traveler**: My grave.
 

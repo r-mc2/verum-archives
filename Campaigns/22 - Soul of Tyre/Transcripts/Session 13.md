@@ -119,7 +119,7 @@ So what do I do with it? You guys seem to be the whole Tyre people.<br>
 >
 > Right now you feel the power being drained out of you. Violet tendrils whip out from the Herald, what do you do?
 
-Mirage sings, and Braktor Weaves. Bela crip walks.
+Mirage sings and Braktor Weaves. Bellanovan crip walks.
 
 > **Arcadum**: The three Songblades begin their dance, the Chord lends her voice, and the Weaver weaves the strands of life. The party begins to pull away, resisting, at least somewhat, the grasp of the Herald. But you will see as you retreat back to Kalkatesh, the Herald turns, shifting its weight, so to speak, and then begins to make its approach.
 >

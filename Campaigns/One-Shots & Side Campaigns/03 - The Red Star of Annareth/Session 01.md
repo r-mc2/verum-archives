@@ -40,7 +40,7 @@ This entire room is cracked in reality. Meaning you cannot enter this room witho
 > **Criken (Moe)**: Can you describe the way in which it’s shattered? Specifically, is it anything we've seen before with the enemy we're fighting or is it totally different?<br>
 **Arcadum**: I don't know if you yourself have seen it.<br>
 **Surefour (Bellanovan)**: Did it look kind of the same when the reality bending was happening in the corridor of our labyrinth.<br>
-**Arcadum**: Yes, so Belanovan recognizes it a little bit.
+**Arcadum**: Yes, so Bellanovan recognizes it a little bit.
 
 ### Next Floor Up
 
@@ -90,9 +90,9 @@ Write that down in capital bolded letters, please.<br>
 Moe and Bellanovan move towards the strange device Arcadum pointed out earlier and Lumina starts playing:
 > **Arcadum**: You stand in one of the holiest places, for before you lies a contraption. An apparatus, a device, whose function is unclear, and daunting to attempt to know. However, attempt to know you do. As you look upon [the engine](https://i.imgur.com/nhH9Rc8.jpg), you see that it has several different points of focus, specifically there are six points of focus. Each of them appears to be a different mirrored piece of glass, focused onto a central point, where there is an orb of mirrored glass that reflects the light in all directions. However, all around it, there is a construction of metal and material that form an almost blueprinted cage, it expands outwards, the longer you look the more that you see contained within this central orb is the Astral Sea itself. You can see it, shifting, twisting. You can see the halved pieces, the spherical separations of each of the different nebulae, and within it the central point where your home of Kalkatesh can be found.
 >
-> All around you the ethereal energy of the red light pulses out, and with each pulse it washes over you in an overwhelming light, and then you see them. Spirits yet inhabit this engine, there are seven places where the spirits are marked, and one is awoken. The central spirit, the Astral Traveler. Six other spirits yet remain to be awoken, and in front of you there lies a place where a hand may be placed.<br>
-<br>
-So, do I have a volunteer?
+> All around you the ethereal energy of the red light pulses out, and with each pulse it washes over you in an overwhelming light, and then you see them. Spirits yet inhabit this engine, there are seven places where the spirits are marked, and one is awoken. The central spirit, the Astral Traveler. Six other spirits yet remain to be awoken, and in front of you there lies a place where a hand may be placed.
+>
+> So, do I have a volunteer?
 
 (Moe and Bellanovan contemplate next steps, and who places their hand)
 

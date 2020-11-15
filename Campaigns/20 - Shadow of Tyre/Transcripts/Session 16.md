@@ -173,7 +173,7 @@ Delaron Puce: Phoenix's have been extinct for some time, ironic I believe. Some 
 
 ### Visit to Inu
 
-After the party returns to camp Ahst, Belanovan, Braktor, and Mirage decide to visit Inu.
+After the party returns to camp Ahst, Bellanovan, Braktor, and Mirage decide to visit Inu.
 
 > **Inu**: You've done very well, Chord, and now, the song can be repaired, the shattered gates can be healed. Guardians, what brings you back?<br>
 **Ahst**: We barely just survived a Violet attack, there's another one coming around the corner, I don't know the fuck i'm doing, and where's that third statue?<br>

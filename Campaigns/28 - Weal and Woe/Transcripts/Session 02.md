@@ -127,9 +127,9 @@ And so, as Life began to grant, and to what the Viaken call Yggdrasil, the Lifes
 **Lily**: What do you need for us to do?<br>
 **Taladon**: I will never ask of you, for you are yet young, untested. But your audacity, your courage, is something truly marvelous. There is prudence among you. There is good judgement, and there is just enough of that mortal.. that mortal, uh, how should I put this, hubris. That you may succeed where so many others have failed.
 >
-> There are forces beyond your understanding that move just beyond your sight, and there are others like you, selected for the great testing at the crossroads that is yet to come. For our world is on its sixth iteration, and should we fail again, the seventh will be our doom.<br>
-<br>
-There is a lot to deal with, but for now know that you are amongst friends. Feast, rest, within my domain, for you have earned it. And curious still, you have brought me an Ananthem.<br>
+> There are forces beyond your understanding that move just beyond your sight, and there are others like you, selected for the great testing at the crossroads that is yet to come. For our world is on its sixth iteration, and should we fail again, the seventh will be our doom.
+>
+> There is a lot to deal with, but for now know that you are amongst friends. Feast, rest, within my domain, for you have earned it. And curious still, you have brought me an Ananthem.<br>
 **Party**: The ruby!<br>
 **Taladon**: While an Archon still is a powerful boon that is not yet it. You hold the Ananthem in your hands warrior.<br>
 ***Taladon** points to Anna<br>
@@ -175,9 +175,9 @@ Know this. My people are knowledgeable of the cost of power. What it means to se
 These are not only magical items, but they represent your rank as an Archon, as a servant directly to one of the Taladonic lords, and it will allow you to speak with him.<br>
 **Taladon**: Listen well, with your newfound strength you shall attract the attention of the Enemy. A being that stands against us all, and the purpose, I suspect, the Ananthem was recreated. I have done what I can to predict the Enemy's movements, now it seeks the Traitor's Blade. It cannot be allowed to happen, but we are not in a position to stop it. There are those that search the labyrinth, and those that search the stones, and those yet that serve one of the many orders.
 >
-> There is a place that I must send you, a place that has been overrun. A place that is broken. I must send you to my towers that yet still remain and there we must gather what we can and search them carefully. For if we are able to uncover the prismatic gate, I may yet see my home again, and there the weapons we need to face the Enemy.<br>
-<br>
-**Party**: What do these circlets do?<br>
+> There is a place that I must send you, a place that has been overrun. A place that is broken. I must send you to my towers that yet still remain and there we must gather what we can and search them carefully. For if we are able to uncover the prismatic gate, I may yet see my home again, and there the weapons we need to face the Enemy.
+>
+> **Party**: What do these circlets do?<br>
 **Taladon**: They will grant you clarity when battle pumps through your mind. They will also manifest themselves according to your own essence the more you use them, and the longer that they are attuned to you. They are made out of Archonici stone. They are very rare, do not lose them.<br>
 Rest, for when you have finished I shall return you to the waking realm, for your presence has already gone noticed by the Enemy. You must return to where you whence came as if nothing happened. Say your report, then leave quickly. Once you are outside of the city, contact me again. I shall send a friend to carry you to the Rift.<br>
 **Mara**: Is there anything else we need to know about the Enemy?<br>
