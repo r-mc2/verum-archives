@@ -74,7 +74,7 @@ The group discusses what this means in reference to what they can ask of it.
 > **Bellanovan**: Who used the power of the Violet before the Enemy?<br>
 **Uni**: T’was the storyteller of course.<br>
 
-> **Party**: Do we know who created the towers?
+> **Party**: Do we know who created the towers?<br>
 **Uni**: The Towers were created by the Seven, but not just any Seven. By the first Seven, and furtherm-<br>
 **Arcadum**: The creature will turn its gaze to the Green tower.<br>
 **Uni**: Well, then. That is curious. That has never happened before. In each iteration that-<br>
@@ -115,7 +115,7 @@ You see all of them because they all bear one of the Seven gifts, and yours was 
 **Braktor**: You don't know this, but I saw... I don't think you can go home. Your time has passed and has been passed on and on and on and on to others, even I was late in the chain.<br>
 **Arcadum**: You sense you've been asleep for a long time, for much has changed.<br>
 
-> **Andy (Falcon)**: Do I know what happened to my companions?
+> **Andy (Falcon)**: Do I know what happened to my companions?<br>
 **Arcadum**: You recognize the symbols of your companions on the Towers, except the one tower who is missing.<br>
 **Andy (Falcon)**: So I wouldn't know that they're missing, and I wouldn't know anything about these towers other than the lapels that they represent.
 
@@ -362,7 +362,7 @@ Why and how the Traitor did what they did.<br>
 >
 > However, you are not alone. The Violet light crashes against a dome of Green, as where once stood Falcon Bladeweaver, an Elven man, now stands the Avatar of the color of Life. Shining with Green light, an opaque Jade skin, the Avatar rises as one of the first Seven, and speaks dissent.
 >
-> ***Falcon Bladeweaver** will take the hands of Silvanus, and plant them into the ground.<br>
+> ***Falcon Bladeweaver** will take the Hands of Silvanus, and plant them into the ground.<br>
 **Falcon**: I am Falcon Bladeweaver! Leader of the heroes of Phlan! The Left and Right Hand of Silvanus! Weaponmaster, bearer of Soulfire, Archon of Life, and the First Ranger, and a brother of Tyr’s Drop!
 >
 > **Arcadum**: With each of these truths spoken, the Green crashes against the Violet, and there the visage of a face can be seen, hearing these words.<br>
@@ -392,7 +392,7 @@ In its resounding defeat the Uni will complete your question.
 **Arcadum**: You can ask him questions, the power of the Green is paramount.<br>
 **Andy (Falcon)**: What are the consequences of me asking unlimited questions? Entropy, or?
 
-(Arcadum appears to wary of Andy having revealed the bit about Entropy...)
+(Arcadum appears to be wary of Andy having revealed the bit about Entropy...)
 
 >**Arcadum**: Okay, it's... Remember, you are of the Prism. So, when you throw your weight around, so does the Violet.
 

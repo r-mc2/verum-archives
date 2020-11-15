@@ -12,6 +12,27 @@
 
   ### Player Characters
 
-  #### Character Name (Player Name)
+  #### Wisp (Devin Nash)
+
+  (Short description TBD)
+
+  #### Angorn Spinesnap (MoonMoon)
+
+  Inquisitor for the Church of Astaroth.<br>
+  (Short description TBD)
+
+  #### Raber (roflgator)
+
+  (Short description TBD)
+
+  #### Clarence "FlaimeWrath" Lorinfill (Sodapoppin)
+
+  (Short description TBD)
+
+  #### Nidhogg (Surefour)
+
+  (Short description TBD)
+
+  #### Vim (Viggors)
 
   (Short description TBD)

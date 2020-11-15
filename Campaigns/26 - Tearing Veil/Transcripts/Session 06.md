@@ -62,7 +62,7 @@ You are a Changeling, an all female race that can change what you look like. But
 >
 > There is also a boon, because Zach made the save, he was able to keep his sight controlled, and just as the Enemy can see through the violet eye, so can those that wield the violet eye see through the Enemy. So Zach was given a prescient look into the Enemy's plans.
 
-### Shopping in Town
+### Shopping in Fireport
 
 The group has a big shopping session. They purchase a bunch of potions as well as obtain some experimental, magical item that sometimes all-the-time lets one breathe even when there is nothing breathable. They also barter with the potion seller to take his "air extractor" and put it somewhere nicer that is less polluted in exchange for free potions.
 
@@ -74,7 +74,7 @@ Angorn, claiming his ancestors skills must somehow flow through him, asks if he 
 The work is passable, and the extra metal now forms some huge shoulder pads. Vim, having none of being the butt of all the jokes eventually settles on a simple set of scale mail.
 
 
-Wisp finall gets a new purse to replace the one Vim destroyed during their escape from Fireport. Confused as to why Wisp wants the bag, Raber inquires. The group eggs him on into believing it's a status thing and demands to have better clothes for himself. He gets a total makeover and is now (jokingly) known as _\_\_.
+Wisp finall gets a new purse to replace the one Vim destroyed during their escape from Fireport. Confused as to why Wisp wants the bag, Raber inquires. The group eggs him on into believing it's a status thing and demands to have better clothes for himself. He gets a total makeover and is now (jokingly) known as `Rabario`.
 
 Nidhogg heads off to a flower shop to purchase some of his wife's favorite flowers as it happens to be near (the day of?) her death. Nidhogg finally shares with the party this fact of his backstory and there's a brief bonding.
 
