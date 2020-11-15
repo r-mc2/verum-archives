@@ -11,9 +11,9 @@ Aired: 10/25/2020
 ---
 
 Hashbrown is offered this Taladonic rune and he accepts:
-> **Arcadum**: So be it. Therefore you will take on the rune's power, and the ancient teachings of the Taladoni will flow through your mind, replacing your knowledge of nature and the wild with the seeking of magical lore, the guardianship of mages come and gone. As such, your title is now Seeker.<br>
-<br>
-The rune begins to transform your outfit into the traditional garb of the Taladoni mage. Specifically you are wearing a gray hood, with blue streaks through it, and the robe around it is tied with a central sash.<br>
+> **Arcadum**: So be it. Therefore you will take on the rune's power, and the ancient teachings of the Taladoni will flow through your mind, replacing your knowledge of nature and the wild with the seeking of magical lore, the guardianship of mages come and gone. As such, your title is now Seeker.
+>
+> The rune begins to transform your outfit into the traditional garb of the Taladoni mage. Specifically you are wearing a gray hood, with blue streaks through it, and the robe around it is tied with a central sash.<br>
 More importantly, your bow now carries with it three rune slots, which you can use to empower it and your arrows as you adventure.
 
 ## Full Transcript

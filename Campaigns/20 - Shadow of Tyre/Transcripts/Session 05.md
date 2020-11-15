@@ -23,18 +23,18 @@ Arcana, for more info, and it's gonna take another roll like that.<br>
 > **Arcadum**: This is insufficient to gain more information on the significance of those names.<br>
 However, Toot. Your eye begins to shine. Toot, you see that there is another creature in the pond, you do not see a koi, but rather a serpent.<br>
 ***Toot** immediately starts pointing.<br>
-**Arcadum**: As you look closer you spot it, it appears to be a serpent, but it is unmoving, but it is most certainly alive as it is watching the movements of the fish above it. The serpent is covered in mud, and therefore its color is not obvious.<br>
-<br>
-As Toot starts to move up his eyepatch, you notice it is glowing, Moe.<br>
+**Arcadum**: As you look closer you spot it, it appears to be a serpent, but it is unmoving, but it is most certainly alive as it is watching the movements of the fish above it. The serpent is covered in mud, and therefore its color is not obvious.
+>
+> As Toot starts to move up his eyepatch, you notice it is glowing, Moe.<br>
 ***Eustace** will pull the serpent out of the water using Shape Water.<br>
-**Arcadum**: When the serpent leaves the water it transforms. It transforms from a serpent into a key. The key bears a very specific description. It is long, longer than a normal key. The edges at the end are serrated and curved, and there is a name etched into the side of it, and it is written in common, and it says "The Twilight Station".<br>
-<br>
-When the key formulates, Ahst you nearly fall over. Your portal senses begin to pulse hard, as the energy only you can feel wafts over you. It's coming from the south.<br>
-<br>
-Eustace, you turn your gaze into the pond as you remove the key, and one by one, each of the koi fish perish. They evaporate into Violet ash until, finally, the last one remains. Verum remains.<br>
-The fish swims towards the surface of the water, jumps up and out, and it shatters like glass.<br>
-<br>
-Raost at this point the door your on begins to shake, as now the energy from whatever is happening down south is able to be sensed by all of you, not just Ahst.
+**Arcadum**: When the serpent leaves the water it transforms. It transforms from a serpent into a key. The key bears a very specific description. It is long, longer than a normal key. The edges at the end are serrated and curved, and there is a name etched into the side of it, and it is written in common, and it says "The Twilight Station".
+>
+> When the key formulates, Ahst you nearly fall over. Your portal senses begin to pulse hard, as the energy only you can feel wafts over you. It's coming from the south.
+>
+> Eustace, you turn your gaze into the pond as you remove the key, and one by one, each of the koi fish perish. They evaporate into Violet ash until, finally, the last one remains. Verum remains.<br>
+The fish swims towards the surface of the water, jumps up and out, and it shatters like glass.
+>
+> Raost at this point the door your on begins to shake, as now the energy from whatever is happening down south is able to be sensed by all of you, not just Ahst.
 
 > **Arcadum**: As you grasp the key, Eustace, your true sight activates on its own.
 

@@ -8,12 +8,12 @@ With the women at camp and the third changeling finally present the Vizier gathe
 
 > **Arcadum**: The changelings form a triangle.<br>
 It whirls into a funnel, and then each Changeling's eyes go white, and the Seers' Bowl opens a portal.<br>
-The ritual fades and there it lies before you.<br>
-<br>
-**Vizier**: So there it is. To see something that is theoretical be conjured before you. Look at it. It is almost as if it is a piece of glass.
-Great care should be taken for any that should try to enter, we know not what lies on the other side. We know only that destiny awaits.<br>
-<br>
-**Arcadum**: As they enter a strange realm, an entirely new realm, and one that neither of you have seen except for Terryn, but only in the flashes of her vision.<br>
+The ritual fades and there it lies before you.
+>
+> **Vizier**: So there it is. To see something that is theoretical be conjured before you. Look at it. It is almost as if it is a piece of glass.
+Great care should be taken for any that should try to enter, we know not what lies on the other side. We know only that destiny awaits.
+>
+> **Arcadum**: As they enter a strange realm, an entirely new realm, and one that neither of you have seen except for Terryn, but only in the flashes of her vision.<br>
 Up ahead there appears to be a building of some kind, its outlines are marred, shaped in a strange manner.<br>
 A dichotomy of black and white monotones reflect and break apart from one another.<br>
 As you look down your feet fall on solid ground, but it is ground you cannot see. It is almost as if you are walking on errant thought, and reflective water.<br>
@@ -25,9 +25,9 @@ What you see is a room filled with wonders. Below you there is what appears to b
 **Arcadum**: Not really, but there is an echo to your steps. The sound is of walking on water, a slight sloshing sound that echoes ethereally.
 
 > **Arcadum**: You can make out something near the altar.<br>
-You are interrupted as something appears behind you.<br>
-<br>
-**Tomen**: Finally, finally you are here. This is good. Welcome! Welcome to the home that was promised us. A home that was denied us. There are many questions you might have, and there are yet things to be explained.<br>
+You are interrupted as something appears behind you.
+>
+> **Tomen**: Finally, finally you are here. This is good. Welcome! Welcome to the home that was promised us. A home that was denied us. There are many questions you might have, and there are yet things to be explained.<br>
 This is the mirrored realm, we are in between light. We are within that which makes the Prism and it is here that the fates of all things will be decided.<br>
 **Neve**: Are you saying that this place will help us with the fate of the world?<br>
 **Tomen**: Yes, for it is here that the battle shall take place. At least that is the plan.<br>
@@ -39,9 +39,9 @@ This is the mirrored realm, we are in between light. We are within that which ma
 **Arcadum**: The twin headed silver serpent does not speak, it only looks at you with curious eyes as its presence fills the room.<br>
 **Tomen**: Light requires refraction for its colors to shine. For without stimulus light never changes. The light of Life. The light of people. The light of the soul.<br>
 ***Tomen** will move his hands across the great scales of the silver serpent<br>
-**Tomen**: Within these scales are the mirrors of creation, where light shines truly.<br>
-<br>
-**Arcadum**: As you move your gaze across the great serpent, you will see there is one space in the serpent's stomach, there is an enormous gash. The flesh is torn, and the wound is raw, and it appears to be bleeding black ichor, almost like ink.<br>
+**Tomen**: Within these scales are the mirrors of creation, where light shines truly.
+>
+> **Arcadum**: As you move your gaze across the great serpent, you will see there is one space in the serpent's stomach, there is an enormous gash. The flesh is torn, and the wound is raw, and it appears to be bleeding black ichor, almost like ink.<br>
 **Tomen**: The gash that you see upon the serpent is the actions of the Enemy, of the Traitor. Of the moment when all things were changed, and the Wheel failed.<br>
 Despair pours from the serpent. But there is yet Hope, for look upon it.<br>
 **Arcadum**: He will gesture on the serpent's wound and you will see that there is evidence it has grown larger, but the bleeding has been slowed even with your presence.<br>
@@ -74,19 +74,19 @@ All three Changelings cover the serpent.
 > **Arcadum**: As you place your hands upon the serpent. Three mirrors grasp at the silver scales, three mirrors the apex of the prism. Three mirrors.<br>
 As you call to what strength you each possess, to whatever power that might be lying within. The power of the prismatic strength, of the silver serpent roils through your body, reflecting across each of the people that you have been before. It swirls across each other. Mirage begins to float off the ground, a beam of light begins to swirl around her, and fire into the sky.<br>
 The three of you continue to move your hands across the scales and Tomen, finally, adds his own hands to the serpents scales.<br>
-The magic flows, its power unyielding, its strength swirling. And then finally, with sufficient strength to hear its voice, the serpent speaks.<br>
-<br>
-**Serpent**: It has been millenia since last I spoke. The mirrors have found my voice, it would seem. Tell me... tell me of my slumber. Has the Enemy returned?<br>
+The magic flows, its power unyielding, its strength swirling. And then finally, with sufficient strength to hear its voice, the serpent speaks.
+>
+> **Serpent**: It has been millenia since last I spoke. The mirrors have found my voice, it would seem. Tell me... tell me of my slumber. Has the Enemy returned?<br>
 **Neve**: He has. He comes ever closer.<br>
-**Serpent**: First I have awakened, six times has sealed this iteration. But never awake. Never in this way. The colors have begun to stir, they move to their place. The final battle is upon us. The battle will decide the fate of us all. Changelings, sisters, and brother of the Mirrored Realm you must act in my stead. My presence cannot be revealed to the Enemy's eye until you are prepared. Seek thee the Seven eyes and bring them before me. For the gates have opened and now we must prepare.<br>
-<br>
-Gather thee these Seven eyes, travel thee to the Trigram Isles, there you shall finally unleash of the Vega. You'll need their skills at arms and armaments. You must conquer the labyrinth and claim the gifts of the mad one, the last traitor did all that could be done in preparation for this.<br>
+**Serpent**: First I have awakened, six times has sealed this iteration. But never awake. Never in this way. The colors have begun to stir, they move to their place. The final battle is upon us. The battle will decide the fate of us all. Changelings, sisters, and brother of the Mirrored Realm you must act in my stead. My presence cannot be revealed to the Enemy's eye until you are prepared. Seek thee the Seven eyes and bring them before me. For the gates have opened and now we must prepare.
+>
+> Gather thee these Seven eyes, travel thee to the Trigram Isles, there you shall finally unleash of the Vega. You'll need their skills at arms and armaments. You must conquer the labyrinth and claim the gifts of the mad one, the last traitor did all that could be done in preparation for this.<br>
 **Ahst**: The Vega are already found.<br>
 **Serpent**: You have found, yes. But not their home. For they themselves know not their own secrets. But you have done well, Changeling. Seek thee the three Chords yet unsung for without the Song of Creation as our battle hymn(?) I fear we may not break the covenant that must be shattered before the Enemy's demise.<br>
 **Party**: Where will we find the Trigram Isles?<br>
-**Serpent**: You already have.<br>
-<br>
-**Arcadum**: The Mirrored Realm will fade and its true form will be revealed. The Mirrored Realm is a realm hidden between light. The Trigram Isles are found here in the realm of mirrors.
+**Serpent**: You already have.
+>
+> **Arcadum**: The Mirrored Realm will fade and its true form will be revealed. The Mirrored Realm is a realm hidden between light. The Trigram Isles are found here in the realm of mirrors.
 
 > **Serpent**: Indeed, there are many things that must be done before the fight begins.
 
@@ -142,9 +142,9 @@ Changelings will hug the serpent, and he will awaken again.
 **Arcadum**: The serpent shudders as you say the name.<br>
 **Serpent**: What? It felt-<br>
 **Arcadum**: The Serpent will look at its wound and you will see for a brief moment that it begins to seal and then opens again.<br>
-**Ahst**: Falcon Bladeweaver.<br>
-<br>
-**Arcadum**: As the name is uttered, power surges through the entirety of the complex. The silver serpent once plain and white, one seventh of it turns to a bright green and the wound begins to heal just slightly.<br>
+**Ahst**: Falcon Bladeweaver.
+>
+> **Arcadum**: As the name is uttered, power surges through the entirety of the complex. The silver serpent once plain and white, one seventh of it turns to a bright green and the wound begins to heal just slightly.<br>
 **Serpent**: The colors return, yes. This is the way. This is a joyous day! Joyous, a joyous day!<br>
 **Ahst**: He said to us the other six were already on their way.<br>
 **Braktor**: Of the Indigo Scar, Koga.<br>

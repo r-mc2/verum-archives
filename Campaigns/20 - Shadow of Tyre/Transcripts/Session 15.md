@@ -23,16 +23,16 @@ Genesis seeds found in the remnants of world tree once was. Deep within the rift
 
 Ahst asks about the Hall of Mirrors in Eassemere. The Tapestry of Fate said seek out twin snakes within the halls of mirrors in Eassemere.
 
-> **Arcadum**: The book that you find depicts, ironically, the anthology of your own race. It explains the history of the Hags and the Changelings, and their ancient, sort of, cursed existence. How a Hag will have a changeling, will set her out into the world in order to corrupt as many people as possible. To collect as many faces as possible, before being returned to the Hags to be transformed into one of them again. Giving up their free will, sacrificing themselves towards the Coven, and then taking all the faces, all the power and refractions, and all of the essence that they have reaped, and bringing them into the central of power. This reveals to you the true purpose of the Hags birthing of Changelings, and why you even exist.<br>
-<br>
-But there is something else, hidden just beyond. Just beyond this disturbing history there is something else that is written. As it turns out, you have a brother. Just one, as all Changelings do, and his name is Tomen. And you see that there is a visage of a mirror with a twin-headed serpent.<br>
-<br>
-The Hags, in an attempt to fix misshapen souls, needed a method in which to gather souls and refract them. The Hags didn't realize this is what they were doing, that the risk behind refraction is so much more powerful, and so farther reaching than something as simple and as vain as to no longer be ugly. But, that’s what the Hags were trying to do. They were trying to get their youth back, as they had achieved immortality but not eternal youth. In their original plan they thought the way to do it would be to inject their essence into prototyped specimen and to spread it as far as possible. By sacrificing most of themselves, which is why there are few Hags left.<br>
-Essentially the Hag race, which used to be a country off the coast of Orde, in order ensure that at least some of them would have eternal youth they drew lots, and those that failed sacrificed themselves for the rest of their sisters, and it was from this massive sacrifice of Hag souls, and powers, and lives that Tomen was created.<br>
-<br>
-Now, Tomen was originally made male. Because the idea was that they wanted as many offspring as possible, and the male could spread offspring more quickly than a female could. Unfortunately something that they did not anticipate was that because all of the Hags were women, their rituals did not work on Tomen, who is male. So the very hubris of their action became their downfall, and Tomen betrayed the Hag race, and created the Mirror realm. Or discovered it, it’s not really clear which he did. He has basically used it as a place to hide the sisters he could find, before he was sealed away.<br>
-<br>
-The book says that Tomen is yet still sealed away, guarded by the serpents that once served him.
+> **Arcadum**: The book that you find depicts, ironically, the anthology of your own race. It explains the history of the Hags and the Changelings, and their ancient, sort of, cursed existence. How a Hag will have a changeling, will set her out into the world in order to corrupt as many people as possible. To collect as many faces as possible, before being returned to the Hags to be transformed into one of them again. Giving up their free will, sacrificing themselves towards the Coven, and then taking all the faces, all the power and refractions, and all of the essence that they have reaped, and bringing them into the central of power. This reveals to you the true purpose of the Hags birthing of Changelings, and why you even exist.
+>
+> But there is something else, hidden just beyond. Just beyond this disturbing history there is something else that is written. As it turns out, you have a brother. Just one, as all Changelings do, and his name is Tomen. And you see that there is a visage of a mirror with a twin-headed serpent.
+>
+> The Hags, in an attempt to fix misshapen souls, needed a method in which to gather souls and refract them. The Hags didn't realize this is what they were doing, that the risk behind refraction is so much more powerful, and so farther reaching than something as simple and as vain as to no longer be ugly. But, that’s what the Hags were trying to do. They were trying to get their youth back, as they had achieved immortality but not eternal youth. In their original plan they thought the way to do it would be to inject their essence into prototyped specimen and to spread it as far as possible. By sacrificing most of themselves, which is why there are few Hags left.<br>
+Essentially the Hag race, which used to be a country off the coast of Orde, in order ensure that at least some of them would have eternal youth they drew lots, and those that failed sacrificed themselves for the rest of their sisters, and it was from this massive sacrifice of Hag souls, and powers, and lives that Tomen was created.
+>
+> Now, Tomen was originally made male. Because the idea was that they wanted as many offspring as possible, and the male could spread offspring more quickly than a female could. Unfortunately something that they did not anticipate was that because all of the Hags were women, their rituals did not work on Tomen, who is male. So the very hubris of their action became their downfall, and Tomen betrayed the Hag race, and created the Mirror realm. Or discovered it, it’s not really clear which he did. He has basically used it as a place to hide the sisters he could find, before he was sealed away.
+>
+> The book says that Tomen is yet still sealed away, guarded by the serpents that once served him.
 
 
 References the hall of mirrors as a place and state of being. As a place you can go, but also a place you can think of. The book switches back and forth on usage.
@@ -156,12 +156,12 @@ The remaining tapestries are examined:
 The following excerpt came after this session concluded:
 
 > **Pebbles** 10/17/2020 at 10:01 PM EST<br>
-OH I JUST REALIZED HOW IMPORTANT WEAVERS ARE NOW<br>
-<br>
-**Pebbles** 10/17/2020 at 10:02 PM EST<br>
-Dude. The enemy is from a failed reality. Weavers. Seeds, and the other roles. Can help rebirth that other reality. and possibly revive the enemy's love<br>
-<br>
-**Jonah Three-Rivers (Saitken)** 10/17/2020 at 10:03 PM EST<br>
+OH I JUST REALIZED HOW IMPORTANT WEAVERS ARE NOW
+>
+> **Pebbles** 10/17/2020 at 10:02 PM EST<br>
+Dude. The enemy is from a failed reality. Weavers. Seeds, and the other roles. Can help rebirth that other reality. and possibly revive the enemy's love
+>
+> **Jonah Three-Rivers (Saitken)** 10/17/2020 at 10:03 PM EST<br>
 Also thanks for realizing why becoming a weaver was y'know, kind of world savingly important
 
 (arof [linking](https://discordapp.com/channels/164927564354289665/709112342213820528/767209076081164319) to the Mickey Mouse gifs Sivelle/Tiff posted that turned out to be a lore hint.)

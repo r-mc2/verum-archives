@@ -7,9 +7,9 @@ As the party continue exploring the seemingly abandonded Vega village Ahst walks
 > ***Ahst** grabs dreamcatcher and disappears.<br>
 **Arcadum**: Standing in a miasmic cloud. You breathe in a sickly sweet smell. And all around you it seems that there is nothing, yet there is something. You can feel yourself but you don't feel unwell or sick and the dreamcatcher glows warmly in your hand. As confusion starts to wear off you start to hear:<br>
 **Voices**: "Mother? Father? Help his(?), Noo!"<br>
-**Arcadum**: Slight voices, barely audible, difficult to understand. Ahst's voice echoes in on itself.<br>
-<br>
-You see people form out of the clouds. Their shapes discernable, but not so much to see any features of remembrances. You can tell the difference between a man, a woman, and a child but not much more than that. Their voices radiate outward toward you.<br>
+**Arcadum**: Slight voices, barely audible, difficult to understand. Ahst's voice echoes in on itself.
+>
+> You see people form out of the clouds. Their shapes discernable, but not so much to see any features of remembrances. You can tell the difference between a man, a woman, and a child but not much more than that. Their voices radiate outward toward you.<br>
 **Voices**: "We have to hurry, if we take any longer the ritual will fail."<br>
 **Voices**: "I don't think we should do this! We don't know if it's true!"<br>
 ***Ahst** keeps watching<br>
@@ -100,11 +100,11 @@ Returning to the murals on the wall:
 
 (Arcana check: `18`)
 
-> **Arcadum**: This is a vessel of pure energy. If it was properly harnessed you could place it within anything. Within a person to restore energy, use it to create items, fuel machines, cure the sick, who knows what else.<br>
-<br>
-The walls only describe the history of how they acquired it.<br>
-<br>
-Continuation of the Cyclops making a boat. This time you see the Cyclops figure walks in between hundreds of smaller figures that give them offerings, that the Cyclops then turns into what appears to be a depiction of the sun.<br>
+> **Arcadum**: This is a vessel of pure energy. If it was properly harnessed you could place it within anything. Within a person to restore energy, use it to create items, fuel machines, cure the sick, who knows what else.
+>
+> The walls only describe the history of how they acquired it.
+>
+> Continuation of the Cyclops making a boat. This time you see the Cyclops figure walks in between hundreds of smaller figures that give them offerings, that the Cyclops then turns into what appears to be a depiction of the sun.<br>
 The murals continue, and shows a throne that the people built for the Cyclops figure.<br>
 The offerings aren't amber, but the sun at the end could be the star vessel seen earlier.<br>
 

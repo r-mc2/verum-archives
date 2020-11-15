@@ -14,9 +14,9 @@ The group spent 2 Order on the fight to increase difficulty of the encounter, an
 **Vim**: Yes.<br>
 **Skittering Speaker**: We sense corruption. The feast begins. Take thy reward.<br>
 ***Skittering Speaker** bites Vim and crawls into his skin<br>
-**Arcadum**: You may not be quite the pretty boy anymore. The good news is phenomenal cosmic power.<br>
-<br>
-You are granted a new ability: You are granted the Skittering Tide. Once per long rest you may transform into a swarm of spiders. This form lasts for one minute.
+**Arcadum**: You may not be quite the pretty boy anymore. The good news is phenomenal cosmic power.
+>
+> You are granted a new ability: You are granted the Skittering Tide. Once per long rest you may transform into a swarm of spiders. This form lasts for one minute.
 Swarm form.
 Automatic damage to any creature who takes up your four squares, you can move in and out of small places. Damage is [3d6] poison.
 
@@ -66,9 +66,9 @@ Vim: what business do you have in fireport, if I may ask?<br>
 **???:** Of course, I don't mind sharing my story. You see, I was an acolyte to Runetheras, pretty stable in my income. I liked what I did, I showed knowledge where there was ignorance. There are so many things in this world that people just do not know, but I believe that if they did know, their lives would be so much easier. Especially when it comes to the Seven.<br>
 **Flamewrath**: The fuck are the Seven? Is that our competition?<br>
 **???**: The Seven are a… Do you not know the Seven?<br>
-**Vim**: Yes, we know the Seven. I’ll just say he’s not smoking nicotine.<br>
-<br>
-**???**: In either case, yes. I have come from the White Council, I actually tried to ascend myself there, but I was turned down. Apparently, one's merits are not what was chosen there, but rather the wealth that one has. A disappointing revelation for one who believes in hard work such as I. I tried to live with it but I couldn’t, I could not see how a council of all the best that the world has to offer required payment to get in.<br>
+**Vim**: Yes, we know the Seven. I’ll just say he’s not smoking nicotine.
+>
+> **???**: In either case, yes. I have come from the White Council, I actually tried to ascend myself there, but I was turned down. Apparently, one's merits are not what was chosen there, but rather the wealth that one has. A disappointing revelation for one who believes in hard work such as I. I tried to live with it but I couldn’t, I could not see how a council of all the best that the world has to offer required payment to get in.<br>
 **Vim**: Yes, it is truly disgusting. Merit should be all that the White Council takes.<br>
 **???**: Truth be told, I was most disappointed in the Seven. They are the mortal heroes after all, the ones that represent Hope and fairness and all of that, but when I went to their temple and asked for ascension I was snuffed and dismissed. I thought it so strange, so I had continued my research, and the things I learned about the White Council and the Seven disturbed me, and so I leave for Fireport in the hopes that I might find passage to another place.<br>
 **Flamewrath**: What specifically did you learn that made you just leave all out?<br>
@@ -85,9 +85,9 @@ Vim: what business do you have in fireport, if I may ask?<br>
 Surefour rolls a [d20+7 => 11]<br>
 Moon rolls a [d20+6 => 19]
 
-> **Arcadum**: Nidhogg continues to sleep. Angorn, however, will have a strange dream.<br>
-<br>
-Angorn, you dream of tyranny and dominance, but then you see something interrupt your wonderful dream. There is a flash of Violet light, a wrongness washes over you, as you turn you see, (which refraction do you want to see?)
+> **Arcadum**: Nidhogg continues to sleep. Angorn, however, will have a strange dream.
+>
+> Angorn, you dream of tyranny and dominance, but then you see something interrupt your wonderful dream. There is a flash of Violet light, a wrongness washes over you, as you turn you see, (which refraction do you want to see?)
 
 > **Moon (Angorn/Scrumpo)**: It's Scrumpo time, boys!
 

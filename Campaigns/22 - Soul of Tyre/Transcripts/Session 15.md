@@ -9,9 +9,9 @@ Resuming right where the party left off last session with the Guardian of the Bl
 **Guardian of the Black**:<br>
 [<img src="https://i.imgur.com/TMyaAlf.jpg" alt="Guarding of the Black Handout" height="250px" />](https://i.imgur.com/TMyaAlf.jpg)
 
-> **Arcadum**: The original guardian of that which is Nothing, before it was usurped by the Violet. For Oblivion, or Entropy, has always existed. Just as there must be Life there must be Death. These are things that Lord Death knew. And just as there is a guardian of the Lifestream there is also a guardian of the Void. Though he has been cast down by the usurping Violet.<br>
-<br>
-And in here, within the shadow of the Wheel, it has lived, waited, and watched.<br>
+> **Arcadum**: The original guardian of that which is Nothing, before it was usurped by the Violet. For Oblivion, or Entropy, has always existed. Just as there must be Life there must be Death. These are things that Lord Death knew. And just as there is a guardian of the Lifestream there is also a guardian of the Void. Though he has been cast down by the usurping Violet.
+>
+> And in here, within the shadow of the Wheel, it has lived, waited, and watched.<br>
 <br>
 It doesn't look at you like other creatures do. It just is there. It just is what it is. It can see, sense you, and you can sense it. But everytime you look at it directly it seems to dissipate and reappear elsewhere. It's voice is dissonant and difficult to understand, but understand it you do.
 
@@ -31,9 +31,9 @@ The group discusses what this means in reference to what they can ask of it.
 **Surefour (Bellanovan)**: But he was basically usurped by the Violet?<br>
 **Arcadum**: Yes. When the Traitor shattered the Wheel and broke the covenant of Mercy, the Violet light etched out, specifically, into this creature's domain and its power was stolen.<br>
 **Surefour (Bellanovan)**: With our question is it an omnipotent question, or just the knowledge he knows?<br>
-**Arcadum**: When I say he is the guardian of Memory, that is because in order for something to be the lord of nothing, it must remember everything. Because in the setup that nothing can only be understood when there is knowledge that nothing is there, or else you do not think about it at all. One cannot miss what one has never had, so nothing can become anything. So therefore nothing is a shapeless, formless, being of Memory.<br>
-<br>
-One question you get is limitless, but it will be told from his perspective. You can ask him other questions, but understand that those questions will be bound by normal rules. Also keep in mind that if you ask something of the Violet you are in a place where it will not harm you, but that knowledge is still with you, so keep that in mind.<br>
+**Arcadum**: When I say he is the guardian of Memory, that is because in order for something to be the lord of nothing, it must remember everything. Because in the setup that nothing can only be understood when there is knowledge that nothing is there, or else you do not think about it at all. One cannot miss what one has never had, so nothing can become anything. So therefore nothing is a shapeless, formless, being of Memory.
+>
+> One question you get is limitless, but it will be told from his perspective. You can ask him other questions, but understand that those questions will be bound by normal rules. Also keep in mind that if you ask something of the Violet you are in a place where it will not harm you, but that knowledge is still with you, so keep that in mind.<br>
 <br>
 How can there be creatures that know the name of the Enemy but not be destroyed? This is how. There are some places, you might call loopholes, that allow you to learn this knowledge, but you still have it and that danger is constantly there. For if you get any tainted Violet knowledge in your mind, even if it doesn't destroy or corrupt you, if you were to come under mind control someone could find it in your mind, and that's a corruption point.
 
@@ -69,9 +69,9 @@ How can there be creatures that know the name of the Enemy but not be destroyed?
 **Guy**: What was their original purpose? They seem more than a sword.<br>
 **Uni**: They are a sword, yes. But they are a symbol as well, a conduit. A conduit to my counterparts power and strength, and guardian of the weavers, the disciples of my counterparts. It is unfortunate that my own disciples have disappeared.<br>
 **Guy**: Which came first? The Enemy or the sword.<br>
-**Uni**: The sword. The Enemy is old, but the Enemy has not always existed, at least as far as we know. But the Violet has, and now it matters not, for they have become one.<br>
-<br>
-**Bellanovan**: Who used the power of the Violet before the Enemy?<br>
+**Uni**: The sword. The Enemy is old, but the Enemy has not always existed, at least as far as we know. But the Violet has, and now it matters not, for they have become one.
+>
+> **Bellanovan**: Who used the power of the Violet before the Enemy?<br>
 **Uni**: T’was the storyteller of course.<br>
 
 > **Party**: Do we know who created the towers?
@@ -83,9 +83,9 @@ How can there be creatures that know the name of the Enemy but not be destroyed?
 
 Everyone is brought to the Green tower.
 
-> **Arcadum**: The Green tower will push the Violet back, and the bottom of the tower will open, unsealed at long last. And there you will see someone walk out.<br>
-<br>
-Falcon Bladeweaver will walk out of the tower.<br>
+> **Arcadum**: The Green tower will push the Violet back, and the bottom of the tower will open, unsealed at long last. And there you will see someone walk out.
+>
+> Falcon Bladeweaver will walk out of the tower.<br>
 <br>
 He's a 6 foot tall elf, he has white hair down to his shoulders, green pupils and green cloak. You can see weapons shimmering in between the folds. He's wearing chainmail, and then he has his two longswords at his side.
 
@@ -205,9 +205,9 @@ Falcon closes his eyes and starts to focus on himself.
 **Andy (Falcon)**: So I can't Violet Death?<br>
 **Arcadum**: You cannot.<br>
 **Andy (Falcon)**: If I Violet Death, does that mean Frotul Violet Deaths?<br>
-**Arcadum**: No, you cannot Violet Death for you are one of the colors.<br>
-<br>
-Andy there is something we need to discuss. You must be careful whenever this power is used, however, because you possess the ability of Green Death.<br>
+**Arcadum**: No, you cannot Violet Death for you are one of the colors.
+>
+> Andy there is something we need to discuss. You must be careful whenever this power is used, however, because you possess the ability of Green Death.<br>
 <br>
 Now Violet Death is the power of oblivion for it has been corrupted, but Green Death does not mean that you kill. But rather for you are the guardian of life, you possess First Resurrection, which means although you cannot bring a person back from Violet Death, you can however prevent it once.<br>
 **Andy (Falcon)**: As long as I know it's about to happen?<br>
@@ -356,24 +356,24 @@ Why and how the Traitor did what they did.<br>
 
 > **Uni**: Time grows short, do you have your question?<br>
 **Hackne**: Talking about storytellers, is the Enemy against the story?<br>
-**Uni**: The story binds the world. The story is the integrity of our reality. It is governed by the Colors but it itself is ephemeral, ethereal. The Enemy seeks to chain-<br>
+**Uni**: The story binds the world. The story is the integrity of our reality. It is governed by the Colors but it itself is ephemeral, ethereal. The Enemy seeks to chain-
+>
+> **Arcadum**: There is a rumbling in the distance. The entirety of the Vault begins to shake. Outside of the Oblivion's Gate Amber Sky raises a wall of Yellow light, the Violet pierces through. It slams through the portal, and goes careening towards all of you, to silence the Nothing. All Hope fades from your eyes, for the Herald... no... The Enemy will not allow it.<br>
 <br>
-**Arcadum**: There is a rumbling in the distance. The entirety of the Vault begins to shake. Outside of the Oblivion's Gate Amber Sky raises a wall of Yellow light, the Violet pierces through. It slams through the portal, and goes careening towards all of you, to silence the Nothing. All Hope fades from your eyes, for the Herald... no... The Enemy will not allow it.<br>
-<br>
-However, you are not alone. The Violet light crashes against a dome of Green, as where once stood Falcon Bladeweaver, an Elven man, now stands the Avatar of the color of Life. Shining with Green light, an opaque Jade skin, the Avatar rises as one of the first Seven, and speaks dissent.<br>
-<br>
-***Falcon Bladeweaver** will take the hands of Silvanus, and plant them into the ground.<br>
-**Falcon**: I am Falcon Bladeweaver! Leader of the heroes of Phlan! The Left and Right Hand of Silvanus! Weaponmaster, bearer of Soulfire, Archon of Life, and the First Ranger, and a brother of Tyr’s Drop!<br>
-<br>
-**Arcadum**: With each of these truths spoken, the Green crashes against the Violet, and there the visage of a face can be seen, hearing these words.<br>
-It struggles, it twists against the Avatar of Life.<br>
-<br>
-**Falcon**: Begone, creature!<br>
+However, you are not alone. The Violet light crashes against a dome of Green, as where once stood Falcon Bladeweaver, an Elven man, now stands the Avatar of the color of Life. Shining with Green light, an opaque Jade skin, the Avatar rises as one of the first Seven, and speaks dissent.
+>
+> ***Falcon Bladeweaver** will take the hands of Silvanus, and plant them into the ground.<br>
+**Falcon**: I am Falcon Bladeweaver! Leader of the heroes of Phlan! The Left and Right Hand of Silvanus! Weaponmaster, bearer of Soulfire, Archon of Life, and the First Ranger, and a brother of Tyr’s Drop!
+>
+> **Arcadum**: With each of these truths spoken, the Green crashes against the Violet, and there the visage of a face can be seen, hearing these words.<br>
+It struggles, it twists against the Avatar of Life.
+>
+> **Falcon**: Begone, creature!<br>
 <br>
 **Arcadum**: The Green shines, and the Violet is dissipated.<br>
-In its resounding defeat the Uni will complete your question.<br>
-<br>
-**Uni**: It seeks to change a passage of the past. It seeks to correct a wrong and tainted chapter. It seeks the Twilight Station.<br>
+In its resounding defeat the Uni will complete your question.
+>
+> **Uni**: It seeks to change a passage of the past. It seeks to correct a wrong and tainted chapter. It seeks the Twilight Station.<br>
 **Falcon**: So we need to protect the Twilight Station.<br>
 
 > **Sean (Braktor)**: Are we still in danger, and is he still Super Saiyan Green?<br>

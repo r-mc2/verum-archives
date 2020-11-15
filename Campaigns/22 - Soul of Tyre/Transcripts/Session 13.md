@@ -113,17 +113,17 @@ So what do I do with it? You guys seem to be the whole Tyre people.<br>
 
 (Camera will focus the galaxy map on the planet Maltos, and the party is told not to click on it.)
 
-> **Arcadum**: As you attempt to return to the waking realm, you are instead pulled to here. You float through the Astral Sea, above the shaped remains of the shattered planet of Maltos, and you feel it behind you, you turn slowly and see the rising power of the Herald's light.<br>
-<br>
-You can feel the astral energies being pulled away from you, almost as if your attempt to return to the waking realm, by happenstance, was grabbed and twisted by this errant presence. The Violet light of the Herald grows brighter, as it grows closer to Kalkatesh.<br>
-<br>
-Right now you feel the power being drained out of you. Violet tendrils whip out from the Herald, what do you do?
+> **Arcadum**: As you attempt to return to the waking realm, you are instead pulled to here. You float through the Astral Sea, above the shaped remains of the shattered planet of Maltos, and you feel it behind you, you turn slowly and see the rising power of the Herald's light.
+>
+> You can feel the astral energies being pulled away from you, almost as if your attempt to return to the waking realm, by happenstance, was grabbed and twisted by this errant presence. The Violet light of the Herald grows brighter, as it grows closer to Kalkatesh.
+>
+> Right now you feel the power being drained out of you. Violet tendrils whip out from the Herald, what do you do?
 
 Mirage sings, and Braktor Weaves. Bela crip walks.
 
-> **Arcadum**: The three Songblades begin their dance, the Chord lends her voice, and the Weaver weaves the strands of life. The party begins to pull away, resisting, at least somewhat, the grasp of the Herald. But you will see as you retreat back to Kalkatesh, the Herald turns, shifting its weight, so to speak, and then begins to make its approach.<br>
-<br>
-And thus you return to the waking realm, with only the knowledge of your great purpose, the Trial of the Prism, and of course, the Herald growing ever closer.
+> **Arcadum**: The three Songblades begin their dance, the Chord lends her voice, and the Weaver weaves the strands of life. The party begins to pull away, resisting, at least somewhat, the grasp of the Herald. But you will see as you retreat back to Kalkatesh, the Herald turns, shifting its weight, so to speak, and then begins to make its approach.
+>
+> And thus you return to the waking realm, with only the knowledge of your great purpose, the Trial of the Prism, and of course, the Herald growing ever closer.
 
 > **Bellanovan**: Did I notice anything about that destroyed planet?<br>
 **Arcadum**: Make me a perception check. (Bellanovan rolls a `25(19)`)<br>

@@ -56,19 +56,19 @@ All gathered here, recite this rhyme<br>
 A neighbor neglected, leaves your home unprotected.<br>
 Hunger, thirst and need, spread from you and me.<br>
 Take from the bloated and the wicked, give to those in need.<br>
-This is my first rule, one of charity.<br>
-<br>
-Luck is fickle, skill is not<br>
+This is my first rule, one of charity.
+>
+> Luck is fickle, skill is not<br>
 A trail is blazed, by those that never stop<br>
 Fear not a helping hand, Luck will help you have a shot.<br>
-Perseverance prevails, the second rule I've got.<br>
-<br>
-Words are tools, use them well.<br>
+Perseverance prevails, the second rule I've got.
+>
+> Words are tools, use them well.<br>
 Instead of blade, a lie to tell.<br>
 Avoid thee then, a broken deal<br>
-My third rule is caution, your word is your seal.<br>
-<br>
-Heed thee now my final rule.<br>
+My third rule is caution, your word is your seal.
+>
+> Heed thee now my final rule.<br>
 Blades of two, my rarest tools.<br>
 Pay your debts, drink deep of life.<br>
 Some however, are paid twice.<br>

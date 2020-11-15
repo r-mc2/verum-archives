@@ -88,9 +88,9 @@ Write that down in capital bolded letters, please.<br>
 ---
 
 Moe and Bellanovan move towards the strange device Arcadum pointed out earlier and Lumina starts playing:
-> **Arcadum**: You stand in one of the holiest places, for before you lies a contraption. An apparatus, a device, whose function is unclear, and daunting to attempt to know. However, attempt to know you do. As you look upon [the engine](https://i.imgur.com/nhH9Rc8.jpg), you see that it has several different points of focus, specifically there are six points of focus. Each of them appears to be a different mirrored piece of glass, focused onto a central point, where there is an orb of mirrored glass that reflects the light in all directions. However, all around it, there is a construction of metal and material that form an almost blueprinted cage, it expands outwards, the longer you look the more that you see contained within this central orb is the Astral Sea itself. You can see it, shifting, twisting. You can see the halved pieces, the spherical separations of each of the different nebulae, and within it the central point where your home of Kalkatesh can be found.<br>
-<br>
-All around you the ethereal energy of the red light pulses out, and with each pulse it washes over you in an overwhelming light, and then you see them. Spirits yet inhabit this engine, there are seven places where the spirits are marked, and one is awoken. The central spirit, the Astral Traveler. Six other spirits yet remain to be awoken, and in front of you there lies a place where a hand may be placed.<br>
+> **Arcadum**: You stand in one of the holiest places, for before you lies a contraption. An apparatus, a device, whose function is unclear, and daunting to attempt to know. However, attempt to know you do. As you look upon [the engine](https://i.imgur.com/nhH9Rc8.jpg), you see that it has several different points of focus, specifically there are six points of focus. Each of them appears to be a different mirrored piece of glass, focused onto a central point, where there is an orb of mirrored glass that reflects the light in all directions. However, all around it, there is a construction of metal and material that form an almost blueprinted cage, it expands outwards, the longer you look the more that you see contained within this central orb is the Astral Sea itself. You can see it, shifting, twisting. You can see the halved pieces, the spherical separations of each of the different nebulae, and within it the central point where your home of Kalkatesh can be found.
+>
+> All around you the ethereal energy of the red light pulses out, and with each pulse it washes over you in an overwhelming light, and then you see them. Spirits yet inhabit this engine, there are seven places where the spirits are marked, and one is awoken. The central spirit, the Astral Traveler. Six other spirits yet remain to be awoken, and in front of you there lies a place where a hand may be placed.<br>
 <br>
 So, do I have a volunteer?
 
@@ -100,17 +100,17 @@ So, do I have a volunteer?
 
 (Moe and Bellanovan flip a coin [1d2], and Moe is selected)
 
-> **Arcadum**: Moe places his hand on the device, and it springs to life. Power flows all around you, the Astral Sea parts, the stars sparkle, light from all directions flow around Moe. The arcane energy blows him nearly back, his hat goes flying free if not for the chin straps, he holds, gripping onto the device. Holding his place, holding his hand down upon the device. Within he sees it, the central point, a star of six points, and a center. The Astral Traveler rises up ahead of him, and around her are six handmaidens.<br>
-<br>
-Moe Kowbull, through the concourse of destiny you are the first player to ever have walked to the threshold, and so it falls to you, if you wish for this strength I will name you Shaper.<br>
+> **Arcadum**: Moe places his hand on the device, and it springs to life. Power flows all around you, the Astral Sea parts, the stars sparkle, light from all directions flow around Moe. The arcane energy blows him nearly back, his hat goes flying free if not for the chin straps, he holds, gripping onto the device. Holding his place, holding his hand down upon the device. Within he sees it, the central point, a star of six points, and a center. The Astral Traveler rises up ahead of him, and around her are six handmaidens.
+>
+> Moe Kowbull, through the concourse of destiny you are the first player to ever have walked to the threshold, and so it falls to you, if you wish for this strength I will name you Shaper.<br>
 **Moe**: I accept.<br>
 **Arcadum**: So be it. There are six handmaidens, choose one of them.
 
 (Criken eventually rolls a [1d6] and it lands on Dailos)
 
-> **Arcadum**: The symbol of Dailos will be brought forth into being. She'll be summoned, an ephemeral spirit before you, and she will smile down. She will reach down and grasp you into an embrace, and both of you appear back in camp.<br>
-<br>
-However, Moe has something with him. Moe, around your neck is an amulet of Annareth, with the symbol of Dailos. You have gained the prestige class Shaper.
+> **Arcadum**: The symbol of Dailos will be brought forth into being. She'll be summoned, an ephemeral spirit before you, and she will smile down. She will reach down and grasp you into an embrace, and both of you appear back in camp.
+>
+> However, Moe has something with him. Moe, around your neck is an amulet of Annareth, with the symbol of Dailos. You have gained the prestige class Shaper.
 
 ---
 

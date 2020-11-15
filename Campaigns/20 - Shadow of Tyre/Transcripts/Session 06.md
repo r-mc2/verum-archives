@@ -9,9 +9,9 @@ Shorty after Ahst manages to close a portal and recieves the Tane Bow, because E
 ([Relevant Timestamp](https://youtu.be/PAitBR6ajiI?t=5671))
 
 > **Arcadum**: Alright Eustace. As you float through the dream realm in your unconscious state, because of the law of refraction you find yourself floating not randomly throughout the dream, but specifically... the Violet's presence in the Dream Realm attracts your floating, dreaming form and it is awakened within the dream.<br>
-You see that there is a part in the dream that appears to be an enormous whale, and within the mouth of that dream you can see a Violet Servant facing against more refracted souls. As you drift more closely, I have a very important decision that I need you to make and I need you to take some time, because what you choose to do will affect many, not just yourself.<br>
-<br>
-There are 3 things you can do:<br>
+You see that there is a part in the dream that appears to be an enormous whale, and within the mouth of that dream you can see a Violet Servant facing against more refracted souls. As you drift more closely, I have a very important decision that I need you to make and I need you to take some time, because what you choose to do will affect many, not just yourself.
+>
+> There are 3 things you can do:<br>
 A - interfere with that battle<br>
 B - In your awakened you can attempt to return to your body<br>
 C - You can attempt to do both.<br>
@@ -28,13 +28,13 @@ Eustace. Body, mind, or spirit?<br>
 **Eustace**: Spirit.<br>
 **Arcadum**: Water, earth, air, fire, shadow, or light?<br>
 **Eustace**: I'm gonna go with water.<br>
-**Arcadum**: As you begin to focus on the two points to try and aid both. The spirit of water flows in and throughout you. Your natural Genassi form, focused in on this feeling, you begin to shift. And as you do so, you suddenly find yourself walking within the Dream Realm, but in a *very special* part. Because you are a Monk, you may walk the Heavenly Path. For those that train the path of the Monk, eventually, may walk the Dream in the Waking Realm. The Heavenly Path represents two distinct points and the path between. While you are no master, you have been exposed enough to awaken the power of Ki. And thus, you begin to walk.<br>
-<br>
-With each step spectral trees grow around you. With each step shadows of white and black smoke rise up around you. With each step you walk through mists, pools of water, and beautiful vistas. And with each step you are closer to one of the many truths. And there you stand. For on the Heavenly Path one may reach one of the Covenants. And there you stand. Facing one of the great rings. The promises made by Lord Death. This one remains unbroken and within it you can sense the enormity of power that it holds.<br>
-<br>
-Your service to Babylon marks you as a lawful creature, regardless of your actual alignment, and therefore as you stand before the covenant of whose name you do not know, I give you another choice.<br>
-<br>
-As you stand there your will manifested and coalesced into a direct divergence upon one of the covenants you may choose a single streamed game. Once you have chosen them, they will receive the benefits that this covenant may provide.<br>
+**Arcadum**: As you begin to focus on the two points to try and aid both. The spirit of water flows in and throughout you. Your natural Genassi form, focused in on this feeling, you begin to shift. And as you do so, you suddenly find yourself walking within the Dream Realm, but in a *very special* part. Because you are a Monk, you may walk the Heavenly Path. For those that train the path of the Monk, eventually, may walk the Dream in the Waking Realm. The Heavenly Path represents two distinct points and the path between. While you are no master, you have been exposed enough to awaken the power of Ki. And thus, you begin to walk.
+>
+> With each step spectral trees grow around you. With each step shadows of white and black smoke rise up around you. With each step you walk through mists, pools of water, and beautiful vistas. And with each step you are closer to one of the many truths. And there you stand. For on the Heavenly Path one may reach one of the Covenants. And there you stand. Facing one of the great rings. The promises made by Lord Death. This one remains unbroken and within it you can sense the enormity of power that it holds.
+>
+> Your service to Babylon marks you as a lawful creature, regardless of your actual alignment, and therefore as you stand before the covenant of whose name you do not know, I give you another choice.
+>
+> As you stand there your will manifested and coalesced into a direct divergence upon one of the covenants you may choose a single streamed game. Once you have chosen them, they will receive the benefits that this covenant may provide.<br>
 **Eustace**: Gambler's Delight.<br>
 **Arcadum**: (So be it.)<br>
 Alright, as you choose Gambler's Delight, you will see the visages of the past scroll before you. Specifically, you see yourselves as you were before you entered the Labyrinth of Tyre. And within that singular frame, that focus of moment, the past will change.<br>
@@ -56,9 +56,9 @@ The first taste of your new abilities is made manifest as you continue to use th
 
 > **Arcadum**: The amber on that blade falls away as the weapon is unsealed.
 
-> **Arcadum**: As the amber falls away from the blade, you will see that it is somewhat shaped like a katana. There are holes within it, which is kinda strange. And as you turn in the course of battle wind blows through it and it makes a slight whistling sound.<br>
-<br>
-Now. That is complete. The Heavenly Path has been walked, the covenant has been stood, and the decisions have been made.<br>
+> **Arcadum**: As the amber falls away from the blade, you will see that it is somewhat shaped like a katana. There are holes within it, which is kinda strange. And as you turn in the course of battle wind blows through it and it makes a slight whistling sound.
+>
+> Now. That is complete. The Heavenly Path has been walked, the covenant has been stood, and the decisions have been made.<br>
 Eustace. You awaken.
 
 The battle with the Violet Cinderous Champion continues.

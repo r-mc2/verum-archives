@@ -188,9 +188,9 @@ Seventh Tower -- 7-Pointed Violet Star:<br>
 
 > **Arcadum**: The Shade finishes its tour, and it stands once more before the Indigo Tower.<br>
 It will then reveal further, that this place in which you stand can offer you many boons. All you must do is spend the power of Order.<br>
-Alright, so. Now we come to the big big. You have 14, I believe, current Order. As the Heroes of Kalkatesh have ensured.<br>
-<br>
-You can use it to do all kinds of shit. Each tower gives a different boon, somewhat based off of its color, so to speak.<br>
+Alright, so. Now we come to the big big. You have 14, I believe, current Order. As the Heroes of Kalkatesh have ensured.
+>
+> You can use it to do all kinds of shit. Each tower gives a different boon, somewhat based off of its color, so to speak.<br>
 Boons not just for you, but the entire of Kalkatesh.<br>
 If you spend less than 4, then you focus on individualistic groups, or even a single person. If it's greater than that then it automatically goes on the chart, and it affects everybody.
 
@@ -213,24 +213,24 @@ The group resolves to *finally* read the scrolls.
 
 > **Arcadum**: As you open the first scroll all of them open at the same time.<br>
 The scrolls exit their cases, and all around you are the swirling storm of knowledge, the scrolls unravel and unfurl. Violet light shines down on those that would witness them.<br>
-And this is what you get to know:<br>
-<br>
-Okay. So, congratulations you have finally read the scrolls and as such, I can reveal what I have been waiting to reveal for a long time now. And that is, for the longest time people have known that we're in the end game, but they lack the ability to see the board. Until now. As the scrolls have been opened they reveal to you the movements both cosmic and otherwise of the Enemy, and the undulating presence just barely seen, the resistance against the Enemy.<br>
-So, here's what you get to know: The Herald's movements, its current completion rate, and, finally, what powers it has access to.<br>
-<br>
-Okay. So, first you're gonna start with the actual mapping out of how this battle goes down. As the Herald gets closer and closer and closer to Kalkatesh, it will send ahead of its tendrils of its own strength. This can be Violet Prophets attempting to corrupt those that would listen. It can also be used to summon forth Violet Servants to wreak havoc and destruction, and weaken Kalkatesh. And finally, the summoning of the Violet Towers. These great towering spires, more accurately. These towering spires are shot like spears through the land of Kalkatesh acting as beacons for all that follow the Violet infusing them with strength. Summoning them directly into the waking realm. These towers must be destroyed, at all costs.<br>
+And this is what you get to know:
+>
+> Okay. So, congratulations you have finally read the scrolls and as such, I can reveal what I have been waiting to reveal for a long time now. And that is, for the longest time people have known that we're in the end game, but they lack the ability to see the board. Until now. As the scrolls have been opened they reveal to you the movements both cosmic and otherwise of the Enemy, and the undulating presence just barely seen, the resistance against the Enemy.<br>
+So, here's what you get to know: The Herald's movements, its current completion rate, and, finally, what powers it has access to.
+>
+> Okay. So, first you're gonna start with the actual mapping out of how this battle goes down. As the Herald gets closer and closer and closer to Kalkatesh, it will send ahead of its tendrils of its own strength. This can be Violet Prophets attempting to corrupt those that would listen. It can also be used to summon forth Violet Servants to wreak havoc and destruction, and weaken Kalkatesh. And finally, the summoning of the Violet Towers. These great towering spires, more accurately. These towering spires are shot like spears through the land of Kalkatesh acting as beacons for all that follow the Violet infusing them with strength. Summoning them directly into the waking realm. These towers must be destroyed, at all costs.<br>
 **Sean (Braktor)**: That is something that I am aware of, and we're planning contingencies on having those addressed. Some stream games are doing those, but there's going to be a strong living world push against the Towers as well.<br>
 **Arcadum**: The next few pieces that you get are:<br>
-The scrolls will also reveal how much longer that the Herald has in order to complete its journey, and destroy kalkatesh and the world. Right now the Herald plans to arrive in several months of both in and out of character time. Essentially this is where things get weird, cause the actual passage of these storylines are based on my own predictions of how long it'll take to get to certain points. And as such the Herald plans to arrive in *June 2021*.<br>
-<br>
-**Surefour (Bellanovan)**: So we pushed it back from that Traitor blade incident?<br>
+The scrolls will also reveal how much longer that the Herald has in order to complete its journey, and destroy kalkatesh and the world. Right now the Herald plans to arrive in several months of both in and out of character time. Essentially this is where things get weird, cause the actual passage of these storylines are based on my own predictions of how long it'll take to get to certain points. And as such the Herald plans to arrive in *June 2021*.
+>
+> **Surefour (Bellanovan)**: So we pushed it back from that Traitor blade incident?<br>
 **Arcadum**: No, that's if people are not to a certain point, it will be impossible to stop the Herald.<br>
 **Surefour (Bellanovan)**: Any%, how's it looking this iteration? Is he positive or negative.<br>
-**Arcadum**: If you must know, well, the Herald is certainly not in a good part of his "run", but it is still fairly early.<br>
-<br>
-And now the next is abilities the Herald has access to.<br>
-<br>
-The first one is:<br>
+**Arcadum**: If you must know, well, the Herald is certainly not in a good part of his "run", but it is still fairly early.
+>
+> And now the next is abilities the Herald has access to.
+>
+> The first one is:<br>
 > * **The Herald Watches** - The Herald may turn its gaze directly on to a violet servants battle. If it does so it can augment the effects of that battle depending on the unique circumstances of that battle. Gives an extra ability to the Violet servant.
 > * **Generate Servant** - Pretty straightforward.
 
@@ -238,33 +238,33 @@ The first one is:<br>
 **Arcadum**: No, you don't know the cost.<br>
 
 > * **Fate Sever** - Fate Sever is a big one. If I ever get enough Entropy, after a certain threshold has been reached, which I have already reached it. If I have enough entropy, and if any single individual in any stream game, regardless of what they are fighting; if they should become unconscious I can immediately spend Entropy, if I have enough, I can force them to make a death saving throw against Violet Death.<br>
-He has to be able to see, and if he's denied sight he won't be able to do it. But there's very few times that'll be the case.<br>
-<br>
-Scrolls also have on them secrets. You have three questions you may ask me, and I will answer.<br>
+He has to be able to see, and if he's denied sight he won't be able to do it. But there's very few times that'll be the case.
+>
+> Scrolls also have on them secrets. You have three questions you may ask me, and I will answer.<br>
 No cost, these answers are completely free, and there is only one question that you cannot ask me, and that is what the name of the Enemy is.
 
 #### The Three Unbound Questions
 
-> **Question 1**: What needs to be done to repair the broken covenant?<br>
-<br>
-**Arcadum**: This is what must be done. First, you must gather a World Seed. Second, you must face the Shattered Aeon once more, and defeat it, so that it may be made dormant then the World Seed placed within it. and third, you must expend an appropriate amount of Order to repair the covenant.<br>
+> **Question 1**: What needs to be done to repair the broken covenant?
+>
+> **Arcadum**: This is what must be done. First, you must gather a World Seed. Second, you must face the Shattered Aeon once more, and defeat it, so that it may be made dormant then the World Seed placed within it. and third, you must expend an appropriate amount of Order to repair the covenant.<br>
 **Ster (Gruff/Guy)**: Does the ziggurat have anything to do with the shattered aeon?<br>
 **Sean (Braktor)**: I don't believe there's any connection? An Aeon is basically the guardians and codifiers of law, of absolute law. They're not enemies, they're just very set in their way. But if the prism was shattered then the guardian might be corrupted.
 
-> **Question 2**: Why does Violet Death erase the memory of the deceased?<br>
-<br>
-**Arcadum**: Violet Death erases the memory of the deceased because the covenants require each other. As there is a break in the Prism so too does the ultimate exit of this world be augmented in this way. The lifestream must continuously flow, but there is a hole in which the lifestream leaks away, and the further that light gets away from that prism the darker it becomes. Violet Death is essentially the removal of life from the lifestream completely, and such a thing wilts away into nothing.<br>
-<br>
-*But it does not disappear*.<br>
-<br>
-And now, something else happens.<br>
-<br>
-You gain an additional question, but this one is not granted to you by a Violet source, but by knowledge of purest black, of darkest night. And a new presence enters the board. It is not Lord Death, for there is something else, just on the edge of existence.<br>
+> **Question 2**: Why does Violet Death erase the memory of the deceased?
+>
+> **Arcadum**: Violet Death erases the memory of the deceased because the covenants require each other. As there is a break in the Prism so too does the ultimate exit of this world be augmented in this way. The lifestream must continuously flow, but there is a hole in which the lifestream leaks away, and the further that light gets away from that prism the darker it becomes. Violet Death is essentially the removal of life from the lifestream completely, and such a thing wilts away into nothing.
+>
+*But it does not disappear*.
+>
+And now, something else happens.
+>
+> You gain an additional question, but this one is not granted to you by a Violet source, but by knowledge of purest black, of darkest night. And a new presence enters the board. It is not Lord Death, for there is something else, just on the edge of existence.<br>
 For many look to the Traitor, that which Mercy was given unbehest, of which the Prism was shattered, and make no mistake, the Enemy is a power above them all. But in that act, in that one. singular. act; who was the one who showed Mercy? Not have they been spoken of, nor mentioned. For the guardian of Memory failed in their duty and as such were forgotten by all, until now.
 
-> **Question 3**: What are the coordinates we can use to find the Traitor’s Blade?<br>
-<br>
-**Arcadum**: The Traitor's Blade is found within an oceanic rift, straight into the center of the Sickened Sea. It is surrounded by a swirling protective song of destruction and ruin, the opposite of the Song of Creation. The Chant of Oblivion holds back any that would touch it, including those that are Violet Servants. Slowly they must unravel the secrets of the chant in order to earn their masters respect and acquire the blade. There it waits.
+> **Question 3**: What are the coordinates we can use to find the Traitor’s Blade?
+>
+> **Arcadum**: The Traitor's Blade is found within an oceanic rift, straight into the center of the Sickened Sea. It is surrounded by a swirling protective song of destruction and ruin, the opposite of the Song of Creation. The Chant of Oblivion holds back any that would touch it, including those that are Violet Servants. Slowly they must unravel the secrets of the chant in order to earn their masters respect and acquire the blade. There it waits.
 
 (Ster has a revelation about this being what the Herald’s Call is)
 

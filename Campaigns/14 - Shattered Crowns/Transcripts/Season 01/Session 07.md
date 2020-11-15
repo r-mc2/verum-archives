@@ -8,9 +8,9 @@ Aired:
 
 At the end of a frozen river/stream a large, ornate pool is found and appears to have a chest beneath the surface.
 
-> **Arcadum**: You swim straight down, and when you get close enough you see that sitting atop this marble staircase is a beautiful, ornate, marble chest. It is designed in such a way as to resemble that of moonlight etched squarely across the face of the chest, and it is inlaid with sapphire. Who knows what the chest could contain, but the chest itself is undoubtedly worth money.<br>
-<br>
-Inside the chest is a crown made of moonrock, and it appears to be incomplete. You might call it an unrealized crown, a conceptual crown. Imagine a king's crown, but it’s only the thin piece at the bottom, so it’s kinda cut in half, it actually looks more like a circlet, but there are notches that would indicate that there is supposed to be more of it. But, the shard that you have with you, that you showed to the nobleman, it seems to fit this crown, although not the right piece, it’s a part of it though.
+> **Arcadum**: You swim straight down, and when you get close enough you see that sitting atop this marble staircase is a beautiful, ornate, marble chest. It is designed in such a way as to resemble that of moonlight etched squarely across the face of the chest, and it is inlaid with sapphire. Who knows what the chest could contain, but the chest itself is undoubtedly worth money.
+>
+> Inside the chest is a crown made of moonrock, and it appears to be incomplete. You might call it an unrealized crown, a conceptual crown. Imagine a king's crown, but it’s only the thin piece at the bottom, so it’s kinda cut in half, it actually looks more like a circlet, but there are notches that would indicate that there is supposed to be more of it. But, the shard that you have with you, that you showed to the nobleman, it seems to fit this crown, although not the right piece, it’s a part of it though.
 
 The group spots a massive koi fish in the water.
 

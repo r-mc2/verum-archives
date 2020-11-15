@@ -38,14 +38,14 @@ Figure will shift and turn its gaze, it is a shadow.
 **Eustace**: Can we help?<br>
 **Weaponmaster**: For you to free me you must find my body. My body is bound by a terrible spell, an awful spell.<br>
 **Eustace**: Where is it?<br>
-**Weaponmaster**: It is nearby. Follow the path to the south, there a body lies. A terrible spell traps it. I can see, I can-<br>
-<br>
-**Arcadum**: Since you have true sight, for the briefest moment, Eustace, you see something that no one has ever seen before. There is a flash of shadows, and you see them. Companions standing side by side, and this one to lead them. But you also see around them a great wheel, and on each wheel there is a marking of an iteration, and you are the sixth. This one stands at the first. As you look more closely you realize this one stands outside of the wheel.<br>
-A shadow, much like the Seven appear on manifest.<br>
-<br>
-**Weaponmaster**: Before you go, stranger, be marked. For my body is bound, and a spell that will not allow you to release it without great peril. But should you do so, please, see to it that I am brought home.<br>
-<br>
-**Arcadum**: A crystal will appear on the edge of the basin. This crystal bears the symbol of a green, living, oak leaf, and it irradiates with the power of nature.
+**Weaponmaster**: It is nearby. Follow the path to the south, there a body lies. A terrible spell traps it. I can see, I can-
+>
+> **Arcadum**: Since you have true sight, for the briefest moment, Eustace, you see something that no one has ever seen before. There is a flash of shadows, and you see them. Companions standing side by side, and this one to lead them. But you also see around them a great wheel, and on each wheel there is a marking of an iteration, and you are the sixth. This one stands at the first. As you look more closely you realize this one stands outside of the wheel.<br>
+A shadow, much like the Seven appear on manifest.
+>
+> **Weaponmaster**: Before you go, stranger, be marked. For my body is bound, and a spell that will not allow you to release it without great peril. But should you do so, please, see to it that I am brought home.
+>
+> **Arcadum**: A crystal will appear on the edge of the basin. This crystal bears the symbol of a green, living, oak leaf, and it irradiates with the power of nature.
 
 ---
 
@@ -140,15 +140,15 @@ The Twilight Station is a fortress. A fortress against evil to stand as a bastio
 
 The party now returns to the only room they have not searched. Ahst checks it for locks and traps while Moe uses his Power Word to look through the door:
 > **Arcadum**: The door is not trapped, nor is it no longer locked. As you gaze through it on the other side you will see swirling thorned, brambled, vines of great and plenty. There, in a sarcophagus of whtie vines, is bound a man.<br>
-There is no other presence in the room.<br>
-<br>
-You are able to discern that he is from the images you've been seeing, it is the Elven ranger.<br>
-<br>
-As you open the door, you walk onto hallowed ground. With each step it's like walking through a legend, or a fable. The presence before you has long since been undisturbed for countless turnings of the wheel. There the body of an Elven ranger lies resting in peaceful sleep, and yet, a yearning from the fog. A yearning to finish that which was started.<br>
+There is no other presence in the room.
+>
+> You are able to discern that he is from the images you've been seeing, it is the Elven ranger.
+>
+> As you open the door, you walk onto hallowed ground. With each step it's like walking through a legend, or a fable. The presence before you has long since been undisturbed for countless turnings of the wheel. There the body of an Elven ranger lies resting in peaceful sleep, and yet, a yearning from the fog. A yearning to finish that which was started.<br>
 ***Eustace** steps forward with the crystal.<br>
-**Arcadum**: As you raise up the crystal it will turn to dust in your hands, and move towards the body.<br>
-<br>
-Around you the voices begin to speak, softly at first, they rise as one, whispering from the edge of time. The edge of the wheel and then slowly the vines begin to give way. Slowly, the rest has ended. The petals bloom, and the sylvan prison gives way.<br>
+**Arcadum**: As you raise up the crystal it will turn to dust in your hands, and move towards the body.
+>
+> Around you the voices begin to speak, softly at first, they rise as one, whispering from the edge of time. The edge of the wheel and then slowly the vines begin to give way. Slowly, the rest has ended. The petals bloom, and the sylvan prison gives way.<br>
 As such, someone else will rise up. Spirit combined once more with the body, no longer does the First Ranger sleep. No longer is the first of The Seven bound within time. As all things have their beginnings, so too does this story, and the man that walks forward greets you with a simple smile.
 
 (Unfortunately, his original player lost internet tonight, and was not able to join us. Arcadum will do his best.)
@@ -205,9 +205,9 @@ However that does not mean that such things can not be shared, or more important
 **Falcon**: Now then, let us see what these new heroes are made of.<br>
 
 
-> **Arcadum**: As you have freed the first of the First Seven you have released a Legend into the world again. As you have done so this legend adds their strength to the heroes of Kalkatesh. The heroes of Kalkatesh gain 10 Order.<br>
-<br>
-Falcon Bladeweaver is a Trial of Legend, where you may fight one of the six original seven. You may form a party of seven from any group, and fight one of the 6 original Seven.
+> **Arcadum**: As you have freed the first of the First Seven you have released a Legend into the world again. As you have done so this legend adds their strength to the heroes of Kalkatesh. The heroes of Kalkatesh gain 10 Order.
+>
+> Falcon Bladeweaver is a Trial of Legend, where you may fight one of the six original seven. You may form a party of seven from any group, and fight one of the 6 original Seven.
 
 > **Party**: Our camp was attacked by one of his servants, and we have it on good authority they’ll attack again on the 21st.<br>
 **Falcon**: They're called servants? Hmph.<br>

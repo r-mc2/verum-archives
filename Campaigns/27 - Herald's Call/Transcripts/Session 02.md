@@ -52,15 +52,15 @@ Midas identifies it.
 > **Arcadum**: Midas I speak now to you and you alone.<br>
 The secret within the shattered star. You begin to see many different things.<br>
 As you take a closer look, slowly, a sense of foreboding eeks over you in washing waves, and then you are suddenly pulled in towards it, without your will to guide you, without the consent of your strength. You are pulled down inside, and all around you, you see the strength of the herald flow through this point, through the Shattered Star, all around you you see visions of its malignant will, and you see it scorch across the sky.<br>
-Visions of what yet is to come flash through your mind. The summoning of Violet servants, going out into the world and claiming souls, turning all into naught but ash. And then finally, the Herald reaches its destination and plummets down into the continent of Kalkatesh, wiping life from the continent in one vicious blow.<br>
-<br>
-However, make for me a Wisdom saving throw. (11 Wisdom save)<br>
+Visions of what yet is to come flash through your mind. The summoning of Violet servants, going out into the world and claiming souls, turning all into naught but ash. And then finally, the Herald reaches its destination and plummets down into the continent of Kalkatesh, wiping life from the continent in one vicious blow.
+>
+> However, make for me a Wisdom saving throw. (11 Wisdom save)<br>
 <br>
 Alright, you start to get some of your balance back, refocus, the power of the Violet light begins to even out as your Soulfire begins to burn. And for a brief moment, you can see through to the other side, something hidden through the light, and just on the other end you see the silhouette of a key. Do you reach for it?<br>
 **Midas**: Yeah, I do.<br>
-**Arcadum**: Midas. You reach toward the key, all around you power surges, should you miscalculate just for a moment your body will be torn asunder. The Violet light moves around you, like the cascade of a hurricane, but you grasp the key, you grip it tightly, and then, as quickly as it began. It ends. And the vision stops, the magic fades, and in your hand there is a key.<br>
-<br>
-**Midas**: What's the key look like?<br>
+**Arcadum**: Midas. You reach toward the key, all around you power surges, should you miscalculate just for a moment your body will be torn asunder. The Violet light moves around you, like the cascade of a hurricane, but you grasp the key, you grip it tightly, and then, as quickly as it began. It ends. And the vision stops, the magic fades, and in your hand there is a key.
+>
+> **Midas**: What's the key look like?<br>
 **Arcadum**: As you open your hand, not realizing that you had squeezed it tight, you look at your key and you see that it is a simple brass key, in the pommel there is the etching of a five-pointed star, and one section glows with a bright orange light, and four yet remain.
 
 ---

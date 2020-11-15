@@ -277,9 +277,9 @@ This blade was given to me by the greatest duelist Kalkatesh has ever known, Ilt
 Kalla'Jin says she must journey to meet with another group, not far that will be walking a similar route.
 
 All but Midas leaves the room they met Kalla'Jin in and he searches for money. He finds none, but instead finds a scroll. The scroll contains a wisp of Orange light:
-> **Arcadum**: As you reach for the scroll and grasp to pull it free, you will see that there is Orange script on the side of it. From the back of the scroll, written in an ink that only a wielder of an orange key can read is the following:<br>
-<br>
-Take pride, for you have found your path. Denote this to the one known as Jaxxon, we are the key, and we speak through forgotten things.
+> **Arcadum**: As you reach for the scroll and grasp to pull it free, you will see that there is Orange script on the side of it. From the back of the scroll, written in an ink that only a wielder of an orange key can read is the following:
+>
+> Take pride, for you have found your path. Denote this to the one known as Jaxxon, we are the key, and we speak through forgotten things.
 
 ---
 

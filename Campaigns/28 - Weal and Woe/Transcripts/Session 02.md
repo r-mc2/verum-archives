@@ -19,9 +19,9 @@ Eventually as the fight winds on the Errant Memories swap the Psychosis Demon in
 The party then moves to further inspect the buried statue.
 
 > **Arcadum**: The visage appears to be that of a man speaking, and the jaw is broken on to the ground. It seems that the entirety of the statue must be massive. It is buried beneath the earth and the scaffolding and those with excavation tools have been meticulous in their excavation.<br>
-However, whilst you are standing there you feel an uneasiness, as if every sense that you have is activated all at once. You feel as if you hear something, or see something, but there is nothing there. A firing of synapses across the body.<br>
-<br>
-As you look around at the Errant Memories the first thing you notice is that they are dolls. They are made out of porcelain and very esoteric designs with arcane sigils that you don't recognize. However, in the inside of the mask of the head of the doll there is a symbol that is transcribed and it is the symbol of the Taladoni.
+However, whilst you are standing there you feel an uneasiness, as if every sense that you have is activated all at once. You feel as if you hear something, or see something, but there is nothing there. A firing of synapses across the body.
+>
+> As you look around at the Errant Memories the first thing you notice is that they are dolls. They are made out of porcelain and very esoteric designs with arcane sigils that you don't recognize. However, in the inside of the mask of the head of the doll there is a symbol that is transcribed and it is the symbol of the Taladoni.
 
 (`20` History on the Taladoni)
 
@@ -91,18 +91,18 @@ With the mask on and on the hand Laius planeshifts again.
 
 ### Ethereal Meadhall
 
-> **Arcadum**: The mask transports you to this place. It appears to be a longhouse of some kind. There are great pillars with esoteric runes, and ethereal fire that warms the area. All around you there are butterflies with white energy floating by. Hanging from the ceiling, or floating upon the ceiling, there appear to be perfect diamond hemispherical crystals, radiating all the different colors of light. Prisms.<br>
-<br>
-The mask falls away, its purpose served. Anna yet remains unconscious, as you speak you will hear a voice.<br>
+> **Arcadum**: The mask transports you to this place. It appears to be a longhouse of some kind. There are great pillars with esoteric runes, and ethereal fire that warms the area. All around you there are butterflies with white energy floating by. Hanging from the ceiling, or floating upon the ceiling, there appear to be perfect diamond hemispherical crystals, radiating all the different colors of light. Prisms.
+>
+> The mask falls away, its purpose served. Anna yet remains unconscious, as you speak you will hear a voice.<br>
 **Unknown Voice**: Come forth, do not be afraid. It is rude to linger in doorways hahahaha.<br>
 **Laius**: Where am I?<br>
 **Unknown Voice**: You are in a place hidden, and yet, seen by all.<br>
-**Arcadum**: Seated here you see this:<br>
-<br>
-**Taladon, the Last of Maltos. The Omnitex.**<br>
-[<img src="https://cdn.discordapp.com/attachments/716723358682710118/775839679236538418/unknown.png" alt="Taladon's Handout" height="250px" />](https://cdn.discordapp.com/attachments/716723358682710118/775839679236538418/unknown.png)<br>
-<br>
-**Taladon**: I greet you, traveler.<br>
+**Arcadum**: Seated here you see this:
+>
+> **Taladon, the Last of Maltos. The Omnitex.**<br>
+[<img src="https://cdn.discordapp.com/attachments/716723358682710118/775839679236538418/unknown.png" alt="Taladon's Handout" height="250px" />](https://cdn.discordapp.com/attachments/716723358682710118/775839679236538418/unknown.png)
+>
+> **Taladon**: I greet you, traveler.<br>
 **Laius**: Why was I brought here?<br>
 **Taladon**: A curious question. Why?<br>
 There have been those that have sought the question *why* for most of their lives. And yet for each *why* closed another opened. But enough of philosophy. You are here because the msaks brought you to me.<br>
@@ -125,9 +125,9 @@ And so, as Life began to grant, and to what the Viaken call Yggdrasil, the Lifes
 **Party**: Who was the Traitor?<br>
 **Taladon**: That is a name that few know,and none that know that will ever tell you. Do not seek its name, know only that it exists.<br>
 **Lily**: What do you need for us to do?<br>
-**Taladon**: I will never ask of you, for you are yet young, untested. But your audacity, your courage, is something truly marvelous. There is prudence among you. There is good judgement, and there is just enough of that mortal.. that mortal, uh, how should I put this, hubris. That you may succeed where so many others have failed.<br>
-<br>
-There are forces beyond your understanding that move just beyond your sight, and there are others like you, selected for the great testing at the crossroads that is yet to come. For our world is on its sixth iteration, and should we fail again, the seventh will be our doom.<br>
+**Taladon**: I will never ask of you, for you are yet young, untested. But your audacity, your courage, is something truly marvelous. There is prudence among you. There is good judgement, and there is just enough of that mortal.. that mortal, uh, how should I put this, hubris. That you may succeed where so many others have failed.
+>
+> There are forces beyond your understanding that move just beyond your sight, and there are others like you, selected for the great testing at the crossroads that is yet to come. For our world is on its sixth iteration, and should we fail again, the seventh will be our doom.<br>
 <br>
 There is a lot to deal with, but for now know that you are amongst friends. Feast, rest, within my domain, for you have earned it. And curious still, you have brought me an Ananthem.<br>
 **Party**: The ruby!<br>
@@ -173,9 +173,9 @@ Know this. My people are knowledgeable of the cost of power. What it means to se
 **Taladon**: Of course, archons, you will need these.<br>
 **Arcadum**: He will offer you all circlets to wear upon your heads.<br>
 These are not only magical items, but they represent your rank as an Archon, as a servant directly to one of the Taladonic lords, and it will allow you to speak with him.<br>
-**Taladon**: Listen well, with your newfound strength you shall attract the attention of the Enemy. A being that stands against us all, and the purpose, I suspect, the Ananthem was recreated. I have done what I can to predict the Enemy's movements, now it seeks the Traitor's Blade. It cannot be allowed to happen, but we are not in a position to stop it. There are those that search the labyrinth, and those that search the stones, and those yet that serve one of the many orders.<br>
-<br>
-There is a place that I must send you, a place that has been overrun. A place that is broken. I must send you to my towers that yet still remain and there we must gather what we can and search them carefully. For if we are able to uncover the prismatic gate, I may yet see my home again, and there the weapons we need to face the Enemy.<br>
+**Taladon**: Listen well, with your newfound strength you shall attract the attention of the Enemy. A being that stands against us all, and the purpose, I suspect, the Ananthem was recreated. I have done what I can to predict the Enemy's movements, now it seeks the Traitor's Blade. It cannot be allowed to happen, but we are not in a position to stop it. There are those that search the labyrinth, and those that search the stones, and those yet that serve one of the many orders.
+>
+> There is a place that I must send you, a place that has been overrun. A place that is broken. I must send you to my towers that yet still remain and there we must gather what we can and search them carefully. For if we are able to uncover the prismatic gate, I may yet see my home again, and there the weapons we need to face the Enemy.<br>
 <br>
 **Party**: What do these circlets do?<br>
 **Taladon**: They will grant you clarity when battle pumps through your mind. They will also manifest themselves according to your own essence the more you use them, and the longer that they are attuned to you. They are made out of Archonici stone. They are very rare, do not lose them.<br>

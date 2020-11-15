@@ -17,11 +17,11 @@ Replenished during long rest.
 
 Mirage visits the tree and places her hand upon it:
 > **Arcadum**: As you get closer to the tree you can feel its connection to the great wheel of the lifestream. It flows directly through each finger as you place your palm against it. It is like a heartbeat, it is like a vein of life.<br>
-It is through this that you are able to feel the different parts of Tyre's labyrinth.<br>
-<br>
-Make a Nature check, Mirage. `13(11)`<br>
-<br>
-As you place your hand upon this tree you can feel its different pieces and sections within the labyrinth. Specifically there are five pieces of the tree that can be accessed.<br>
+It is through this that you are able to feel the different parts of Tyre's labyrinth.
+>
+> Make a Nature check, Mirage. `13(11)`
+>
+> As you place your hand upon this tree you can feel its different pieces and sections within the labyrinth. Specifically there are five pieces of the tree that can be accessed.<br>
 Here's what you know: There is a place of serenity, suffering, heat, silence, and death.<br>
 **Party**: Are we in one of those areas right now?<br>
 **Arcadum**: You are not.<br>
@@ -129,17 +129,17 @@ As the final words are spoken the Violet light is gone.
 > **Arcadum**: To be clear, you're going to make saves as I make these stories, Toot. And whenever you fail enough Hiz will stop, he will not risk your life. There is no detriment to these saves.<br>
 Since you have asked to know why there must always be a Traitor, then to explain that.
 
-> **Hizigori**: For you to understand why there must always be a Traitor, then you must understand what the betrayal is, and for you to understand that you must learn the truth of the nature of this world. Indeed, you must learn of the Prism.<br>
-<br>
-In that which began all things know, at first there was Death, and he was alone. Lamenting in the sorrow of the infinite and the empty. So from there did spring Life, and from Life, Death grew conscious of what it was. And as Life grew, Death realized how fragile it was, and never could Death hold its friend, walk beside its child. But Death knew to keep it safe that promises must be made, and so formed the Seven Covenants. The Seven Promises, the Seven Corners, the Seven Points, the Seven Colors, the Prism that shielded the world, all worlds, from what lies beyond. And from there, there was peace, prosperity. But such is a curious thing, that the winds of change begin with the smallest breeze.<br>
-<br>
-The Prism is comprised of seven colors.
+> **Hizigori**: For you to understand why there must always be a Traitor, then you must understand what the betrayal is, and for you to understand that you must learn the truth of the nature of this world. Indeed, you must learn of the Prism.
+>
+> In that which began all things know, at first there was Death, and he was alone. Lamenting in the sorrow of the infinite and the empty. So from there did spring Life, and from Life, Death grew conscious of what it was. And as Life grew, Death realized how fragile it was, and never could Death hold its friend, walk beside its child. But Death knew to keep it safe that promises must be made, and so formed the Seven Covenants. The Seven Promises, the Seven Corners, the Seven Points, the Seven Colors, the Prism that shielded the world, all worlds, from what lies beyond. And from there, there was peace, prosperity. But such is a curious thing, that the winds of change begin with the smallest breeze.
+>
+> The Prism is comprised of seven colors.
 
 (First Wisdom saving throw, `19(13)`)
 
-> **Hizigori**: Each one represents a covenant. Each one represents a truth, a promise, and all of them represent the eternity promised to Life by Lord Death. However, such things are difficult and Death is not omnipotent. Nothing is. And so, eventually an anomaly occurred, something that no being expected, or foresaw, and that was the Enemy.<br>
-<br>
-For within the Prism there are Seven duties, Seven purposes, seven Covenants. They are the promises of Lord Death, and they are the laws of this very world. The Covenants are Life, Time, Wisdom, Ambition, Dream, Death, and the shattered one, the broken covenant. It is in the broken covenant where the traitor emerged. And within the Prism, these covenants had their own guardians, you could say.<br>
+> **Hizigori**: Each one represents a covenant. Each one represents a truth, a promise, and all of them represent the eternity promised to Life by Lord Death. However, such things are difficult and Death is not omnipotent. Nothing is. And so, eventually an anomaly occurred, something that no being expected, or foresaw, and that was the Enemy.
+>
+> For within the Prism there are Seven duties, Seven purposes, seven Covenants. They are the promises of Lord Death, and they are the laws of this very world. The Covenants are Life, Time, Wisdom, Ambition, Dream, Death, and the shattered one, the broken covenant. It is in the broken covenant where the traitor emerged. And within the Prism, these covenants had their own guardians, you could say.<br>
 For Life, it was Green that took upon it a shape of three points.<br>
 For Time, it was Yellow, or Amber, as it's called, and from that four points took their shape.<br>
 Wisdom took six points upon it and claimed the color Red.<br>
@@ -167,9 +167,9 @@ But it was not the covenant of Time that allowed the betrayal, but rather the co
 
 (Third saving throw: `24+4+2=30`)
 
-> **Arcadum**: The dragon's words begin to weigh down on Toot and all those present, you will all be blown backwards, nearly off of your feet, but you will find your balance and hold firm. The Labyrinth will begin to shake, and shudder. Toots eye begins to glow brighter, and brighter, and brighter, until it shifts from Violet to Red.<br>
-<br>
-Toot, your eye has Prism shifted. Now you no longer see through the Enemy's eyes, and the Enemy no longer sees through your eyes. But the Traveler now sees through your eyes, and you see through the Traveler's eyes.<br>
+> **Arcadum**: The dragon's words begin to weigh down on Toot and all those present, you will all be blown backwards, nearly off of your feet, but you will find your balance and hold firm. The Labyrinth will begin to shake, and shudder. Toots eye begins to glow brighter, and brighter, and brighter, until it shifts from Violet to Red.
+>
+> Toot, your eye has Prism shifted. Now you no longer see through the Enemy's eyes, and the Enemy no longer sees through your eyes. But the Traveler now sees through your eyes, and you see through the Traveler's eyes.<br>
 You feel as if anymore pressure, Any. More. pressure would shatter you.<br>
 The words of the dragon fall away, as the information you receive is from the memory of the Traveler herself, for now you see as she does.<br>
 
@@ -179,19 +179,20 @@ The words of the dragon fall away, as the information you receive is from the me
 ***Toot** will turn to Ahst, and just smiles.
 
 > **Arcadum**: Toot this is what you see:<br>
-You see the glowing Red Star, you see the expanse of the Astral Sea, and on a small, simple, stool, just in the middle of the Astral Sea on a small rock, you see yourself sitting. Sadly counting the days as they pass. Suddenly you look in at yourself, you sense that you are seeing yourself, and you feel a smile cross your face. Your hand will go up before your face, so that you can see it, and you will give yourself a reassuring gesture, specifically the Okay symbol, and then you will see yourself point, and with that your vision zooms forward as you walk through the astral sea at mind numbing blazing speeds, speeds that are impossible for any except you. You are the Astral Traveler, and you stand before the Twilight Station.<br>
-<br>
-However, as you walk through the Twilight Station you begin to see pieces, bits and pieces of it reform, like a reverie in your mind. As you reminisce about what it once was, you see the old dilapidated buildings left over upon the isle shift back to what they were. A pleasant village, a simple place. You smiled as you stood in the garden, you watched the sun rise over the horizon. The wind kissed your face, and you were happy.<br>
+You see the glowing Red Star, you see the expanse of the Astral Sea, and on a small, simple, stool, just in the middle of the Astral Sea on a small rock, you see yourself sitting. Sadly counting the days as they pass. Suddenly you look in at yourself, you sense that you are seeing yourself, and you feel a smile cross your face. Your hand will go up before your face, so that you can see it, and you will give yourself a reassuring gesture, specifically the Okay symbol, and then you will see yourself point, and with that your vision zooms forward as you walk through the astral sea at mind numbing blazing speeds, speeds that are impossible for any except you. You are the Astral Traveler, and you stand before the Twilight Station.
+>
+> However, as you walk through the Twilight Station you begin to see pieces, bits and pieces of it reform, like a reverie in your mind. As you reminisce about what it once was, you see the old dilapidated buildings left over upon the isle shift back to what they were. A pleasant village, a simple place. You smiled as you stood in the garden, you watched the sun rise over the horizon. The wind kissed your face, and you were happy.<br>
 The memories fade, however, as you look at what you've become. What even is the measure of being human anymore, what even is the truth of it? These are words, questions in which you have no answer, no matter how much Wisdom you gather.<br>
-You gaze up, then. Your Astral Sight revealing so much more to you than any other. Your vision zooms and twists upon the Astral Sea, until you see it. The Herald in all of its terrible life, you think of the heroes of Kalkatesh, you think of their actions. Their recent victory has gathered them much Order, you can feel its power surging through you. Perhaps it will be enough this time, perhaps it wouldn't. You pull up your sleeve, revealing a tattoo upon your wrist, you see the Seven-pointed Star, and you see that only two notches remain.<br>
-<br>
-You lift yourself up from the Twilight Station, and you travel to the other points, where secrets are hidden.<br>
-And since you have made that save, you get the next one.<br>
-<br>
-You travel to a world that is wracked with ruin, buildings float in errant gravitational pulls, ones you easily circumvent and dance upon the edge of. Here you see the hubris of knowledge, and the thirst for power. The homeworld of Taladon, and the inception of the craft of the Taladoni mages.<br>
-<br>You stand within Maltos.<br>
-<br>
-You walk through its shattered streets, empty and lifeless. You walk within its cracked earth, to the core, the great facility meant to use the eternal power of Maltos to fuel its many machinations. Now it is cold and lifeless.<br>
+You gaze up, then. Your Astral Sight revealing so much more to you than any other. Your vision zooms and twists upon the Astral Sea, until you see it. The Herald in all of its terrible life, you think of the heroes of Kalkatesh, you think of their actions. Their recent victory has gathered them much Order, you can feel its power surging through you. Perhaps it will be enough this time, perhaps it wouldn't. You pull up your sleeve, revealing a tattoo upon your wrist, you see the Seven-pointed Star, and you see that only two notches remain.
+>
+> You lift yourself up from the Twilight Station, and you travel to the other points, where secrets are hidden.<br>
+And since you have made that save, you get the next one.
+>
+> You travel to a world that is wracked with ruin, buildings float in errant gravitational pulls, ones you easily circumvent and dance upon the edge of. Here you see the hubris of knowledge, and the thirst for power. The homeworld of Taladon, and the inception of the craft of the Taladoni mages.
+>
+> You stand within Maltos.
+>
+> You walk through its shattered streets, empty and lifeless. You walk within its cracked earth, to the core, the great facility meant to use the eternal power of Maltos to fuel its many machinations. Now it is cold and lifeless.<br>
 And there within its center you float. You look with your eyes, soaking in every detail, as Toot memorizes the arcane sigils upon the walls. Slowly you check the walls again to make sure that which watches through your eyes can read it. You lift yourself up from Maltos, for there are but other secrets.
 
 > **Arcadum**: Toot, I need another save.
