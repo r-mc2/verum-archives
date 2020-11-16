@@ -12,13 +12,13 @@ Below you'll find some helpful advice and general standards we try to adhere to 
 
 Since this is a Git repository and not everyone has the knowledge of using Git some changes will most easily be done by going to the particular file you wish to edit, opening it up in the browser here, and clicking the little pencil icon in the top-right of the bar:
 
-(image of edit button here)
+<img src="https://imgur.com/icvGhV2.png" alt="File edit pencil icon button" width="450px"/>
 
 This will open up the markdown editor live on the page and you can make your changes, additions, and edits.
 
 When you're done go down to the bottom of the page, give a title to the changes you made and any description you can give about what changed. Then choose to submit your changes as a new branch and pull request:
 
-(submit picture goes here)
+<img src="https://imgur.com/j2vqbWQ.png" alt="Submitting changes to a file in the browser-based markdown editor" />
 
 Do not ever choose to "commit directly to the `master` branch", this has the problem of potentially overwriting files when you don't mean to.
 

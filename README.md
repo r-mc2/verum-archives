@@ -26,7 +26,7 @@ For the most part, everything in this archive is written in wiki-style markdown 
 
 If you don't feel entirely confident in working with markdown like this feel free to check out StackEdit's markdown browser-based editor that contains some of the more familiar styling helper buttons:
 
-(image of buttons here)
+<img src="https://imgur.com/vak1q8n.png" alt="Styling buttons on StackEdit" width="400px" />
 
 * [StackEdit Markdown Editor](https://stackedit.io/app)
 
