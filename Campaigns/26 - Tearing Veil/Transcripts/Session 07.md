@@ -60,7 +60,7 @@ Wisp: She thinks that the circus is not an ordinary circus and indeed has gotten
 **Wisp**: This is quite lovely. What is it?<br>
 **Kalla'Jin**: It is a special blend that is made within the Northern Wisted Isles. It is soothing. It dulls pain.<br>
 Now then. I suppose that use of circus might have perhaps a some inclination. But what of resources? How much would this cost? Surely if I were to provide Inquisitors for this performance, where would you perform? Have you the permission to perform from the nobility? Or do you intend to do this in taverns?<br>
-**Wisp**: We will start in taverns and she would suggest that that is perhaps one of the best places to begin. In taverns we can disover and talk to the ture nature of the people and after that the nobles would recognize us by virtue of that popularity. Would you agree?<br>
+**Wisp**: We will start in taverns and she would suggest that that is perhaps one of the best places to begin. In taverns we can discover and talk to the true nature of the people and after that the nobles would recognize us by virtue of that popularity. Would you agree?<br>
 **Kalla'Jin**: I would only agree if you were that good (*chuckles*)<br>
 
 (Perception check `10(8)`)
@@ -69,7 +69,7 @@ Now then. I suppose that use of circus might have perhaps a some inclination. Bu
 
 (Religion check `21(20)`)
 
-> **Arcadum**: Even though you were only able to see a brief image of it, you were able to rcoginze the points of the 7-pointed star of The Seven. A glowing scar placed directly upon her body, marking her as a follower or perhaps something more.
+> **Arcadum**: Even though you were only able to see a brief image of it, you were able to recoginze the points of the 7-pointed star of The Seven. A glowing scar placed directly upon her body, marking her as a follower or perhaps something more.
 
 > **Kalla'Jin**: Normally, were this just a few years ago I would have scoffed at such an offer, but my recent escapades have taught me to be more understanding of those that make their living amongst the dirt and trill. Especially those that gamble...<br>
 So, therefore fine. Let's just assume for a moment that your circus is of appropriate skill and entertainment that it can be spread as widely as you infer. Well, if that is the case, then what is your proposal of changing the vissage of the Inquisition? You would have them dress as actors, yes? But is it not the intention of actors to act as something else? How would they know?<br>
@@ -95,7 +95,7 @@ And so we would start small, we would see the impact, and then we would meet aga
 ***Kalla'Jin** pulls back the mask of the assassin and holds it up.<br>
 **Kalla'Jin**: As I suspected. It seems they seek to silence me. Please remain seated. Your filled-mouth demeanor depicts me you are not one here to kill me. However, your presence whilst this individual attacks me is most... inconvenient for you.<br>
 I am going to infer my magics upon you now. Do not resist, if you have nothing to hide.<br>
-**Wisp**: She has told you the truth to the best of her ability.
+**Wisp**: She has told you the truth to the best of her ability.<br>
 ***Wisp** stays seated.
 
 > **Arcadum**: Kalla'Jin will place her hand upon your head and will summon forth one of her many blessed, divine gifts. You will feel your recent memories bubble to the front. And then she will stop.<br>
@@ -106,14 +106,14 @@ Alright, decent chance, you did well. But now it's up to the die.
 > **Arcadum**: As she begins to scan through your memories she will stop as the image of Zacharius appears. Specifically your conversation with him. She will step back.
 
 > **Kalla'Jin**: (*chuckles*) How serendipitous this world can truly be. You did not say that you were allied with Zacharius. Tell me. What is he up to?<br>
-**Wisp**: Ah, well, we met him in a forest some time ago. He was traveling. He came to tell us the story of The Seven.
-***Wisp** subtlely nods towards the glowing seven-pointed star on Kalla'Jin's body
+**Wisp**: Ah, well, we met him in a forest some time ago. He was traveling. He came to tell us the story of The Seven.<br>
+***Wisp** subtlely nods towards the glowing seven-pointed star on Kalla'Jin's body<br>
 **Kalla'Jin**: Strange this world can be with its crossings of storied weaves, I suppose. So you have met Zacharius? Intersting indeed. Tell me. What is it that you know of our fight?<br>
 **Wisp**: She knows a great evil looms in the sky. She has learned of it quite recently. She knows that souls in this world are more complicated, but perhaps she herself has no such soul. Or she believes the word Master Zacharius refered to was Refraction. Though, some of the Unwise Six do have these. They echo through eternity in a way that she does not fully understand.<br>
 **Kalla'Jin**: There are refracted souls amongst your order!?<br>
 **Wisp**: As she understands it to be, but she must confess, Master Inquisitor, that she knows very little about this.<br>
 **Kalla'Jin**: Take me to them.<br>
-**Wisp**: Presently?<br>
+**Wisp**: Presently?
 
 (Group has a bit of a stress relieving reaction to the situation so far)
 
@@ -140,7 +140,7 @@ The party meets with Kalla'Jin out on the docks:
 ***Wisp** takes a flier from Flamewrath and shows it to Kalla'Jin<br>
 **Wisp**: This is our marketing department over there. His name is Flamewrath. Isn't it lovely?<br>
 **Flamewrath**: (*awkwardly*) ...yes.<br>
-***Kalla'Jin** looks at the flier and back up at the party.
+***Kalla'Jin** looks at the flier and back up at the party.<br>
 **Kalla'Jin**: Tell me, Astarothian, what brings you to Fireport?<br>
 **Angorn**: Oh, you know. A little bit of this and a little bit of that.<br>
 **Kalla'Jin**: So, this one has informed me of manythings. Circus, what you could do with, and then she told me one of you, or more than one of you possess Refracted souls. Is this true?<br>
@@ -170,7 +170,7 @@ The party meets with Kalla'Jin out on the docks:
 **Nidhogg**: Perhaps you could meet Zacharius again if you want?<br>
 **Wisp**: She has a lovely office, however, it might be a little dirty right now.<br>
 **Kalla'Jin**: That will be a fine place. Come. Follow me.<br>
-And Bennex...
+And Bennex...<br>
 **Bennex**: Uhh... yes m'lady?<br>
 **Kalla'Jin**: I seem to recall that you have yet to pay back that recompense to that couple whose chickens you stole. Yes?<br>
 **Bennex**: Uhh, well, you know, I umm, am still getting the money.<br>
@@ -240,7 +240,7 @@ But I cannot help but wonder, what is it exactly that you require it for?<br>
 > **Kalla'Jin**: There is enough serendipity that perhaps such a statement is not entirely impossible. But why do you seek this document? Is it for someone else? Were you told by a vision?<br>
 **Angorn**: Our initial plan was to retrieve that symbol and head to Crestfall and to use that to expose the Magistrate. I'm not sure how, where, or who even we would have shown it to. Merely that that is what Zach told us to retrieve.<br>
 **Kalla'Jin**: Then it would seem that serendipity it is, because this evidence is the bit that I have that leads to me to the magistrate suspicions. So be it, it would seem that things are going more swimmingly than I'd originally expected.<br>
-***Kalla'Jin** hands the letter to Angorn.
+***Kalla'Jin** hands the letter to Angorn.<br>
 **Angorn**: Who's the dead guy? What happened in here?<br>
 **Wisp**: Yea, that was really weird.<br>
 **Nidhogg**: Who cares?! It's just a dead body.<br>
