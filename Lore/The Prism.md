@@ -4,9 +4,9 @@ At the core of most of the lore in Verum, The Prism and the various colors of th
 
 ## The Covenants & Their Color
 
-Each iteration can be connected to a specific covenant and color. Each color represents a specific idea.
+Each iteration can be connected to a specific covenant and color. Each color represents a specific idea and each color has an Avatar represented by one of the Original Seven.
 
-| Iteration | Covenant | Color             | Original Seven                                                             |
+| Iteration | Covenant | Color             | Original Seven (Avatar of the Color)                                       |
 | --------- | -------- | ----------------- | -------------------------------------------------------------------------- |
 | First     | Life     | Red (Wisdom)      | Frotul, Dwarven cleric - Same player as Falcon                             |
 | Second    | Time     | Orange (Ambition) | Scorter Firefist, Heavily armored Elven man - Same player as Saphira       |

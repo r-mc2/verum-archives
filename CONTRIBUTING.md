@@ -178,3 +178,37 @@ New text after a horizontal line is placed to help visually separate it.
 > New text after a horizontal line is placed to help visually separate it.
 
 These are often good to use show that, for example, the party is still in a particular location, but perhaps some time has passed between to portions. Or the party has moved location but are still basically at the same location mentioned in the heading.
+
+### Pictures & Images
+
+As they say, a picture is worth a thousand words. So sometimes it is worth adding a picture to help with whatever entry you're working on. Maptools screenshot of the room? Token art for an NPC? Or even a screenshot from Discord/Twitch chat to be a stand-in until a transcript can be made for it? Regardless of the reason there's a basic way to add them. The HTML `<img />` tag.
+
+But don't forget to add in the `alt` and `height` tags.
+
+```md
+[<img src="https://i.redd.it/nyb85si7yuw51.jpg" alt="Fanart of Zack from Strange Roads by squidspoken" height="250px" />](https://i.redd.it/nyb85si7yuw51.jpg)
+```
+
+[<img src="https://i.redd.it/nyb85si7yuw51.jpg" alt="Fanart of Zack from Strange Roads by squidspoken" height="250px" />](https://i.redd.it/nyb85si7yuw51.jpg)
+
+So what's going on with the link above? Why is it there twice and what's with the extra information?
+
+Well, first the `alt` tags are great for if a picture is broken or missing for whatever reason some text will show up in its place:
+```md
+#e.g.
+[<img src="https://i.reddit.com/nyb85si7y--w51.jpg" alt="Fanart of Zack from Strange Roads by squidspoken" height="250px" />](https://i.redd.it/nyb85si7yuw51.jpg)
+```
+[<img src="https://i.reddit.com/nyb85si7y--w51.jpg" alt="Fanart of Zack from Strange Roads by squidspoken" height="250px" />](https://i.redd.it/nyb85si7yuw51.jpg)
+
+Note the text in the `alt` tag shows up now? This can happen for a number of reasons. For example it could be because the link to the picture is either wrong or the site removed where the picture came from.
+
+Also, for accessibility reasons the `alt` tag is great for those who need to view a webpage with a screen reader. Their screen reader software can pick up the text in the `alt` tag and read out the description of the picture to them.
+
+Second, the `height` tag is there to control how big the picture shows up on the page. A picture is great to see, but we don't want it taking up the whole screen. The `250px` (250 pixels) is not a hard and fast rule. Feel free to change this to fit whatever you think is best for the document you're working on.
+
+And lastly, the formatting you see above is to help turn the picture, a thumbnail if you will, into an actual clickable link. It's just combining two different forms of markdown syntax.
+
+The basic markdown link: `[some text](http://example.com)` --> [some text](http://example.com)<br>
+And replacing `some text` with the `<img />` tag instead.
+
+So why do this? Because of how we shrink the picture to fit the page it's still nice to be able to see the whole thing. So now anyone can click on the picture and go to the original, full-sized picture. (Go ahead, click that pic of Zack to see it in its full glory 😉)

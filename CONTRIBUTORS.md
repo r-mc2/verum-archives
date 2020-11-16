@@ -18,3 +18,20 @@ Curators of the notes. Librarians of the Great Library.
 
 * 
 * Nocturne
+
+## Original Sources
+
+Much of this information was original from the disparate sources retained by the community. You can find them linked below:
+
+* [SpeedJump's Notes](https://docs.google.com/document/d/1Ydbt5LxfSplOSBvMVzamLvh1BsguXlFV5c6MqnMNelA)
+* [Verum Conspiracies](https://docs.google.com/document/d/1-epUNlEftVWONjnp5rg2xoPqLlRvsHS9DM5t8VYwzgY)
+* [Morgeta's Boss & Encounter Summaries](https://docs.google.com/document/d/1IZ1jApY9nDMBD5yPV38H3JkKrP8G0JsQSJzGziArKvA)
+* [Disguised's Notes](https://docs.google.com/document/d/1Dn_wQ75feiQDqrb6vyceaHjBZGhaOkiU620WfbvaLHg)
+* [Idio's Notes on Rivitah-->Derok Drampf](https://docs.google.com/document/d/1Hxpg5dBHQWF-8hL_5HUgaj3EYeN8Dby4IgEPL9zFQqo)
+
+### Reddit Threads
+
+After the Conspiracies document began to become cluttered many in the community began posting directly to [Reddit](https://reddit.com/r/cadum). Below are the threads sourced for the information in this Archive:
+
+* [Full Campaign List](https://reddit.com/r/cadum/comments/hmvvt2/full_campaign_list/) by [Gaelic_Flame](https://old.reddit.com/user/Gaelic_Flame)
+* [Summaries For Lost Episodes](https://www.reddit.com/r/cadum/comments/hpj1k9/summaries_and_sources_for_lost_episodes_and/) by [AstralCortex](https://www.reddit.com/user/astralCortex/)
