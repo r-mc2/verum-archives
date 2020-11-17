@@ -246,7 +246,7 @@ Important Notes:
 Basic Description: Inu’s Realm, home of the Weavers, the guardians of the lifestream<br>
 Tech Level: 0<br>
 Travel: ???<br>
-Atmosphere: Normal
+Atmosphere: Normal<br>
 Time Dialation: ???
 
 Known Races/Factions:
@@ -284,7 +284,7 @@ Important Notes:
 Basic Description: The birthplace of all dragon kind. The war between good and evil still rages here. Humanity has disappeared, destroyed by the dragons’ fighting.<br>
 Tech Level: ???<br>
 Travel: ???<br>
-Atmosphere: Normal (and has a lot of dragons flying in it)
+Atmosphere: Normal (and has a lot of dragons flying in it)<br>
 Time Dialation: ???
 
 Known Races/Factions:

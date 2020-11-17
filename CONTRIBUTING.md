@@ -212,3 +212,23 @@ The basic markdown link: `[some text](http://example.com)` --> [some text](http:
 And replacing `some text` with the `<img />` tag instead.
 
 So why do this? Because of how we shrink the picture to fit the page it's still nice to be able to see the whole thing. So now anyone can click on the picture and go to the original, full-sized picture. (Go ahead, click that pic of Zack to see it in its full glory 😉)
+
+### Spelling & Words You're Unsure About
+
+Sometimes it's hard to know how a particular word is spelt when it comes to a fantasy setting and some of them are just made up. Or sometimes it's hard to hear what exactly was spoken given microphones and Discord's audio codecs.
+
+For those times when you're not sure exactly how to spell something it's perfectly fine to include your best guess. Just denote it's a guess. That way if someone comes along later and knows the right way to spell it we know what to look out for:
+
+```md
+> **Arcadum**: When you're traveling to Rentoss(sp?) you'll find yourself looking out up on the Astral Sea
+```
+Above we're saying we're not really sure about the spelling of `Rentoss` but it's close enough phonetically for now.
+
+---
+
+For when you aren't entirely sure what word someone said because it was garbled or someone spoke over them:
+
+```md
+> **Braktor**: Hey, Azolon, what happens if we travel to the horrifying(?) depths of the world to find some answers?
+```
+Above, here, we're saying that we're not entirely sure if the person said `horrifying` or `harrowing` or something else entirely but it sounded like the "horrifying".

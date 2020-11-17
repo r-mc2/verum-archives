@@ -60,7 +60,11 @@ The Seven shattered the mirror, but within a mirror reflections remain. Silence 
 > **Moe**: And uh… who might this creature, this enemy, be?<br>
 **Arcadum**: The cyclops will look upon a simple question asked by Moe, and as he speaks the words the room becomes heavy, very heavy. While the rest of you might react to this in a very unsettled manner, the Cyclops looks around more in wonder as this question almost seems to manifest itself, and with it the presence of others.<br>
 
+### Sevenic Speech
+
 (The party questions whether the wrong thing was asked, before Lumina begins to play)
+
+(Session [timestamp](https://youtu.be/4Xxon7df1HY?t=2020))
 
 > **Arcadum**: The question lingers within the air, manifests heavy, almost as if a spiritual pressure is pressing down all around you. The fire of the braziers and the amber scones begin to shift and change, the scones rattling. The cyclops looks around in wonder as bit by bit on the edges of sight shadows in the light begin to harden and form. Not shadows in the sense of the Fell, but shadows of memory. Like waking from a dream, the last vestiges, the last touches of thought. Slow but surely, Moe’s question hangs in the air, and then you hear it, the same question repeated, but not with Moe’s voice, but with dozens, upon dozens, upon dozens of others. They start softly, and then slowly begin to build. Louder and louder they rise. You begin to see it, the pieces of stone that form the parthenon in which you stand begin to shift away as vistas, vistas of different places reflected through a cracked mirror.
 >
@@ -72,7 +76,11 @@ They say that history repeats itself, but it is more accurate to say that the fu
 > You see visages of others, their colors far clearer, more recent it would seem. You see lizardfolk, you see humans, you see elves. You see them reflected before you. Some of them face a great necromancer atop a tower, others face a growing threat to dragonkind. Others face bandits within the north, and others, invaders to the icy west. These individuals are colored more brightly and then fade. The cyclops looks behind you and you turn to look, and then you see the great weight of time. You see the cusp of the Wheel, and the turn of the circle, and voices begin to call out. Within it, they echo. Their words unknowable, but audible. Barely contained within them the wisdom and knowledge of what is to come, what hasn't come, and what cannot come, and through that you see a star of seven points begin to rise over the cusp of the Wheel, and slowly but surely, your own presence moves towards it. You feel the cyclops’s presence is behind you, standing closer now, youth returned. The five of you stand with him at your back, and your purpose becomes clearer.
 >
 > Upon this Great Wheel there are pieces yet broken, pieces that must be restored, pieces of the past, specifically, that history must be remembered in order to be healed. The cyclops raises his staff, and within that, light begins to shine outwards. You look upon yourselves and you see the reflections of the Seven more across your own arms and legs, pieces of armor, of robes, of power, of weapons refracted hundreds of times within themselves. Your path is still yours to choose, but whichever path you might take, it will lead to a better future. It will take a chance, you will have to roll the die, but know this: That living by the edge of one's own life, is a Gambler's Delight.
->
+
+---
+
+(Post Sevenic Speech, party's reactions)
+
 > **Raost**: What just happened?<br>
 **Xetor**: It would seem that you have discovered a reflection. One of the few that yet remained within the parthenons. A reflection in this case represents something that the Seven have done, in this case a question, a question asked too many times. Strange.<br>
 
