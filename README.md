@@ -6,7 +6,7 @@ Verum is a setting created by [Arcadum](https://twitch.tv/arcadum). A heavily ho
 
 The campaigns are divided up amongst two main categories:
  * The Stream Games - Those campaigns DM'd by Arcadum himself and featuring many a well known streamer or more recently celebrities who are intersted in playing DnD
- * The Living World Games - Those campaigns that are conducted in a major part as a text-based MMO on Arcadum's [Discord](https://discord.gg/verum), currently made up of nearly 300 players and over 25+ DMs.
+ * The Living World Games - Those campaigns that are conducted in a major part as a text-based MMO on Arcadum's [Discord](https://discord.gg/verum), currently made up of nearly 300 players and over 40+ DMs.
 
 ## Lore
 

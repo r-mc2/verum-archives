@@ -177,13 +177,13 @@ Raber, something stands next to you.
 ***Raber** attempts to smash.<br>
 **Arcadum**: You swing down with all of your strength, and your weapon does not connect, stopping inches from the creature and is blown backwards.<br>
 ***Raber** attempts to tackle Nidhogg out of the way<br>
-**Arcadum**: Alright, Nidhogg. The creature offers you a terrible trade, everything you want. Would you like to resist, or do you give in to its offer?
+**Arcadum**: Alright, Nidhogg. The creature offers you a terrible trade, everything you want. Would you like to resist, or do you give in to its offer?<br>
 **Arcadum**: I know you (Surefour) know what it means if you accept.
 
 > **Surefour**: But I have to think of it from Nidhogg's perspective!
 
 > **Nidhogg**: Explain these voices, they keep talking, tell me!<br>
-**Arcadum**: You are delayed, you are tackled to the ground by Raber
+**Arcadum**: You are delayed, you are tackled to the ground by Raber<br>
 ***Wisp** will use the wand to attack `???`<br>
 **Arcadum**: Magic missiles go flying towards the creature, towards its hands. The creature will turn, and raise its other hand, destroying the missiles in the middle of their flying, however, this will distract it long enough.<br>
 Flame and Vim you are both freed from your strange stasis.<br>
