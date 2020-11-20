@@ -25,13 +25,13 @@ The group sees a woman standing in front of the Vault door. We know this to be A
 **Amber**: You've had much more.<br>
 **Braktor**: Not like this, every other time I knew it was a lie.<br>
 **Amber**: Hold fast, for now the stars, the lights, the colors, all shine as one. And as the enemy has gathered its strength for so long, so too are the Seven prepared to stand with you all. Come along, the gate is ready to be opened.<br>
-**Bellanovan**: What exactly even is this place?<br>
+**Belanovan**: What exactly even is this place?<br>
 **Amber**: This is a place at the Edge of Creation. A place between Memory and Dream. Thought and action. Death and Mercy.<br>
-**Bellanovan**: But why does it exist?<br>
+**Belanovan**: But why does it exist?<br>
 **Amber**: It was made by the Seven. It was their... loophole, I suppose.<br>
 **Braktor**: We put everything here at the end, just in case.<br>
 **Amber**: Precisely. For each time the Seven faced against the Enemy they knew that perhaps they would fail. So, they left remnants of their strength behind. And each time this is repeated. And each time this place has grown.<br>
-**Bellanovan**: Wait, they knew they would fail? So there's a chance we're fighting an unwinnable battle?<br>
+**Belanovan**: Wait, they knew they would fail? So there's a chance we're fighting an unwinnable battle?<br>
 **Braktor**: I wish I could say why we knew, but you all, the regular folk, you are the heroes inside this story.<br>
 **Hackne**: Even if we don't win now, even if all this is an eventual battle we all have to keep fighting over and over again. If I can win this world a couple more years it'll be worth it.<br>
 **Gruff**: Every time I succeed it's by accident. You take the wins when you can get them.<br>
@@ -43,11 +43,11 @@ The group sees a woman standing in front of the Vault door. We know this to be A
 
 > ***Braktor** refracts into Jonah and introduces himself:
 **Jonah**: Me and him, we share the same thoughts. We just wanted to let you know that we're working on things from the other side. Things are moving, people are awakening. Just do what you can. We're putting our pieces on the board. Just remember that whatever happens, pawns win chess.<br>
-**Bellanovan**: Who's the King and the Queen?<br>
+**Belanovan**: Who's the King and the Queen?<br>
 **Jonah**: We're working on your little fourth-man problem, you know what I mean Mr. King over here, and his friends.<br>
-**Bellanovan**: What fourth man problem?<br>
+**Belanovan**: What fourth man problem?<br>
 **Jonah**: Your blade. We're working on that bit.<br>
-**Bellanovan**: Oooh.<br>
+**Belanovan**: Oooh.<br>
 ***Jonah** refracts back into Braktor.<br>
 **Hackne**: You said that this place can't be seen by... him. So, where is the Tootbox?<br>
 **Braktor**: I have it.<br>
@@ -62,8 +62,8 @@ Some discussion about what Guy and Shattered Crowns did when they went in last t
 **Braktor**: Well you'll meet him, they've been in there a while though.<br>
 **Guy**: How are you a Seven and not dead?<br>
 **Braktor**: The power of refraction, why i am what I am you'd have to understand things that would most certainly destroy you.<br>
-**Bellanovan**: Are you saying you only exist because people believe in you?<br>
-**Braktor**: I'm just a person, Bellanovan. Some people come into this world in one way, others come in another.<br>
+**Belanovan**: Are you saying you only exist because people believe in you?<br>
+**Braktor**: I'm just a person, Belanovan. Some people come into this world in one way, others come in another.<br>
 
 Returning to the topic of the Violet Vault:
 > **Amber**: Now that the Myth has been opened, the gate may open freely.<br>
@@ -95,37 +95,37 @@ The Shade will give a deep bow of reverence to those that would cross the gate.
 > **Ster**: Has Guy seen one of these before?<br>
 **Arcadum**: No.
 
-> **Bellanovan**: Braktor what is that thing?<br>
+> **Belanovan**: Braktor what is that thing?<br>
 **Braktor**: That's me, that's all of us. We're all the same. Well not you, I mean me and the others.<br>
-**Bellanovan**: You're a shade?<br>
+**Belanovan**: You're a shade?<br>
 **Braktor**: We are not what these limited mirrors portray us, not entirely. For what it matters I am me. I am Braktor. I may be others but the Me you know is not a lie. I think and I feel and I love.<br>
 **Hackne**: Braktor.<br>
 **Braktor**: Yes?<br>
 **Hackne**: We never worried about that for just a second, that's your existentialism talking.
 **Braktor**: It's important you understand we made this for you, we always knew there'd be something after us but we didn't know what.<br>
-**Bellanovan**: What happens if I touch it?<br>
+**Belanovan**: What happens if I touch it?<br>
 **Braktor**: I can't say, but I believe you're safe here.<br>
-**Bellanovan**: What if I put one of my life strands into it?<br>
+**Belanovan**: What if I put one of my life strands into it?<br>
 **Braktor**: It's not... By all means, try. But it's not life as you think of it. It's a shadow that gives light from the Edge of all things. It's a creator, as it always should have been.<br>
-**Bellanovan**: So it's a candle?<br>
+**Belanovan**: So it's a candle?<br>
 **Braktor**: That's not an inappropriate metaphor.<br>
 
 > **Arcadum**: (Ironic he would use that actual metaphor. Man that is poetic.)
 
 > **Braktor**: It's like I said, I'm just a candle, just like all of us.<br>
-**Bellanovan**: Does that mean we're the matches?<br>
+**Belanovan**: Does that mean we're the matches?<br>
 **Braktor**: No, you're a candle. The things you do, the way you behave, the interactions you have. All the souls that walk here and watch beyond: you're the spark. It creates more shadows and lights more candles, and all things go in a great wheel.<br>
 That's what Hope is, at least the way I see it. No matter what happens, and no matter what horrible terrible things you see. No matter how much you think you're gonna lose. You keep coming back, cause maybe you like it, but you’re stubborn. Or maybe you won't rest until you see the end of it.<br>
 That’s Hope.<br>
 **Ozzie**: Can you talk?<br>
 **Arcadum**: The Shade will gesture behind it and begin to lead you.<br>
 You see everything that's here, and you see it in the distance. And eventually you are led to a tower rising up from the Violet light, and on the Tower there is an Indigo Scar.<br>
-**Bellanovan**: What's this thing? Why's it bringing us here?<br>
+**Belanovan**: What's this thing? Why's it bringing us here?<br>
 **Ozzie**: Is this an Obituary Tower?<br>
 **Braktor**: In a sense. It's probably easier if the Shade explains.<br>
 **Mirage**: Can it feel things?<br>
 **Braktor**: I mean... It's just like light in a Prism. It only exists in the things it shines upon, and that's me, and that's well, others. Whether it itself can feel, um, I suppose that's a good question.<br>
-**Bellanovan**: You told me this thing is like a light in a prism.<br>
+**Belanovan**: You told me this thing is like a light in a prism.<br>
 **Braktor**: Yes, cause it's refracted.<br>
 **Ozzie**: Can we keep it?<br>
 **Braktor**: Probably not.
@@ -224,9 +224,9 @@ So, here's what you get to know: The Herald's movements, its current completion 
 **Arcadum**: The next few pieces that you get are:<br>
 The scrolls will also reveal how much longer that the Herald has in order to complete its journey, and destroy kalkatesh and the world. Right now the Herald plans to arrive in several months of both in and out of character time. Essentially this is where things get weird, cause the actual passage of these storylines are based on my own predictions of how long it'll take to get to certain points. And as such the Herald plans to arrive in *June 2021*.
 >
-> **Surefour (Bellanovan)**: So we pushed it back from that Traitor blade incident?<br>
+> **Surefour (Belanovan)**: So we pushed it back from that Traitor blade incident?<br>
 **Arcadum**: No, that's if people are not to a certain point, it will be impossible to stop the Herald.<br>
-**Surefour (Bellanovan)**: Any%, how's it looking this iteration? Is he positive or negative.<br>
+**Surefour (Belanovan)**: Any%, how's it looking this iteration? Is he positive or negative.<br>
 **Arcadum**: If you must know, well, the Herald is certainly not in a good part of his "run", but it is still fairly early.
 >
 > And now the next is abilities the Herald has access to.
@@ -235,7 +235,7 @@ The scrolls will also reveal how much longer that the Herald has in order to com
 > * **The Herald Watches** - The Herald may turn its gaze directly on to a violet servants battle. If it does so it can augment the effects of that battle depending on the unique circumstances of that battle. Gives an extra ability to the Violet servant.
 > * **Generate Servant** - Pretty straightforward.
 
-> **Bellanovan**: Do we know the costs, or how it generates servants?<br>
+> **Belanovan**: Do we know the costs, or how it generates servants?<br>
 **Arcadum**: No, you don't know the cost.<br>
 
 > * **Fate Sever** - Fate Sever is a big one. If I ever get enough Entropy, after a certain threshold has been reached, which I have already reached it. If I have enough entropy, and if any single individual in any stream game, regardless of what they are fighting; if they should become unconscious I can immediately spend Entropy, if I have enough, I can force them to make a death saving throw against Violet Death.<br>

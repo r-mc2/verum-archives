@@ -26,6 +26,12 @@
 
 `Cog of the First`, is the name of the key.
 
+## Summary
+
+(Request for more detailed lore accounting to be broken out [above](#Relevant-Lore))
+
+The party calls Kalla'jin to them, wanting to ask her about the forests of Dolten anyways, and she remarks that there used to be six of them, while Jaquir, who is also present, is confused, claiming there was always five. Kalla'jin remarks that it's strange that the party was able to remember Beryl. She introduces the party to the idea of the Herald, the point of violet light in the sky, the end of all things. She then sends them on their way, as clearing the path through Dolten is more immediately important. The party enters the forest and clears the way to an abandoned waystation belonging to the World Wanderers. They enter and find mirrors pointing to skins sticking to the ceiling, and are forced to pacify a pack of palatros, or child-like monsters. After performing for them, the party is free to secure the waystation by restoring the ranger stones, which supposedly remove all evil from the waystation. The party reenters the room with the mirrors and find that a spectral fire that once covered a large central mirror is gone. They douse the now-regular fire, and debate what to do. Zacharius steps away for a moment to roll his vibrating dice, and as he does, they keep spinning, and one disappears. Gambler Black exclaims suddenly that someone found his head, and his voice disappears, as does Wise Guy. Inside of Zacharius's hat is not the symbol of Babylon. The rest of the party moves about the waystation for a bit until Arcidamus grows impatient and flips over the central mirror.
+
 ## Full Transcript
 
 (TBD)

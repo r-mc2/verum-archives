@@ -33,7 +33,7 @@ Asks where to find Inu.
 > **Empress Doe**: You must go to the Shattered Gate.<br>
 **Arcadum**: She’ll point her hand to the sky, the ceiling will shatter, and the sky will open, and you see the stars.<br>
 **Empress Doe**: Across the astral sea.<br>
-**Arcadum**: The sky looks like Bellanovan’s Star Map.
+**Arcadum**: The sky looks like Belanovan’s Star Map.
 
 ### A Violet Eye
 

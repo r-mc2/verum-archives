@@ -14,7 +14,7 @@ Oblivion shards are placed in lead-lined containers before dumped into the Tootb
 > **Arcadum**: This staff appears to be a beacon of some kind, it's not so much a magical weapon, or even as a staff as it is, but more so some kind of communication device. As it is planted in the ground it is sending out a magical signal that is no doubt being read at this point.
 
 34 History on staff from Hackne:
-> **Arcadum**: The mysterious symbol of the Green Triangle yet still eludes you, you know that it is a divination based item. It appears to not be a two-way communicator, it appears to be only a detection sort of device, detecting for certain presence, although you don't know what the presence is. However, there is one other thing that you notice, there is something written along the edge of the staff, written in a language Bellanovan recognizes but cannot read. It is written in Cyclopean.
+> **Arcadum**: The mysterious symbol of the Green Triangle yet still eludes you, you know that it is a divination based item. It appears to not be a two-way communicator, it appears to be only a detection sort of device, detecting for certain presence, although you don't know what the presence is. However, there is one other thing that you notice, there is something written along the edge of the staff, written in a language Belanovan recognizes but cannot read. It is written in Cyclopean.
 
 ### Obituary Towers
 
@@ -23,7 +23,7 @@ Ster asking about how groups can visit Obituary Towers:
 
 ### The Third Songblade
 
-Bellanovan, Ahst, Mirage, & Braktor begin some ceremony relating to the Life Stream in an attempt to find the "mysterous" third Songblade wielder.
+Belanovan, Ahst, Mirage, & Braktor begin some ceremony relating to the Life Stream in an attempt to find the "mysterous" third Songblade wielder.
 
 > **Arcadum**: A spiraling helix of life will rise from the gathering, until finally, Inu joins. Moving its hands along with the rhythm, swirling, the helix grows in strength, and swirls back into the lifestream. Eventually the stream holds, and the dance is no longer required, and Inu will say...<br>
 **Inu**: Finally, that which was lost can be restored.<br>
@@ -40,10 +40,10 @@ The frayed edges of the lifestream, the broken, errant, pieces can now be collec
 **Inu**: Keep to your original purpose, do not stray from your path, for now you walk two paths at once. You bear the strength of a guardian, but your purpose, I feel, with the one before, is also as important.
 
 > **Inu**: Guardians, now that you have finally found one another, and your dance can be completed, now I can show you the path. Now you may face the trial of the Prism, and now, perhaps, we may yet find a way... Yes.<br>
-**Bellanovan**: You said find the way, the way to what?<br>
+**Belanovan**: You said find the way, the way to what?<br>
 **Inu**: The way to your Nirvana. To your mastery.<br>
 **Inu**: But there is yet something else. The Petulant Lords, I can feel them move, and one of you bears a meeting with them.<br>
-**Bellanovan**: What are the Petulant Lords?
+**Belanovan**: What are the Petulant Lords?
 **Arcadum**: Ster, Petulant Lords... you met one of them.<br>
 **Guy**: Bronchial? He did mention some Petulant Lords, but I admit I don't fully understand it either.<br>
 **Inu**: Bronchial... Yes. One of the three, the Petulant Lords, the Lords of Decay, The Rotted and The Faded.<br>
@@ -71,7 +71,7 @@ The frayed edges of the lifestream, the broken, errant, pieces can now be collec
 > **Arcadum**: You have the Trial of the Prism you can take, and you take that as the three songblades. Guy now understands everything that he needs to understand for the burden of that knowledge to be caught up to it, specifically the importance of Inu, the importance of everything that needs to be done would be the best way to put it.
 
 > **Ster (Guy/Gruff)**: The Songblade is the Soul of Tyre, which I would have to explain to you guys whatever the fuck that means.<br>
-**Surefour (Bellanovan)**: Did you say the songblade was the Soul of Tyre? I thought you guys had the Soul of Tyre?<br>
+**Surefour (Belanovan)**: Did you say the songblade was the Soul of Tyre? I thought you guys had the Soul of Tyre?<br>
 **Ster (Guy/Gruff)**: This is it.<br>
 
 ---
@@ -97,9 +97,9 @@ So what do I do with it? You guys seem to be the whole Tyre people.<br>
 **Inu**: There are other servants of the Prism that move their own strings and threads. The Weavers will do what they can to keep safe the Lifestream, that is the most I can answer.<br>
 **Guy**: But you've alluded to us being complete, isn't that misleading? Or is this as good as it's going to get?<br>
 **Inu**: Three Guardians have been complete. The key, if you will. But now passage must be made so that the key may be placed, and the path opened. You must return to that one place, to that one place in the waking realm where the Enemy cannot see you.<br>
-**Bellanovan**: Which place is that?<br>
+**Belanovan**: Which place is that?<br>
 **Inu**: The Trigram Isles.<br>
-**Bellanovan**: I see.<br>
+**Belanovan**: I see.<br>
 
 > **Guy**: You guys knew a man named Tane?<br>
 **Braktor**: I did. I think he gave our friends Eustace his arms.<br>
@@ -119,18 +119,18 @@ So what do I do with it? You guys seem to be the whole Tyre people.<br>
 >
 > Right now you feel the power being drained out of you. Violet tendrils whip out from the Herald, what do you do?
 
-Mirage sings and Braktor Weaves. Bellanovan crip walks.
+Mirage sings and Braktor Weaves. Belanovan crip walks.
 
 > **Arcadum**: The three Songblades begin their dance, the Chord lends her voice, and the Weaver weaves the strands of life. The party begins to pull away, resisting, at least somewhat, the grasp of the Herald. But you will see as you retreat back to Kalkatesh, the Herald turns, shifting its weight, so to speak, and then begins to make its approach.
 >
 > And thus you return to the waking realm, with only the knowledge of your great purpose, the Trial of the Prism, and of course, the Herald growing ever closer.
 
-> **Bellanovan**: Did I notice anything about that destroyed planet?<br>
-**Arcadum**: Make me a perception check. (Bellanovan rolls a `25(19)`)<br>
+> **Belanovan**: Did I notice anything about that destroyed planet?<br>
+**Arcadum**: Make me a perception check. (Belanovan rolls a `25(19)`)<br>
 **Arcadum**: You did. You notice a few symbols floating from some of the pieces blown up in these large, grand sort of, symbols, and statues, and adornments. You think you recognize the Taladoni symbols.<br>
-**Bellanovan**: Where have I noticed the Taladoni symbols before?<br>
+**Belanovan**: Where have I noticed the Taladoni symbols before?<br>
 **Arcadum**: In the study of Power Words.<br>
-**Bellanovan**: Can I recognize any of the symbols from when I was in the Red Star, cause there were some we couldn't read.<br>
+**Belanovan**: Can I recognize any of the symbols from when I was in the Red Star, cause there were some we couldn't read.<br>
 **Arcadum**: Yeah, some of them. Essentially what I'm getting at is that Maltos, in character, is connected to the Taladoni.
 
 ### Return to Camp

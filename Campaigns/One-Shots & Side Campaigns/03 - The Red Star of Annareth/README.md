@@ -14,7 +14,7 @@
 
 ### Player Characters
 
-#### Bellanovan Edguardo Luciabel (Surefour)
+#### Belanovan Edguardo Luciabel (Surefour)
 
 (Short description TBD)
 

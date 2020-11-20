@@ -1,0 +1,9 @@
+# Strange Roads -- Session 06
+
+## Relevant Lore
+
+The party enters the fort and finds a dilapidated statue to Cassius, which Koordrin is able to restore using his chain. As a reward, Koordrin gains a mighty battle axe, Chainbreaker. The party spreads out to explore the fort. Zacharius comes across a table filled with documents, which note information about a man in red referred to as R who had joined and left the bandits, is being hunted by the Inquisition, is looking for unknown individuals, and is to meet someone in Solemn. Eventually, the party decides to rest in the fort. Once all are asleep, Zacharius approaches the statue to Cassius and steals some of its power for Gambler Black. Zacharius is rewarded with a demonic familiar named Wise Guy who takes the form of a hat. In the morning Zacharius shows Mirage the documents and she recognizes R as the man that murdered her sister sirens. The party discusses what to do with this information, and all but Beryl and Koordrin go outside. Beryl and Koordrin share a moment in front of the statue to Cassius where Koordrin teaches Beryl about his religion, sparking another evolution in Beryl, granting him a cloak of chains. The party regroups and heads back to the caravan, where they find they have a visitor. The party is approached by the inquisitor Kalla'jin, servant of the Seven. She is tracking the man in red and seeks the party's assistance in killing him as she follows his trail westward along with the caravan. The party agrees to the job, and with their business concluded, the caravan can continue on its way. First, however, the party must clear a path through Dolten, as the Creeping Death, a swarm of spiders miles in radius, is currently active. They are approached by a member of the Night Guard who gives them warnings before they head in.
+
+## Full Transcript
+
+(TBD)

@@ -755,7 +755,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > ***Braktor Ironbellows** facepalms<br>
 > **Derok Dranf**: Wh..<br>
 > **Derok Dranf**: N…nice?<br>
-> **Ozzie**: “One’s a uh.. like Bellanovan, and the other is.. a helper. I don’t know what I’m allowed ta say.”<br>
+> **Ozzie**: “One’s a uh.. like Belanovan, and the other is.. a helper. I don’t know what I’m allowed ta say.”<br>
 > ***Derok Dranf** shuffles.<br>
 > ***Eustace** melbourne shuffles<br>
 > ***Seren** giggles<br>
@@ -779,7 +779,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Braktor Ironbellows**: Honestly\*<br>
 > **Seren**: “No no no, I insist. I could uuuuh… Get you alcohol?”<br>
 > **Umi**: “There were so many tentacles!!” *hugs revlis*<br>
-> **Ozzie**: “You’re cool lookin’. Don’t think I ever seen a dragon person before. Well, I guess I did once when it came out of Bellanovan. I mean, when it.. nevermind.””<br>
+> **Ozzie**: “You’re cool lookin’. Don’t think I ever seen a dragon person before. Well, I guess I did once when it came out of Belanovan. I mean, when it.. nevermind.””<br>
 > **Hackne Silvermask**: “Yes, truly, seeing you all again is the best gift you could give.”<br>
 > **Derok Dranf**: Uh.<br>
 > ***Derok Dranf** points at Mirage.<br>
@@ -1259,7 +1259,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **♥Mirage♥**: “Wow! Your voice really is beautiful! I could easily see you using this to aid you~”<br>
 > ***Hackne Silvermask** raises up a plate full of Deep-fried and chicken stuffed potato balls, “You came just in time for dinner, Moe!”<br>
 > ***Eustace** looks around him, surrounded but NOT naked people. “The hell are they going on about?”<br>
-> ***Hackne Silvermask** raises the plate up to Bellanovan as well :> Gotta keep her party fed.<br>
+> ***Hackne Silvermask** raises the plate up to Belanovan as well :> Gotta keep her party fed.<br>
 > **Eustace**: “Are they all just.. sleeping right there?”<br>
 > **Eustace**: “We’ve got tents with cots and all..”<br>
 >
@@ -1279,7 +1279,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > ***Ozzie** sweats at the sight of an elf. “Stay strong for Amaris, Ozzie. He can’t seduce you. You’re too devirginized.”<br>
 > ***Madd Morc** whispers to the girls, “This is the big boss of the camp, he owns the place. He’s REALLY strong.”<br>
 > **Vaeri**: *sits up and just watches, offering a small clawed wave*<br>
-> **Ahst**: “Toot look, Bellanovan is the weilder of the Snitchblade”<br>
+> **Ahst**: “Toot look, Belanovan is the weilder of the Snitchblade”<br>
 > **bunny_gif**: *wakes up and waves*<br>
 > ***Toot** Toot nods.<br>
 > ***Madd Morc** spits on fat Favid for old time’s sake.<br>
@@ -1303,7 +1303,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Ahst**: “Nice”<br>
 > **Derok Dranf**: Hey Guy, want a donut? No hard feelings.<br>
 > **Ozzie**: “He does like nuts.”<br>
-> **Braktor Ironbellows**: “Hey, Bellanovan. You hear that? This is the rest of your life now.”<br>
+> **Braktor Ironbellows**: “Hey, Belanovan. You hear that? This is the rest of your life now.”<br>
 > **♥Mirage♥**:  “Whatever happened, I’m sure we will be able to handle it. I have complete faith in you!”<br>
 > **Derok Dranf**: ((Guy is forced to take the donut because he’s too cool and left))<br>
 > **Braktor Ironbellows**: (Youre probably gonna have to tpe if youre saying anything Miss U)<br>
@@ -1313,7 +1313,7 @@ Courtesy of PyroSalamander who spent many an hour rewatching the VoD to bring th
 > **Surefour**: “Maybe that’s the enemy’s weakness… cum…”<br>
 > ***Guy** will not hold Ozzie’s hand<br>
 > **Ozzie**: “Fuck!”<br>
-> ***♥Mirage♥** laughs at Bellanovan. “We’ve gathered plenty of that here by now!”<br>
+> ***♥Mirage♥** laughs at Belanovan. “We’ve gathered plenty of that here by now!”<br>
 > **Braktor Ironbellows**: “We should tell our friend Mr. Green about the staff here.”<br>
 > **♥Mirage♥**: Not like I’m storing it like some weirdo o something…”<br>
 > **bunny_gif**: I believe it was lord of blades<br>

@@ -1,6 +1,6 @@
 # Strange Roads -- Session 08
 
-Aired: ??/??/2020
+Aired: 07/08/2020
 
 ## Relevant Lore
 
@@ -30,6 +30,10 @@ Tomen will take the seven-pointed star from your eye, Zacharius.
 **Dodger**: Uh, the left eye.
 
 > **Arcadum**: Your left eye now burns bright with a violet light, your pupil refracted into seven points. You now see as they do, feel as they do, and you are burdened with terrible purpose. And with that, the fragment will shatter. The mirror will fade and Tomen’s purpose is fulfilled.
+
+## Summary
+
+Koordrin, Gallan, and Arcidamus look into the mirror, seeing a vision of violet light, of important places and important people, including a man with orange eyes following a cart of 6 adventurers, and then the mirror shatters, leaving a wand behind. Koordrin takes one of the smaller mirrors and spots a light in the reflection that doesn't appear in the material world. He follows this trail to a tower outside the building and uses the reflection to enter. Inside, Mirage finds some dolls in a box, and upon touching one, it turns into a tiny version of her. She eagerly shows it to the party and exposes it to Koordrin's mirror, which causes the doll to enter the mirror. The mirror gains the inscription of 'Egarim' on its back, and the strange reflection of Mirage walks out of view. The party continues exploring and finds a man with orange eyes seemingly stuck within a room that appears to have the reality around it cracked. Koordrin, Arcidamus, and Zacharius enter the room in turn using a mirror to speak with the man whose name is Tomem. Tomen explains that he is the creator and guardian of the mirror realm, where he is now, and that it is broken, so he has been using a mill to produce glass and fill the cracks. He also reveals that he has seen Egarim, and that Mirage might have a grim fate. Tomen explains to Zacharius that he may leave only when his purpose is fulfilled, when seven eyes are opened, and that only one eye still needs to be opened. Zacharius offers his eye, and Tomen opens it, granting Zacharius a vision of the others with opened eyes, and placing onto him the burden of the Seven as he and his party take up their torch. Tomen then leaves the mirror realm and disappears. Zacharius, upon leaving, is grilled by his party for his involvement with so many deities, and Zacharius explains that he does not enjoy being used by them. As things calm down, the party decides to rest in the waystation, and Zacharius is visited by Babylon in his dreams. Zacharius makes an oath to work for Babylon, as his debts to Gambler Black are now transferred to Babylon, since Babylon has taken control of Gambler Black. The party awakes, all but Zacharius unaware of the meeting.
 
 ## Full Transcript
 

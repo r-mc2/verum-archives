@@ -20,38 +20,38 @@ Resuming right where the party left off last session with the Guardian of the Bl
 The group discusses what this means in reference to what they can ask of it.
 
 > **Memory**: You misunderstand. Speak what you will. Ask what you will. Understand that my voice, my words, and my wisdom do not come from life's Hope, but from inevitability.<br>
-**Bellanovan**: Death is always part of anything, right?<br>
+**Belanovan**: Death is always part of anything, right?<br>
 **Memory**: It is supposed to be, yes.<br>
-**Bellanovan**: You can't have Hope without Despair.<br>
+**Belanovan**: You can't have Hope without Despair.<br>
 **Mirage**: That's where Wisdom comes from.<br>
 **Memory**: A follower of Wode, quaint.<br>
 
-> **Surefour (Bellanovan)**: You said this guy was cast aside by the Violet, right?<br>
+> **Surefour (Belanovan)**: You said this guy was cast aside by the Violet, right?<br>
 **Arcadum**: So basically, when the Great Wheel was beginning, when the Seven Covenants were formed, from that wheel so too was light refracted from the Prism that is life. Which is the white side of what is representative of life and the black side is representative of the void. These were the states that it existed, the dichotomy of life and death. However, Death is not the guardian of the Void, but rather this creature is. Because as Inu was appointed the guardian of Life and so too must there be a counterpoint for Death. For Death is not the true counterpoint for Inu, for Death is above all. And as such to keep safe the Wheel's turning someone, something, must still control what is nothing, and to be its Warden.<br>
-**Surefour (Bellanovan)**: But he was basically usurped by the Violet?<br>
+**Surefour (Belanovan)**: But he was basically usurped by the Violet?<br>
 **Arcadum**: Yes. When the Traitor shattered the Wheel and broke the covenant of Mercy, the Violet light etched out, specifically, into this creature's domain and its power was stolen.<br>
-**Surefour (Bellanovan)**: With our question is it an omnipotent question, or just the knowledge he knows?<br>
+**Surefour (Belanovan)**: With our question is it an omnipotent question, or just the knowledge he knows?<br>
 **Arcadum**: When I say he is the guardian of Memory, that is because in order for something to be the lord of nothing, it must remember everything. Because in the setup that nothing can only be understood when there is knowledge that nothing is there, or else you do not think about it at all. One cannot miss what one has never had, so nothing can become anything. So therefore nothing is a shapeless, formless, being of Memory.
 >
 > One question you get is limitless, but it will be told from his perspective. You can ask him other questions, but understand that those questions will be bound by normal rules. Also keep in mind that if you ask something of the Violet you are in a place where it will not harm you, but that knowledge is still with you, so keep that in mind.
 >
 > How can there be creatures that know the name of the Enemy but not be destroyed? This is how. There are some places, you might call loopholes, that allow you to learn this knowledge, but you still have it and that danger is constantly there. For if you get any tainted Violet knowledge in your mind, even if it doesn't destroy or corrupt you, if you were to come under mind control someone could find it in your mind, and that's a corruption point.
 
-> **Bellanovan**: Do you have a name?<br>
+> **Belanovan**: Do you have a name?<br>
 **Memory**: This one has never required a name, but one supposes when speaking with mortals it should have one. Very well, you may call me Uni, if you wish.<br>
-**Bellanovan**: Would you say there's an imbalance right now between life and the void?<br>
+**Belanovan**: Would you say there's an imbalance right now between life and the void?<br>
 **Uni**: Of course there is. This Violet entity does not wield Nothing without any form of balance in mind, it seeks only to destroy. To become a cancerous rot within the Wheel. To undo the good work of Lord Death and I and my counterparts constant toil and struggle. My counterpart lost his Weavers until they rekindled themselves, but my guardians yet still remain perished.<br>
-**Bellanovan**: Is there a way to get you guardians?<br>
+**Belanovan**: Is there a way to get you guardians?<br>
 **Uni**: My guardians are sealed, perhaps they could be unsealed.<br>
 **Braktor**: Can you tell us how?<br>
 **Uni**: Well, it is said that there were four guardians for my counterpart before the Traitor and so I was given four Guardians as well. But I did not elect to envision swordsman, but rather horseman, but long have they been sealed.<br>
 **Ozzie**: Are the guardians among the living now?<br>
 **Uni**: Nay, for never did they live. But they are sealed within the infinite nothing upon the Edge.<br>
-**Bellanovan**: Are they sealed by the Enemy, or something else?<br>
+**Belanovan**: Are they sealed by the Enemy, or something else?<br>
 **Uni**: They were sealed by the Enemy. Many times I have envisioned releasing them. But they possess no vessels, no Riders.<br>
-**Bellanovan**: How does one become a rider or vessel for them?<br>
+**Belanovan**: How does one become a rider or vessel for them?<br>
 **Uni**: Much the same as your ritual to become a swordsman of your counterpart, one must travel to the Edge. One must travel to the darkest place.<br>
-**Bellanovan**: Is there a way to get to this Edge?<br>
+**Belanovan**: Is there a way to get to this Edge?<br>
 **Uni**: For myself I would walk there, as if down a street. But for you it would be difficult, one would need a vessel that could sail the Astral Sea.<br>
 **Guy**: I've got one of those. Well, my friends do. We were going to head to Maltos, that sounds like an infinite black hole of nothingness to me.<br>
 **Uni**: You possess a vessel to sail the Astral Sea, and you travel to the Shattered Planet.<br>
@@ -71,7 +71,7 @@ The group discusses what this means in reference to what they can ask of it.
 **Guy**: Which came first? The Enemy or the sword.<br>
 **Uni**: The sword. The Enemy is old, but the Enemy has not always existed, at least as far as we know. But the Violet has, and now it matters not, for they have become one.
 >
-> **Bellanovan**: Who used the power of the Violet before the Enemy?<br>
+> **Belanovan**: Who used the power of the Violet before the Enemy?<br>
 **Uni**: T’was the storyteller of course.<br>
 
 > **Party**: Do we know who created the towers?<br>
@@ -104,9 +104,9 @@ You see all of them because they all bear one of the Seven gifts, and yours was 
 > **Arcadum**: Where each of your essences, as the guardians of the Prism, have been summoned to keep the world safe for as long as you can.<br>
 **Falcon**: Who are you people, where am I?<br>
 **Mirage**: It's good to see you again.<br>
-**Bellanovan**: You're in something called the Violet Vault.<br>
+**Belanovan**: You're in something called the Violet Vault.<br>
 **Falcon**: The Violet Vault?<br>
-**Bellanovan**: Where the Seven left things for us to defeat the Badman.<br>
+**Belanovan**: Where the Seven left things for us to defeat the Badman.<br>
 **Arcadum**: You recognize Mirage.<br>
 **Mirage**: Hello<br>
 **Falcon**: Hello.<br>
@@ -123,7 +123,7 @@ You see all of them because they all bear one of the Seven gifts, and yours was 
 **Falcon**: It's nice to meet you all.<br>
 **Braktor**: It's a genuine honor.<br>
 **Mirage**: Thank you for continuing to exist with us.<br>
-**Bellanovan**: So what do we do now?<br>
+**Belanovan**: So what do we do now?<br>
 **Falcon**: No idea.<br>
 ***Uni** will approach Falcon and speak with wonder.<br>
 **Uni**: How? How can you exist? I do not see you.<br>
@@ -140,23 +140,23 @@ The Heroes of Kalkatesh gain 10 Order.<br>
 **Falcon**: What do you mean?<br>
 **Braktor**: Myself and many others followed proudly in your footsteps to try and stop what's happening.<br>
 **Falcon**: Thank you for following in our footsteps, I'm still trying to take in what exactly is going on.<br>
-**Bellanovan**: Basically the universe might end, that's all that's happening.<br>
+**Belanovan**: Basically the universe might end, that's all that's happening.<br>
 **Hackne**: Speaking of, is it going to be safe for him to leave? I mean he might be one of the few people that it would be safe to, buuuut... Could be bad?<br>
-**Bellanovan**: Uni might know more.<br>
+**Belanovan**: Uni might know more.<br>
 **Uni**: I do not know. Your power is... I do not know of it. There are those that guard the colors, but to be the color itself, ‘tis something else completely. Tell me, are there other colors?<br>
 **Falcon**: There are Seven of us altogether. Do you need their names as well?<br>
 **Uni**: Sure.<br>
 **Party**: Tell us every name except the Violet one.<br>
-**Bellanovan**: I don't know how much you know, but from what we're aware of, Violet is bad.<br>
+**Belanovan**: I don't know how much you know, but from what we're aware of, Violet is bad.<br>
 **Hackne**: Saying their name could kill everyone.<br>
 **Falcon**: There was me, Falcon Bladeweaver.<br>
-**Bellanovan**: Let's go by color.<br>
+**Belanovan**: Let's go by color.<br>
 **Falcon**: Indigo was Koga.<br>
 **Arcadum**: As he speaks the name Koga, the tower lights with Indigo fire before fading away. Falcon, you feel in your heart, a wrenching, and you see a vision of Koga trapped within crystalline, crystalline Indigo shapes. Bound alongside others that had taken his trial and failed. You see the footsteps of Torchbearers above him that fight even now for the right to meet him.<br>
 **Falcon**: So Koga's fine, I'm sure we'll get to that.<br>
 **Falcon**: Blue is Saphira.<br>
 **Arcadum**: There is a flash of blue light, the blue flame rises and then fades. You sense Saphira's presence locked within a singular tome deep beneath the sands of Majital, within the great library of Kacael.<br>
-**Bellanovan**: What about the Yellow Square?<br>
+**Belanovan**: What about the Yellow Square?<br>
 **Falcon**: Tatalia.<br>
 
 > **Arcadum**: Living World, who is currently wearing Mitonis the Blessed's Hauberk?<br>
@@ -168,7 +168,7 @@ The Heroes of Kalkatesh gain 10 Order.<br>
 **Falcon**: We can just leave that one stuck there for as long as we can. You really don't want to put him and Koga in the same room together.<br>
 **Hackne**: What happens?<br>
 **Falcon**: Entire time together those two were trying to kill each other 99% of the time.<br>
-**Bellanovan**: Who's the red star?<br>
+**Belanovan**: Who's the red star?<br>
 **Falcon**: Frotul, the Dwarven Cleric.<br>
 **Arcadum**: When that name is spoken a red flame will appear where the tower may once have stood, and Falcon you receive a vision of an icy mountain top where a dwarven fortress yet remains trapped in a stasis of time adhered by deitic presence at its glory in a moment of battle, and there a Dwarven king wields his weapon frozen in time at mid strike. And there the Red light can be found.
 
@@ -180,20 +180,20 @@ The Heroes of Kalkatesh gain 10 Order.<br>
 **Arcadum**: You may reveal as much as that as you wish, Falcon Bladeweaver, but keep in mind what I told you.
 
 > **Falcon**: I assume you people know what the Twilight Station is?<br>
-**Bellanovan**: I've heard about it.<br>
+**Belanovan**: I've heard about it.<br>
 
 (Surefour laments about his obelisk plan to reach the Twilight Station.)
 
 > **Braktor**: I have been there, yes.<br>
 **Falcon**: Where the Violet Tower stands I can see the Twilight Station floating over in the Astral Sea, and I can sense one of my friends over there as well.<br>
-**Bellanovan**: Yeah I don't see that.<br>
+**Belanovan**: Yeah I don't see that.<br>
 **Hackne**: Does that mean the Violet's there?<br>
 **Braktor**: That person wouldn't be some sort of Traveler would they?<br>
 **Falcon**: It's the Traitor.<br>
 **Hackne**: The cool news is that you can see exactly where they are, which... nice.<br>
 **Braktor**: I know exactly where they are.<br>
 **Falcon**: We probably should work on getting my friends freed.<br>
-**Bellanovan**: What were you planning on doing now?<br>
+**Belanovan**: What were you planning on doing now?<br>
 **Falcon**: I was planning on heading to camp.<br>
 **Uni**: Perhaps it is best that you assist them from here. I have been studying you for some time, Seven, and I believe you wield the power of the color itself. Humor me a moment, and summon yourself within, clear your mind, and reach within.<br>
 
@@ -215,12 +215,12 @@ Falcon closes his eyes and starts to focus on himself.
 **MissU (Hackne)**: After it's happened?<br>
 **Arcadum**: No, he cannot save those that have already been lost.<br>
 
-> **Bellanovan**: So you represent life, I am a guardian of the lifestream, do you think you could help me out in any way?<br>
+> **Belanovan**: So you represent life, I am a guardian of the lifestream, do you think you could help me out in any way?<br>
 
-Bellanovan will present the Songblade, and Falcon will hold it.
+Belanovan will present the Songblade, and Falcon will hold it.
 
 > **Arcadum**: As you touch the songblade, move your fingers across its edge, you can feel the strands of life. Without thinking about it you literally just pull them out of the blade, something only a Weaver should be able to do, and you look at it like a curious string before placing it back.<br>
-However, you do notice something else. As you hand the blade back, Bellanovans training with the blade is a bit lackluster. You may not be able to improve his sword directly, but you can certainly improve his stance.<br>
+However, you do notice something else. As you hand the blade back, Belanovans training with the blade is a bit lackluster. You may not be able to improve his sword directly, but you can certainly improve his stance.<br>
 As you are one of the first Seven you have many boons and gifts you can give the hero of Kalkatesh, you are master of any and all weapons, you have the nickname Weaponrack for a reason. And as such-
 
 (Little bit of banter as to how Falcon got his name.)
@@ -281,12 +281,12 @@ Falcon will see slight etching of the lifestream, as expected.
 **Braktor**: I just don't want to kill any more good men.<br>
 **Uni**: The goodness of a man is irrelevant to his death.<br>
 **Braktor**: Thank you for answering my question.<br>
-**Bellanovan**: If we're talking about storytellers, is the Enemy against this story?<br>
+**Belanovan**: If we're talking about storytellers, is the Enemy against this story?<br>
 **Arcadum**: The creature does not offer any answer.<br>
-**Bellanovan**: Do you know why this old friend of yours is being so angry?<br>
+**Belanovan**: Do you know why this old friend of yours is being so angry?<br>
 **Falcon**: Not quite.<br>
 **Hackne**: Asking that might be a little dangerous.<br>
-**Bellanovan**: I just wanted to know if he understood what was going on, not to actually ask.<br>
+**Belanovan**: I just wanted to know if he understood what was going on, not to actually ask.<br>
 **Hackne**: Was the question regarding storytellers dangerous, would that kill us?<br>
 **Arcadum**: The creature does not answer.<br>
 The creature will then speak.<br>
@@ -294,23 +294,23 @@ The creature will then speak.<br>
 **Falcon**: I just woke up a couple days ago. I'm still trying to figure what's going on out as well.<br>
 **Braktor**: We're not creatures of Memory like yourself, time grinds away at what we know.<br>
 
-> **Bellanovan**: What is the significance of the Astral Traveler and their grave?<br>
+> **Belanovan**: What is the significance of the Astral Traveler and their grave?<br>
 **Uni**: That is a curious one. The Astral Traveler is not as potent as this Seven, but potent still in what it represents. Whereas we all are bound where we are, she moves with absolute freedom. There is no land she cannot walk, no mind she cannot see, no heart she cannot touch.<br>
 **Braktor**: Would this still be the case if she manifested into someone?<br>
 **Uni**: That I do not know.<br>
 **Ozzie**: Why would the Enemy fear her grave?<br>
 **Uni**: All things die, but she is not yet dead. So why would it fear a grave? An interesting question. There are many forms of life, of memory, and manifestation. I know not which the Astral Traveler is, but perhaps it is a place, and what can be found there, that the Enemy fears.<br>
-**Bellanovan**: If the Enemy was one of these colors, would there be a way to get him back to his old world? Because maybe he doesn't like his new world?<br>
+**Belanovan**: If the Enemy was one of these colors, would there be a way to get him back to his old world? Because maybe he doesn't like his new world?<br>
 **Falcon**: That would be nice to go home again.<br>
 **Braktor**: I don't think that's true. I don't think there's any appeasing it.<br>
 **Uni**: I do not know, I did not even know that there were... that there was another. Perhaps. Perhaps not.<br>
 **Braktor**: I suppose if you wanted, you could perhaps ask why they betrayed everyone, but the more personal the question the more we delve into dangerous categories.<br>
 Why and how the Traitor did what they did.<br>
-**Bellanovan**: The Herald is coming from a faraway place, is he coming from the void?<br>
+**Belanovan**: The Herald is coming from a faraway place, is he coming from the void?<br>
 **Uni**: No. He comes from the Edge.<br>
-**Bellanovan**: Why did he go to the Edge?<br>
+**Belanovan**: Why did he go to the Edge?<br>
 **Uni**: In each iteration the Seven have fought against the Enemy. They delay it.<br>
-**Bellanovan**: But he was always outside?<br>
+**Belanovan**: But he was always outside?<br>
 **Falcon**: Does the Violet need to be summoned into this world?<br>
 **Uni**: An interesting proposal, I do not know. The color has always been here, just like you. And yet you are still summoned, awoken. In either case, it comes from the Edge because it was defeated, or at least delayed. A setback. A stopgap. A temporary solution. But not a permanent one. And each time the Seven have triumphed it has been in vain, for the Wheel has not finished its revolution, it does not turn.<br>
 **Guy**: Hold on, you're Memory, so you remember these things. The other gods, they don't even remember why this is happening.<br>
@@ -327,9 +327,9 @@ Why and how the Traitor did what they did.<br>
 > **Uni**: It is said that Time is controlled... that Time is controlled by the Smith. The Great Engineer. The Mechanic. Passed down to this world. It is more likely that its direct control, however, is that of Lord Death. Lord Death serves as the guardian of all Life, but there are limits to its power. Death can only buy time for that which breaks the rules it made for itself. Perhaps this being that has broken these rules, perhaps the only way it can be stopped is by a rule break, that is what the Seven think.<br>
 **Braktor**: That's kind of my point. I've broken rules and I assume all of us have, but it never sticks. Amber said this was meant to be, what all of our delay brought us to this point. What if we're supposed to do something different? There's not a lot of me left. It's supposed to be you, but if you can't break the rules that I did, that he did, maybe you're supposed to do something different?<br>
 **Hackne**: What is the tower that we are currently on?<br>
-**Bellanovan**: The Red one.<br>
+**Belanovan**: The Red one.<br>
 **Hackne**: What does it mean?<br>
-**Bellanovan**: Wisdom, comradery, teamwork.<br>
+**Belanovan**: Wisdom, comradery, teamwork.<br>
 **Hackne**: Do we have to redeem the Herald?<br>
 **Braktor**: I don't know if there's any redeeming, but there might be forgiveness. At least that's what I always thought.<br>
 **Uni**: Impossible. Even if such a creature could be forgiven, it will not stop what it is to do. Its redemption? In whats eyes? In what great tribunal will it be redeemed?<br>
@@ -347,7 +347,7 @@ Why and how the Traitor did what they did.<br>
 > **Andy (Falcon)**: I'm assuming that would be, from my knowledge, the only thing that would be different from this iteration and the last.<br>
 **Arcadum**: That is correct.
 
-> **Bellanovan**: What would happen if we brought all the colors together, face to face?<br>
+> **Belanovan**: What would happen if we brought all the colors together, face to face?<br>
 **Falcon**: It would be an all out war.<br>
 **Hackne**: Does it need to be? Can they really not see reason?<br>
 **Falcon**: I'm sure we could wrangle them all together.<br>
@@ -380,15 +380,15 @@ In its resounding defeat the Uni will complete your question.
 **Arcadum**: Yeah, and he doesn't even seem to notice what's happened to him.
 
 > **Braktor**: I understand, it makes sense.<br>
-**Bellanovan**: You understand what?<br>
+**Belanovan**: You understand what?<br>
 **Braktor**: I'm sorry, when we get there it'll make sense.<br>
-**Bellanovan**: So what you're saying is you want to go to the Obelisk?<br>
+**Belanovan**: So what you're saying is you want to go to the Obelisk?<br>
 **Falcon**: I think we have to, or someone has to.<br>
-**Bellanovan**: I think we know of one way to get there, or a theory of a way to get there.<br>
+**Belanovan**: I think we know of one way to get there, or a theory of a way to get there.<br>
 
 > **Andy (Falcon)**: Would I know how to get there?<br>
 **Arcadum**: No, it's too late in the timeline for you.<br>
-**Surefour (Bellanovan)**: Is it still scary, or can we still ask him questions?<br>
+**Surefour (Belanovan)**: Is it still scary, or can we still ask him questions?<br>
 **Arcadum**: You can ask him questions, the power of the Green is paramount.<br>
 **Andy (Falcon)**: What are the consequences of me asking unlimited questions? Entropy, or?
 
@@ -396,7 +396,7 @@ In its resounding defeat the Uni will complete your question.
 
 >**Arcadum**: Okay, it's... Remember, you are of the Prism. So, when you throw your weight around, so does the Violet.
 
-> **Bellanovan**: How important is Tyre's labyrinth and the completion of it?<br>
+> **Belanovan**: How important is Tyre's labyrinth and the completion of it?<br>
 **Uni**: It is paramount. A weapon there still yet waits for you, for every moment that you dawdle costs us advantage.<br>
 
 (On the topic of spending order on the Violet Tower)
@@ -406,7 +406,7 @@ In its resounding defeat the Uni will complete your question.
 
 > **Andy (Falcon)**: Is it possible for me to help fix the Lifestream, since I am the color Green?<br>
 **Arcadum**: YEP, I was waiting for you to ask that. Yes you can! In fact, motherfucker, one of the things Falcon can do is walk through realms. Specifically since you have tree stride. As you are one of the first, you wield the Left and Right Hand of Silvanus, and the two blades, if held in front of each other are a reflection of the other, as such you may travel to anywhere where there is a mirror. That includes the Shattered Gate.<br>
-**Surefour (Bellanovan)**: So he can hop out of any Changeling?<br>
+**Surefour (Belanovan)**: So he can hop out of any Changeling?<br>
 **Arcadum**: Yeah, if he wanted to, but he'd hurt them.<br>
 **Andy (Falcon)**: How would I repair the Lifestream?<br>
 **Arcadum**: You can teleport to the Shattered Gate, and by restoring the Shattered Gate that means more of the strands return, so you'd basically go there to repair the Gate.<br>
