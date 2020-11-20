@@ -89,6 +89,7 @@ As the party finishes entering you can feel an overwhelming surge of strength pu
 [<img src="https://i.imgur.com/mTz5OXX.jpg" alt="Seven Shade Handout" height="250px" />](https://i.imgur.com/mTz5OXX.jpg)<br>
 Of the leftover vestiges of power coerced and manifested into singular will, it is a representation of the All. Everything, all into one.<br>
 The Shade will give a deep bow of reverence to those that would cross the gate.
+
 > **Braktor**: I'm just glad I'm not the last one.
 
 > **Ster**: Has Guy seen one of these before?<br>

@@ -10,7 +10,7 @@ Wandering through the woods, they come upon a strange mass...
 
 Looks like the base, a skeleton with squirming intestines. On its skull, a single line, like a cross. One of the pieces of the cross is filled in (vertical), the other is not. The color has faded. Does appear to look azure. The skeleton is faded from white into black at the edges. The intestines are more of an orange than the pink on the art. The creature has some clothing in it. A single black shawl across its neck, at the edge and fringes, slight red markings.
 
-**The "Birth"**
+#### The "Birth"
 
 The "egg" sack withers away.
 

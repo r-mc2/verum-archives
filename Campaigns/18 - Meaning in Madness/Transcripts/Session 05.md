@@ -2,6 +2,15 @@
 
 ## Relevant Lore
 
+### A Violet Eye
+
+Morc’s eyes were destroyed by a violet source and were then regenerated within a violet source. Something happens to his eyes:
+
+> **Arcadum**: Morc, as your eyes are restored, before your true vision comes back you are shown the vision of something else.
+>
+> You find yourself standing in a strange building. You see a feathered hand reach out towards a sickly looking girl with a black shadow, inky and menacing etching out of it. Your feathered hand removes it from the creature pulling it free. There is another flash. You find yourself standing on serrated cliffs. You hold a bow in your hand and overlook across the ocean, trying to spot your enemy. There is another flash. You find yourself standing amongst your fellows. Lords, nobles of flowing water. Your skin is gray and your voice is soft, an ally stands above you holding up a mirror. You see it then, standing on the precipice of creation, a great gate swirling with astral power. Shattered. Something is trying to repair it. Your vision returns to the battle at hand and your mind is your own once more.
+
+
 ### Sevenic Speech
 
 (Session [timestamp](https://www.twitch.tv/videos/646081002?t=04h05m07s))

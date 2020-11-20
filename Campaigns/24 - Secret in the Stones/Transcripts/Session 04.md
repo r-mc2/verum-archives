@@ -81,7 +81,7 @@ Dusty is moved into a different part of space, black with pinpoints of white sta
 > **Death**: (*Laughs*) Apologies for my laughter. Old men are not usually so eager to meet me.
 
 True Death’s token is revealed.<br>
-[<img src="" alt="True Death's Handout" height="250px" />]()
+[<img src="https://imgur.com/gcWp3zz.png" alt="True Death's Handout" height="250px" />](https://imgur.com/gcWp3zz.png)
 
 > **Dusty**: Yeah well, up until a couple of weeks ago I was probably already knocking on your door.<br>
 **Death**: (*Laughs*) And now here you stand at my door. There is an irony, I think, in that. Hm. Hm… Bemusement, however, is outside of our reach, for the things we must speak of are far more solemn than that. I know how you speak to me. I know the danger you have taken to be here and I know the peril that you will face when you return. I did not know whom would be the next to speak to me, but I knew what the cost would be should they do so.

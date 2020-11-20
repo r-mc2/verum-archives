@@ -6,8 +6,6 @@ Aired: 09/23/2020
 
 ### The Samurai's Mirror
 
-Thanks to Panax for most of this transcription.
-
 > **Arcadum**: Terryn, as you find yourself floating, kind of lost within the Astral Sea you suddenly straighten, and what you are seeing is a reflection of that which actually is, and all things are reversed. But then you feel a presence beside you.
 >
 > A man will approach, and will say:<br>
