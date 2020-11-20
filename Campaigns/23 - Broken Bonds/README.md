@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Li'lu| LilyPichu |[Twitch](https://www.twitch.tv/lilypichu) / [Twitter](https://twitter.com/lilypichu)|
 |Remag| Micheal Reeves |[Youtube](https://www.youtube.com/michaelreeves) / [Twitter](https://twitter.com/michaelreeves)|
 |Hashbrown | Sykkuno |[Twitch](https://www.twitch.tv/sykkuno) / [Twitter](https://twitter.com/Sykkuno)|

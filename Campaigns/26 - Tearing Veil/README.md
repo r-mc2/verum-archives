@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 | Wisp | Devin Nash | [Twitch] / [Twitter] |
 | Angorn Spinesnap | MoonMoon | [Twitch] / [Twitter] |
 | Mauler Raber | Roflgator | [Twitch] / [Twitter] |

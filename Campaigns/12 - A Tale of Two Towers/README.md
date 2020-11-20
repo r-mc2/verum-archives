@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Professor Dusty| Datto|[Twitch](https://www.twitch.tv/Datto) / [Twitter](https://twitter.com/DattosDestiny)|
 |Claw| Rhabby_v|[Twitch](https://www.twitch.tv/rhabby_v) / [Twitter](https://twitter.com/Rhabby_V)|
 |Gorrul| Pterodactylstfw|[Twitch](https://www.twitch.tv/pterodactylsftw) / [Twitter](https://twitter.com/Pterodactylsftw)|

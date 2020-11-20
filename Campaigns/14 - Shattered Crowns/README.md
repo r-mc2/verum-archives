@@ -17,7 +17,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Guy| Ster|[Twitch](https://www.twitch.tv/ster) / [Twitter](https://twitter.com/sterlovesfood)|
 |Scrumpo| MoonMoon|[Twitch](https://www.twitch.tv/moonmoon) / [Twitter](https://twitter.com/moonmoon_ow)|
 |Big Pipe| AdmiralBahroo|[Twitch](https://www.twitch.tv/admiralbahroo) / [Twitter](https://twitter.com/admiralbahroo)|

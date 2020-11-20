@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Lacari| Lacari |[Twitch](https://www.twitch.tv/lacari) / [Twitter](https://twitter.com/lacari)|
 |Laguna| LilyMelon |[Twitch](https://www.twitch.tv/lilymelon) / [Twitter](https://twitter.com/Lilymelon8)|
 |Gentle| MollsisBored |[Twitch](https://www.twitch.tv/mollsisbored) / [Twitter](https://twitter.com/MollsisBored)|

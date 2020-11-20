@@ -15,7 +15,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Madd Morc| RussMoney|[Twitch](https://www.twitch.tv/russ_money) / [Twitter](https://twitter.com/Russ_Money)|
 |Rivitah| ScottJund |[Twitch](https://www.twitch.tv/scottjund) / [Twitter](https://twitter.com/scottjund)|
 |Neve| Naomi|[Twitch](https://www.twitch.tv/naomi) / [Twitter](https://twitter.com/NaomiOop)|

@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Og'Narak | Ster|[Twitch](https://www.twitch.tv/ster) / [Twitter](https://twitter.com/sterlovesfood)|
 |Fernando Alandro | Surefour|[Twitch](https://www.twitch.tv/surefour) / [Twitter](https://twitter.com/surefour)|
 |Wadu Heck | Pokelawls |[Twitch](https://www.twitch.tv/pokelawls) / [Twitter](https://twitter.com/pokelawls/)|

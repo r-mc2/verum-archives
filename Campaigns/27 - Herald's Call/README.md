@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Midas|Shroud|[Twitch] / [Twitter]
 |Zada|Bnans|[Twitch] / [Twitter]|
 |Riku|Jordan Fisher|[Twitch] / [Twitter]|

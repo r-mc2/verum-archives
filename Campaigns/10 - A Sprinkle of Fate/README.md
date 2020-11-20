@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Seeia Beach| Woops|[Twitch](https://www.twitch.tv/woops) / [Twitter](https://twitter.com/woops)|
 |Kyros Ignatior| AdmiralBahroo |[Twitch](https://www.twitch.tv/admiralbahroo) / [Twitter](https://twitter.com/admiralbahroo)|
 |Ronio| TheNo1Alex |[Twitch](https://www.twitch.tv/theno1alex) / [Twitter](https://twitter.com/TheNo1Alex)|

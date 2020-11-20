@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Belgore Darkspire / Gregarious| Roflgator |[Twitch](https://www.twitch.tv/roflgator) / [Twitter](https://twitter.com/roflgatorOW)|
 |Grombus | Shrimp |[Twitch](https://www.twitch.tv/shrimp_) / [Twitter](https://twitter.com/shrimp_LIVE)|
 |G-nome| Valco |[Twitch](https://www.twitch.tv/valco) / [Twitter](https://twitter.com/ValcoWasTaken)|

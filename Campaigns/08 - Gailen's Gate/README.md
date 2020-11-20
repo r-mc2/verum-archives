@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Gruff| Ster |[Twitch](https://www.twitch.tv/ster) / [Twitter](https://twitter.com/sterlovesfood)|
 |Belanovan Eguardo Luciabell| Surefour |[Twitch](https://www.twitch.tv/surefour) / [Twitter](https://twitter.com/surefour)|
 |Ozzie | WhompRonnie|[Twitch](https://www.twitch.tv/whompronnie)  / [Website](https://www.whompcomic.com/)|

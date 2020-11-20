@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Brog| WhompRonnie|[Twitch](https://www.twitch.tv/whompronnie) / [Website](https://www.whompcomic.com/)|
 |Vorgrim| Fairlight_Excalibur|[Twitch](https://www.twitch.tv/fairlight_excalibur) / [Twitter](https://twitter.com/FairlightEx)|
 |Galathiel| Tyrodin|[Twitch](https://www.twitch.tv/tyr0din) / [Twitter](https://twitter.com/Tyr0din)|

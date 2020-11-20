@@ -13,7 +13,7 @@
 ### Player Characters
 
 |**Character**| **Player**|**Other Links**|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 |Jairx| Miss Universe |[Twitch](https://www.twitch.tv/Miss_Universe) / [Twitter](https://twitter.com/InvaderCristi)|
 |N'varja Ilven| Mimika|[Twitch](https://www.twitch.tv/Mimika) / [Twitter](https://twitter.com/Mimika____) |
 |Alyla Aurora | ObliviousVR|[Twitch](https://www.twitch.tv/ObliviousVR) / [Twitter](https://twitter.com/ObliviousVR) |
