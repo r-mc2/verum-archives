@@ -12,6 +12,13 @@
 
 ### Player Characters
 
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Inuchiyo Maeda| Woops |[Twitch](https://www.twitch.tv/woops) / [Twitter](https://twitter.com/woops/)| 
+|Derk Darkwater| Drekwiz |[Twitch](https://www.twitch.tv/drekwiz) / [Twitter](https://twitter.com/drekwiz)|
+|Wokou Kaizoku| Anubis |[Twitch](https://www.twitch.tv/anubis) / [Twitter](https://twitter.com/anubis)|
+|Clyde Onarthi | Sh1nym/Shiny |[Twitch](https://www.twitch.tv/shiny)|
+
 #### Character Name (Player Name)
 
 (Short description TBD)

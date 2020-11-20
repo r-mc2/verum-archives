@@ -12,6 +12,14 @@
 
 ### Player Characters
 
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Gruff| Ster |[Twitch](https://www.twitch.tv/ster) / [Twitter](https://twitter.com/sterlovesfood)|
+|Belanovan Eguardo Luciabell| Surefour |[Twitch](https://www.twitch.tv/surefour) / [Twitter](https://twitter.com/surefour)|
+|Ozzie | WhompRonnie|[Twitch](https://www.twitch.tv/whompronnie)  / [Website](https://www.whompcomic.com/)|
+|Hackne Silvermask| Miss Universe|[Twitch](https://www.twitch.tv/Miss_Universe) / [Twitter](https://twitter.com/InvaderCristi)|
+|Braktor | Saitken/Sean | [Twitch](https://www.twitch.tv/spaitken) |
+
 #### Character Name (Player Name)
 
 (Short description TBD)

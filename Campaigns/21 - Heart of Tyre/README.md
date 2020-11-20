@@ -14,6 +14,14 @@
 
 ### Player Characters
 
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Madd Morc| RussMoney|[Twitch](https://www.twitch.tv/russ_money) / [Twitter](https://twitter.com/Russ_Money)|
+|Lord Antonius Volnarus| ScottJund |[Twitch](https://www.twitch.tv/scottjund)|
+|Neve| Naomi|[Twitch](https://www.twitch.tv/naomi) / [Twitter](https://twitter.com/NaomiOop)|
+|Ives| Snake |[Twitch](https://www.twitch.tv/snake) / [Twitter](https://twitter.com/msf_actual)|
+|Seren| SummersSalt |[Twitter](https://twitter.com/SummersSalt)|
+
 #### Lord Antonius Volnarus / Derok Drampf (ScottJund)
 
 (Short description TBD)

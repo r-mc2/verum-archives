@@ -12,6 +12,15 @@
 
 ### Player Characters
 
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Terryn|ProjektMelody|[Twitch](https://www.twitch.tv/projektmelody) / [Twitter](https://twitter.com/ProjektMelody)|
+|Umi|IronMouse|[Twitch](https://www.twitch.tv/ironmouse) / [Twitter](https://twitter.com/Iron_Mouse)|
+|Revlis|Silvervale|[Twitch](https://www.twitch.tv/silvervale) / [Twitter](https://twitter.com/_Silvervale_)|
+|Madeleine|Bunny_gif|[Twitch](https://www.twitch.tv/bunny_gif) / [Twitter](https://twitter.com/BunnyAyu)|
+|Zara|Zentreya|[Twitch](https://www.twitch.tv/zentreya) / [Twitter](https://twitter.com/zentreya)|
+|Vaeri|Momo|[Twitch](https://www.twitch.tv/momo) / [Twitter](https://twitter.com/MomoMischief)|
+
 #### Character Name (Player Name)
 
 (Short description TBD)

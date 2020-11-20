@@ -12,6 +12,15 @@
 
 ### Player Characters
 
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Professor Dusty| Datto|[Twitch](https://www.twitch.tv/Datto) / [Twitter](https://twitter.com/DattosDestiny)|
+|Claw| Rhabby_v|[Twitch](https://www.twitch.tv/rhabby_v) / [Twitter](https://twitter.com/Rhabby_V)|
+|Gorrul| Pterodactylstfw|[Twitch](https://www.twitch.tv/pterodactylsftw) / [Twitter](https://twitter.com/Pterodactylsftw)|
+|Elwood Elmsworth| Blessious|[Twitch](https://www.twitch.tv/Blessious) / [Twitter](https://twitter.com/BlessiousPlays)|
+|Tirsis Margolas| Traveldanielle|[Twitch](https://www.twitch.tv/traveldanielle) / [Twitter](https://twitter.com/travel_danielle)|
+|Ulm Shannit| Sivelle|[Twitch](https://www.twitch.tv/sivelle) / [Twitter](https://twitter.com/Tiff_Tiefling)|
+
 (Character info courtesy of Morgeta's Session 01 Evernotes)
 
 #### Professor Dusty (Datto)

@@ -14,6 +14,14 @@
 
 ### Player Characters
 
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Roast Tredder| Woops|[Twitch](https://www.twitch.tv/woops) / [Twitter](https://twitter.com/woops/)|
+|Toot| TheNo1Alex |[Twitch](https://www.twitch.tv/theno1alex) / [Twitter](https://twitter.com/theno1alex)|
+|Moe Kowbull| Criken |[Twitch](https://www.twitch.tv/criken) / [Twitter](https://twitter.com/CrikMaster)|
+|Ahst| Strippin |[Twitch](https://www.twitch.tv/strippin) / [Twitter](https://twitter.com/Strippin/)|
+|Eustace Bellbawls| GoldneTot|[Twitch](https://www.twitch.tv/goldentot) / [Twitter](https://twitter.com/goldentot)|
+
 #### Raost Tredder (Woops)
 
 (Short description TBD)

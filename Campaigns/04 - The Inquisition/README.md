@@ -12,6 +12,13 @@
 
 ### Player Characters
 
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Zachariah| WhompRonnie|[Twitch](https://www.twitch.tv/whompronnie) / [Website](https://www.whompcomic.com/)|
+|Erin| Ster|[Twitch](https://www.twitch.tv/ster) / [Twitter](https://twitter.com/sterlovesfood)|
+|Deximus| Surefour]|[Twitch](https://www.twitch.tv/surefour) / [Twitter](https://twitter.com/surefour)|
+|Simon| Dyrus|[Twitch](https://www.twitch.tv/dyrus) / [Twitter](https://twitter.com/Dyrus)|
+
 #### Character Name (Player Name)
 
 (Short description TBD)

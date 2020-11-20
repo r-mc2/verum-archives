@@ -6,33 +6,42 @@
 * Players: Devin Nash, MoonMoon, Roflgator, Sodapoppin, Surefour, Vigors
 * Overall Length: (Ongoing)
 
-  ## Introduction
+## Introduction
 
-  (Short description of campaign TBD)
+(Short description of campaign TBD)
 
-  ### Player Characters
+### Player Characters
 
-  #### Wisp (Devin Nash)
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+| Wisp | Devin Nash | [Twitch] / [Twitter] |
+| Angorn Spinesnap | MoonMoon | [Twitch] / [Twitter] |
+| Mauler Raber | Roflgator | [Twitch] / [Twitter] |
+| Flamewrath | Sodapoppin | [Twitch] / [Twitter] |
+| Nidhogg | Surefour | [Twitch] / [Twitter] |
+| Vim | Vigors | [Twitch] / [Twitter] |
 
-  (Short description TBD)
+#### Wisp (Devin Nash)
 
-  #### Angorn Spinesnap (MoonMoon)
+(Short description TBD)
 
-  Inquisitor for the Church of Astaroth.<br>
-  (Short description TBD)
+#### Angorn Spinesnap (MoonMoon)
 
-  #### Raber (roflgator)
+Inquisitor for the Church of Astaroth.<br>
+(Short description TBD)
 
-  (Short description TBD)
+#### Raber (roflgator)
 
-  #### Clarence "FlaimeWrath" Lorinfill (Sodapoppin)
+(Short description TBD)
 
-  (Short description TBD)
+#### Clarence "FlaimeWrath" Lorinfill (Sodapoppin)
 
-  #### Nidhogg (Surefour)
+(Short description TBD)
 
-  (Short description TBD)
+#### Nidhogg (Surefour)
 
-  #### Vim (Viggors)
+(Short description TBD)
 
-  (Short description TBD)
+#### Vim (Viggors)
+
+(Short description TBD)

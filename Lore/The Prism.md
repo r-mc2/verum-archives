@@ -20,10 +20,10 @@ Each iteration can be connected to a specific covenant and color. Each color rep
 
 | Covenant | Shape            | Color        | Shared Name? |
 | -------- | ---------------- | ------------ | ------------ |
+| Death    | Scar             | Indigo       |              |
+| Dream    | Cross            | Blue         | Onyx?        |
 | Life     | Triangle         | Green        |              |
 | Time     | Quadrinox/Square | Yellow/Amber | Amber?       |
-| Wisdom   | 6-pointed Star   | Red          |              |
 | Ambition | 5-pointed Star   | Orange       |              |
-| Dream    | Cross            | Blue         | Onyx?        |
-| Death    | Scar             | Indigo       |              |
+| Wisdom   | 6-pointed Star   | Red          |              |
 | Mercy    | 7-pointed Star   | Violet       | Amethyst?    |

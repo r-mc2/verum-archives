@@ -9,11 +9,20 @@
 * Prequel: [Maw of Abbadon](../13%20-%20Maw%20of%20Abbadon)
 * Sequel: [Meaning in Madness](../18%20-%20Meaning%20in%20Madness)
 
-## Introduction## Introduction
+## Introduction
 
 (Short description of campaign TBD)
 
 ### Player Characters
+
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Madd Morc| RussMoney|[Twitch](https://www.twitch.tv/russ_money) / [Twitter](https://twitter.com/Russ_Money)|
+|Lord Antonius Volnarus| ScottJund |[Twitch](https://www.twitch.tv/scottjund) / [Twitter](https://twitter.com/scottjund)|
+|Neve| Naomi|[Twitch](https://www.twitch.tv/naomi) / [Twitter](https://twitter.com/NaomiOop)|
+|Turr Khei| Cryaotic |-|
+|Ives| Snake |[Twitch](https://www.twitch.tv/snake) / [Twitter](https://twitter.com/msf_actual)|
+|Seren| SummersSalt |[Twitter](https://twitter.com/SummersSalt)|
 
 #### Lord Antonius Volnarus (ScottJund)
 

@@ -12,6 +12,13 @@
 
 ### Player Characters
 
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Viona| Ster |[Twitch](https://www.twitch.tv/ster) / [Twitter](https://twitter.com/sterlovesfood)|
+|Jimmy Starfire| Surefour |[Twitch](https://www.twitch.tv/ster) / [Twitter](https://twitter.com/surefour)|
+|Davide| Pokelawls|[Twitch](https://www.twitch.tv/pokelawls) / [Twitter](https://twitter.com/pokelawls)|
+|Dolon White| Dyrus|[Twitch](https://www.twitch.tv/dyrus) / [Twitter](https://twitter.com/Dyrus)|
+
 #### Character Name (Player Name)
 
 (Short description TBD)

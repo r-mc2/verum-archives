@@ -14,6 +14,15 @@
 
 ### Player Characters
 
+|**Character**| **Player**|**Other Links**|
+| ------ | ------ | ------ | ------ |
+|Madd Morc| RussMoney|[Twitch](https://www.twitch.tv/russ_money) / [Twitter](https://twitter.com/Russ_Money)|
+|Rivitah| ScottJund |[Twitch](https://www.twitch.tv/scottjund) / [Twitter](https://twitter.com/scottjund)|
+|Neve| Naomi|[Twitch](https://www.twitch.tv/naomi) / [Twitter](https://twitter.com/NaomiOop)|
+|Turr Khei| Cryaotic |-|
+|Argh'xl Roz| AMGSheena |[Twitter](https://twitter.com/AMGSheena) / [Twitter](https://twitter.com/AMGSheena)|
+|Seren| SummersSalt |[Twitter](https://twitter.com/SummersSalt)|
+
 #### Rivitah (ScottJund)
 
 (Short description TBD)

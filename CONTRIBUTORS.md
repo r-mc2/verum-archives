@@ -55,3 +55,4 @@ After the Conspiracies document began to become cluttered many in the community 
 * [Ulm and The Gravetender](https://redd.it/jazif9) -- by [Tysonions](https://reddit.com/user/Tysonions)
 * [Heart of Tyre episode 12 partial transcript: Ives is the protagonist](https://redd.it/jc65ib) -- by [disguised123](https://old.reddit.com/user/disguised123)
 * [Secret in the Stones episode 11 partial transcript: The secrets of the stone are revealed](https://redd.it/jefie8) -- by [disguised123](https://old.reddit.com/user/disguised123)
+* [Subreddit Campaign List](https://www.reddit.com/r/cadum/wiki/campaigns) -- by [Jestrem](https://www.reddit.com/user/Jestrem/)
