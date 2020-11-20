@@ -8,12 +8,12 @@ Each iteration can be connected to a specific covenant and color. Each color rep
 
 | Iteration | Covenant | Color             | Original Seven (Avatar of the Color)                                       |
 | --------- | -------- | ----------------- | -------------------------------------------------------------------------- |
-| First     | Life     | Red (Wisdom)      | Frotul, Dwarven cleric - Same player as Falcon                             |
-| Second    | Time     | Orange (Ambition) | Scorter Firefist, Heavily armored Elven man - Same player as Saphira       |
-| Third     | Wisdom   | Yellow (Time)     | Tatalia, Middle-aged woman wearing a mithril hauberk - Same player as Koga |
-| Fourth    | Ambition | Green (Life)      | Falcon BladeWeaver, Elven ranger                                           |
-| Fifth     | Dream    | Blue (Dream)      | Saphira, Human woman in blue robes                                         |
-| Sixth     | Death    | Indigo (Death)    | Koga, Elven rogue                                                          |
+| First     | Death    | Indigo (Death)    | Koga, Elven rogue                                                          |
+| Second    | Dream    | Blue (Dream)      | Saphira, Human woman in blue robes                                         |
+| Third     | Ambition | Green (Life)      | Falcon BladeWeaver, Elven ranger                                           |
+| Fourth    | Wisdom   | Yellow (Time)     | Tatalia, Middle-aged woman wearing a mithril hauberk - Same player as Koga |
+| Fifth     | Time     | Orange (Ambition) | Scorter Firefist, Heavily armored Elven man - Same player as Saphira       |
+| Sixth     | Life     | Red (Wisdom)      | Frotul, Dwarven cleric - Same player as Falcon                             |
 | Seventh   | Mercy    | Violet (Mercy)    | Mister Wigglyfoot, Halfling rogue (?)                                      |
 
 ## The Covenants & Their Shape
