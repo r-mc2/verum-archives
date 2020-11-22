@@ -39,6 +39,11 @@ For more specific notes on a particular planet click into the individual documen
 
 This is where the planet of Verum and the various planes of existence can be found.
 
+Closest representation of Verum according to Arcadum's description:<br>
+[<img src="https://cdn.discordapp.com/attachments/709112342213820528/772650460712140800/verum_expanded.png" alt="Artist depiction of the planet Verum" height="250px" />](https://cdn.discordapp.com/attachments/709112342213820528/772650460712140800/verum_expanded.png)<br>
+(Artist: [@yowto_](https://twitter.com/yowto_))<br>
+Note that the continents form “cones”, in a sense. The depiction is such that the widest point of the cone is the surface, and it narrows as it approaches the center of the Planet.
+
 #### Planes of Existence
 
 The waking realm, also known as the "Prime Material Plane".<br>

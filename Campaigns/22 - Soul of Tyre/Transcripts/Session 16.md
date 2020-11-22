@@ -16,7 +16,7 @@ Except, maybe, they could just *real quick* take a visit to the Violet platform 
 
 > **Arcadum**: You see something very slight within its flames, almost like a face looking back. As you take a closer look, trying to see the images within, slowly you see more and more of them. Faces. Faces fill the fire. You see the face of a kindly looking gnome with goblin blood. You see the face of what appears to be a draconic sorcerer. You see the face of a fair haired fighter. Then further within it more and more faces can be seen. Until, finally, you see one you think you recognize. You think you see Eustace for but a moment, but then you realize that the skin is paler, you see someone else instead. A monk covered in tattoos and with a smiling face shifting through the fire and down. Then you see it, the fire begins to grow and the faces number in the thousands.
 
-(Perception check from **Braktor**: `21`)
+(Perception check from Braktor: `21`)
 
 > **Arcadum**: Braktor, as you gaze within the fire you see more clearly than the others. You see instead the actions that have led to the sealing of their fate. You see your own refractions and every single creature that you have ever killed. You see their faces drifting in the fire.<br>
 > **Uni**: It is a testament to Oblivion's strength. For that which was destroyed must go somewhere, here it joins the Violet. Its strength is ever growing, like fuel for flamed fire.<br>

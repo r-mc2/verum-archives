@@ -27,6 +27,7 @@ Much of this information was original from the disparate sources retained by the
 * [SpeedJump's Notes](https://docs.google.com/document/d/1Ydbt5LxfSplOSBvMVzamLvh1BsguXlFV5c6MqnMNelA)
 * [Verum Conspiracies](https://docs.google.com/document/d/1-epUNlEftVWONjnp5rg2xoPqLlRvsHS9DM5t8VYwzgY)
 * [Morgeta's Boss & Encounter Summaries](https://docs.google.com/document/d/1IZ1jApY9nDMBD5yPV38H3JkKrP8G0JsQSJzGziArKvA)
+* [Arcadum Martial Traits](https://docs.google.com/document/d/1YCp_8HsQ6YLXrjBwaFrAipSauA95Ni7jZhNvkwolvek)
 * [Disguised's Notes](https://docs.google.com/document/d/1Dn_wQ75feiQDqrb6vyceaHjBZGhaOkiU620WfbvaLHg)
 * [Idio's Notes on Rivitah-->Derok Drampf](https://docs.google.com/document/d/1Hxpg5dBHQWF-8hL_5HUgaj3EYeN8Dby4IgEPL9zFQqo)
 * [Shattered Crowns Session 12 -- Discussions w/ Drifter Sai](https://docs.google.com/document/d/1_tLVxJfyZgKFFjXh8edNAOcYAFAyX9Wy0VyyMjjxjto)
