@@ -2,6 +2,11 @@
 
 ## Relevant Lore
 
+### Requiem Rose
+
+For a more in-depth look at the enemy the Tops are continuing to face this session, check out<br> 
+Morgeta's Boss Encounter Document: [Google Doc](https://docs.google.com/document/d/15Myv7HetvnoUOafmefFh12pX2FGuIRqV8yYnhhHm7Yc/edit?usp=sharing)
+
 ### Koga Arrives
 
 > **Arcadum**: The Neverend watches far atop the Indigo Scar, observing the movements, carefully analyzing, judging their decisions for the strength for those above.<br>
@@ -48,7 +53,7 @@ Instead of the magical clash Derok originally sought, with Koga's aid, it now be
 They roll:
 
 **Derok**: [d20+10] ==> `(7+10) ==> 17`<br>
-**Koga**: [d20+35] ==> `(1+35) ==> 36` ==> Naomi's BDay `20` ==> `(20+35) ==> 55`
+**Koga**: [d20+35] ==> `(1+35) ==> 36` ===> Naomi's BDay `20` ==> `(20+35) ==> 55`
 
 **Requiem Rose**: [d20+24] ==> `(16+24) ==> 40`
 
@@ -74,7 +79,7 @@ Morc's turn. Natural 20. He arises! Awakens even...
 
 > **Arcadum**: This is a trial of Iass. As you have risen from death with a natural 20, that counts as another prerequisite as a chosen of Iass. You rise with glowing hair. Silver strength, and the symbol of Iass pumping across his chess. Your hat is broken. Your chest is disheveled. Your eye patch falls away and burns bright.
 
-Morc rushes towards Seren, just within range for Healing word. ([d4+1] ==> `4+1 ==> 5`)
+Morc inhales a double-green herb healing 90 then rushes towards Seren, just within range for Healing word. ([d4+1] ==> `4+1 ==> 5`)
 
 > **Morc**: AWAKEN!
 
@@ -98,6 +103,19 @@ He gains another action. Morc moves with in 10 feet of the Requiem Rose. Her nex
 Morc is granted the option to seal an ability. The party debates and settles on The Herald Remembers to seal.
 
 > **Arcadum**: The Violet light around the Requiem fades. Dims. Becomes weaker. Her power wanes. She reaches out towards the violet light, and there is nothing there any longer.
+
+### Chosen of Iass
+
+Morc's special form, The Chosen of Iass, awakened when Morc rolled the natural `20` for his death saving throw:
+
+Abilities:<br>
+> **Spear**: Everyone that has a melee/ranged weapon may attack at this time, but only within’ range.
+>
+>**Scales**: Balance will manifest. They may choose to sacrifice a number of hit points to heal one ally that is seeable. However, the hit points given are evenly distributed.
+>
+>**Shield**: Choose one ally. They become immune to damage for 1 Round.
+
+Due to his actions after attaining the form this fight he unlocks the ability permanently. He may use it once (likely per long rest) and gains this form for up to 3 rounds.
 
 ## Full Transcript
 
