@@ -69,13 +69,21 @@ They succeed and are awarded the ability to seal one of the Rose's inititives. T
 
 Requiem Rose falls to her HP threshold after the clash with Derok and the Indigo and in doing so unleashes her ability `The Herald Remembers` (5hp per destroyed flower in the fight; they destroyed 29). All but Neve and Derok are downed.
 
-Neve moves away, up towards Morc and Ives to assist them on her next turn.
+(Naomi stopped by #SSC after session to give some insight on Neve's thoughts at this time)
+> ***Neve** begins to weep and feel ashamed at her uselessness<br>
+**Neve**: (*Internal*) I've ruined everything. Derok just did something so- and I... why am *I* still up? And Morc? They're my family! My loved ones! I can't lose them...<br>
+***Neve** runs to Morc<br>
+**Neve**: (*Internal*) I have to save him! He is the one person that's saved my life, and everyone else's, time and time again!
 
 The Requiem Rose now goes, she targets Seren with her attack. Seren is down and auto-fails one death saving throw.
 
 Ives now makes his death saving throw (two failures). Koga uses `Observe` to grant Ives a reroll (18). One save.
 
 Morc's turn. Natural 20. He arises! Awakens even...
+
+> **Neve**: (*Internal*) He's up!<br>
+***Neve**: resolves to do whatever she can to make sure everyone else lives too. 
+
 
 > **Arcadum**: This is a trial of Iass. As you have risen from death with a natural 20, that counts as another prerequisite as a chosen of Iass. You rise with glowing hair. Silver strength, and the symbol of Iass pumping across his chess. Your hat is broken. Your chest is disheveled. Your eye patch falls away and burns bright.
 
