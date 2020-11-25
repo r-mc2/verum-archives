@@ -82,14 +82,14 @@ So what do I do with it? You guys seem to be the whole Tyre people.<br>
 **Braktor**: We sort of need it to unlock a door? I don’t know, we haven’t been to the labyrinth, we’ve sort of been just fucking around.<br>
 **Arcadum**: Inu will not like hearing that you’ve been fucking around.
 
----
+#### Soul of Tyre vs Songblade
 
 > **Ster (Guy/Gruff)**: So, hold on, now I’m confused. The Strangers sword was a shard of green light, that was the main part of it. But it is the red songblade?<br>
 **Arcadum**: I think you may have taken that as a literal thing. The songblade is not itself one of the pieces of Tyre. The Strangers blade was, though. But the reason though, I see where your confusion is.<br>
 **Ster (Guy/Gruff)**: The sword was like a giant stone sword, then it fell apart, and inside was the songblade.<br>
-**Arcadum**: So, the Strangers Blade was the songblade that was one of the Songblades hidden away until the time came when it would be called upon again. The energy that hid it was Tyre, and that’s the piece.<br>
+**Arcadum**: So, the Strangers Blade was the Songblade- that was one of the Songblades hidden away until the time came when it would be called upon again. The energy that hid it was Tyre, and that’s the piece.<br>
 **Ster (Guy/Gruff)**: Am I right to assume that the Green Triangle is Tyre related?<br>
-**Arcadum**: I can't answer that specifically. What has been revealed about the Green Triangle seems to be in reference to the Trigram Isles, and that the petulant lords are somehow involved.
+**Arcadum**: I can't answer that specifically. What has been revealed about the Green Triangle seems to be in reference to the Trigram Isles, and that the Petulant Lords are somehow involved.
 
 ---
 

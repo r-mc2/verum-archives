@@ -9,18 +9,18 @@ Morgeta's Boss Encounter Document: [Google Doc](https://docs.google.com/document
 
 ### Koga Arrives
 
-> **Arcadum**: The Neverend watches far atop the Indigo Scar, observing the movements, carefully analyzing, judging their decisions for the strength for those above.<br>
-Suddenly, she turns and realizes she has not been alone for some time. The Neverend will turn and will look with surprise. She will immediately kneel and bow. (...) seated upon crystal and stone.
+> **Arcadum**: The Neverend watches from far atop the Indigo Scar, observing the movements, carefully analyzing, tracking & judging the decisions and strengths made for those below.<br>
+Suddenly, she will turn with a startle and realizes she has not been alone for some time. The Neverend will turn and will look with surprise and will then immediately kneel and bow before the man seated upon crystal and stone.
 
-> **Neverend**: Lord Indigo, you...you are not supposed to be awakened until the trial is finished. Has something happened?<br>
+> **Neverend**: Lord Indigo, you- you are not supposed to be awakened until the trial is finished. Has something happened?<br>
 **Koga**: Something else.
 
 > **Todd (Koga)**: Do I recognize this being?<br>
-> **Arcadum**: Yeah you do, but not really. Many years ago, we had many servants in Tyr’s drops. There were many drow. This is one of those drow or rather the descendant in one. You recognize in her eyes, blessed by an ancient spider goddess, you recognize an old tattoo. Not one of Iass, but of her old patronage. She bears the mark Jdraxil.
+> **Arcadum**: Yes you do, well not really. Many years ago, we had many servants in Tyr’s Drop. There were many drow. This is one of those drow or rather the descendant of one. You recognize within her eyes, blessed was she by the ancient spider goddess who has been wiped from the current cycles. But, you recognize an old tattoo upon her shoulder. One marking not that of Iass, but that of patronage. This is the daughter. You're not quite sure- grandaughter, or how many generations but, she bears the same mark. The Daughter: Jarlaxel.
 
 > **Koga**: What is going on here?<br>
-**Neverend**: They have taken your trial. One seeks to become your champion. They do not know the full extent. I have only told them what is needed to be known; as per your instructions.<br>
-**Arcadum**: She will kneel downwards and summon a small portal of her vision. Koga will see the face of Ives below. His face grim and his bow taut.<br>
+**Neverend**: They have taken your trial. One seeks to become your champion. They do not know the full extent. I have told them only what is needed to be known; as per your instructions.<br>
+**Arcadum**: She will point downwards and summon a small portal for vision. Koga will see the face of Ives below. His face grim and his bow taut, struggling and fighting.<br>
 **Neverend**: This is one that will seek to be your Herald.<br>
 **Koga**: Let’s see what he’s got.<br>
 **Neverend**: Very well my lord.
@@ -29,11 +29,11 @@ Suddenly, she turns and realizes she has not been alone for some time. The Never
 
 > **Arcadum**: Koga now has initiative on the battlefield. He has three actions he can take.
 >
-> **Observe**: Allows for Koga to use a reaction at any point of the fight to reroll any dice of his choice. Enemy or ally.
+>\> **Observe**: Allows for Koga to use a reaction at any point of the fight to reroll any [d20] of his choice. Enemy or ally.
 >
-> **Test**: Koga can choose to enact Indigo power upon any of the player characters present. They must make a DC 20 Intelligence Saving throw. If they fail, they are stunned. If they succeed, then they gain a boon at the end of the fight. Ives has advantage on this roll.
+>\> **Test**: Koga can choose to enact Indigo power upon any of the player characters present. They must make a DC 20 Saving throw [of Arcadum's choosing?]. If they fail, they are stunned. If they succeed, then they gain a boon at the end of the fight. Ives has advantage on this roll.
 > 
-> **Interference**: Koga will instead effect the enemy's rolls in the same manner. This can cause the enemy to miss or fail. Koga is equal to Violet, not stronger. For each movement means that the enemy moves as well. Every interference will mean that the Violet gains 1 point of Entropy.
+>\> **Interference**: Koga will instead effect the enemy's rolls in the same manner. This can cause the enemy to miss or fail. Koga is equal to Violet, not stronger. For each movement means that the enemy moves as well. Every interference will mean that the Violet gains 1 point of Entropy.
 
 He only has access to one of these per round.
 
@@ -103,13 +103,13 @@ He gains another action. Morc moves with in 10 feet of the Requiem Rose.
 
 Her next inititive she chooses to clash with Morc using `Cracking Will`.
 
-> **Arcadum**: With one arm, the Violet lights with course down the Requiem Rose and will reach out towards Morc who raises his blade to defend himself. The Violet will course through the creature's hand as it places it right on top of the blade. The blade will start to crack. Morc will put all of his strength into his eye. His will start to crack. Visions of despair. All around him he sees it.
+> **Arcadum**: With one arm, the Violet lights will course down the Requiem Rose and will reach out towards Morc who raises his blade to defend himself. The Violet will course through the creature's hand as it places it right on top of the blade. The blade will start to crack. Morc will put all of his strength into his eye. His will start to crack. Visions of despair. All around him he sees it.
 >
 > Reality begins to bend, the dream, the waking realm. He sees his comrades fall. He sees Seren succumb to the being within. He sees Derok as a smouldering white ashen pile. He sees Ives hanging from a tree. He sees all these punnishments, all of these deaths, all of these futures.
 >
 > However, hope is not so easily extinguished.
 >
-> The realities contort and twist back to where they belonged. What "is", is simple. He feels the steel in his hand, the blood in his body.H is heart yet still beats. His lungs yet still pull in breath. His eye shines with Violet light. And he swings his weapon.
+> The realities contort and twist back to where they belonged. What "is", is simple. He feels the steel in his hand, the blood in his body. His heart yet still beats. His lungs yet still pull in breath. His eye shines with Violet light. And he swings his weapon.
 >
 > The hand of the Requiem Rose falls to the ground. She stumbles back. A gamble lost.
 

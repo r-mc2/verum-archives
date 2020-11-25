@@ -23,6 +23,7 @@ Ordered chronolgically by campaign:
 * [Silent Knights -- Session 08](../Campaigns/09%20-%20Silent%20Knights/Transcripts/Session%2008.md#Sevenic-Speech)
 * [A Sprinkle of Fate -- Session 07](../Campaigns/10%20-%20A%20Sprinkle%20of%20Fate/Transcripts/Session%2007.md#Sevenic-Speech)
 * [Deals in the Dark -- Session 14](../Campaigns/11%20-%20Deals%20in%20the%20Dark/Transcripts/Session%2014.md#Sevenic-Speech)
+* [A Tale of Two Towers -- Session 18](../Campaigns/12%20-%20A%20Tale%20of%20Two%20Towers/Transcripts/Session%2018.md#Sevenic-Speech)
 * [Gambler's Delight -- Session 04](../Campaigns/16%20-%20Gambler's%20Delight/Transcripts/Session%2004.md#Sevenic-Speech)
 * [Meaning in Madness -- Session 05](../Campaigns/18%20-%20Meaning%20in%20Madness/Transcripts/Session%2005.md#Sevenic-Speech)
 * [Strange Roads -- Session 08](../Campaigns/19%20-%20Strange%20Roads/Transcripts/Session%2008.md#Sevenic-Speech)
