@@ -1,4 +1,4 @@
-# Ozzie
+# Ozzie Whitebeak
 
 |**Player Info:**|Ronnie|[Twitter](https://twitter.com/RonnieFilyaw) / [Website](https://www.whompcomic.com/)|
 |:-|:-|:-|

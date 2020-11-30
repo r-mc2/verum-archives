@@ -16,7 +16,7 @@ Suddenly, she will turn with a startle and realizes she has not been alone for s
 **Koga**: Something else.
 
 > **Todd (Koga)**: Do I recognize this being?<br>
-> **Arcadum**: Yes you do, well not really. Many years ago, we had many servants in Tyr’s Drop. There were many drow. This is one of those drow or rather the descendant of one. You recognize within her eyes, blessed was she by the ancient spider goddess who has been wiped from the current cycles. But, you recognize an old tattoo upon her shoulder. One marking not that of Iass, but that of patronage. This is the daughter. You're not quite sure- grandaughter, or how many generations but, she bears the same mark. The Daughter: Jarlaxel.
+> **Arcadum**: Yes you do, well not really. Many years ago, we had many servants in Tyr’s Drop. There were many drow. This is one of those drow or rather the descendant of one. You recognize within her eyes, blessed was she by the ancient spider goddess who has been wiped from the current cycles. But, you recognize an old tattoo upon her shoulder. One marking not that of Iass, but that of her patronage. This is the daughter. You're not quite sure- grandaughter, or how many generations but, she bears the same mark. The Daughter: Jarlaxel.
 
 > **Koga**: What is going on here?<br>
 **Neverend**: They have taken your trial. One seeks to become your champion. They do not know the full extent. I have told them only what is needed to be known; as per your instructions.<br>

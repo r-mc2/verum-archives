@@ -1,4 +1,4 @@
-# Shattered Crowns -- Season 02 - Session 01
+# Shattered Crowns -- Season 02 - Session 07
 
 Aired: 
 

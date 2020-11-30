@@ -27,6 +27,8 @@ However when it comes to the months of the year, the world of Verum and the cont
 
 ## The Astral Sea
 
+[<img src="https://media.discordapp.net/attachments/318605243959214080/745621335350313010/unknown.png" alt="The Astral Sea Map" height="250px" />](https://media.discordapp.net/attachments/318605243959214080/745621335350313010/unknown.png)
+
 The Verum way of referring to "outer space", but not a direct relation as Arcadum has interesting things going on out there, but it is a decent approximation.
 
 Most of the information we have on the various planets comes from the token information revealed on the map during various campaign sessions. As such many of these descriptions may be from the former PF ruleset during 7Y7D campaigns and therefore may not be accurate.
