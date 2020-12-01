@@ -6,7 +6,7 @@ Aired: 11/29/2020
 
 ### Previously On...
 
-<iframe width="650" height="350" src="https://www.youtube.com/embed/t9IRPgykXbU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/t9IRPgykXbU
 
 But in seriousness, the group is caught up on events that occured between seasons. The party has been flying through the Astral Sea heading back towards the planet Verum, studying up on the various planets, and educating themselves on basic ship systems.
 
