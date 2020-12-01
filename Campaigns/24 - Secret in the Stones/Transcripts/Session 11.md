@@ -120,14 +120,14 @@ OR
 
 ---
 
-> **Arcadum**: Yellow squares will appear in [Taffy's] eyes as she begins to reveal where the Quadrinox can be found. she begins to write them on parchment, hand moving while eyes see elsewhere. As she continues to write, arcane instructions appear on the parchment, continue to write, continue to write, continue to write, the color of yellow begins to contort and violet takes its place, and it begins to be scribbles on the parchment,  the guardian moves to stop Taffy from writing. holds it off of the paper, and you see violet cracks in Taffy's skin.
+> **Arcadum**: Yellow squares will appear in [Taffy's] eyes as she begins to reveal where the Quadrinox can be found. She begins to write them on parchment, hand moving while eyes see elsewhere. As she continues to write, arcane instructions appear on the parchment, continue to write, continue to write, continue to write, the color of yellow begins to contort and violet takes its place and it begins to be scribbles on the parchment. The Guardian moves to stop Taffy from writing, holds it off of the paper, and you see violet cracks in Taffy's skin.
 
 > **Taffy**: I didn't think it would hurt so much.<br>
 **One of Two**: You have fulfilled your purpose Translator, I am afraid your time is limited.<br>
 **Taffy**: I am happy to have served. What happens next, Guardian?<br>
 **One of Two**: I'm afraid that what happens next is that you are forgotten.<br>
-*Group*: No, we won’t forget.<br>
-*Ulm*: You guys will, you won’t see her ever again, you won’t know she’s ever been here.<br>
+**Group**: No, we won’t forget.<br>
+**Ulm**: You guys will, you won’t see her ever again, you won’t know she’s ever been here.<br>
 **Group**: What, why, are you erasing our memories?<br>
 **One of Two**: That is the nature of the enemy you face, the power of the Violet, the truth, the final one. The Violet destroys not only life, but its presence, its ripple. It silences its light. The song loses its notes. When one dies to the Violet they are forgotten, erased from the tapestry. There are some that can remember, yes. those with sight.<br>
 ***One of Two** gestures at Ulm.<br>
@@ -163,7 +163,7 @@ The Gravetender will tend to Taffy, revealing his purpose. And then you will see
 **Taffy**: I'm sorry I couldn't tell you, it's against the rules.<br>
 **Ulm**: It's okay, I understand.<br>
 **Taffy**: You were always the kindest to me. I had not really met anyone of my kinds. You gave me kinship for a while, and I am very grateful.<br>
-*Ulm*: I'll miss you Taffy.<br>
+**Ulm**: I'll miss you Taffy.<br>
 ***Taffy** will hold Ulm.<br>
 **Hatter Mad**: Surely something can be done, it doesn't have to be like this, does it?<br>
 **One of Two**: I am afraid so. I will keep what I can of her alive, but until the enemy is defeated, this is the fate of every Translator. This is the cost of knowledge.<br>

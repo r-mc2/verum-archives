@@ -69,7 +69,8 @@ These are modifiers of how much grace a player is granted in their turn-by-turn 
 
 * **Tactician** - Player characters may not go back upon their actions once they have passed their turn.
 * **Advanced Tactician** (?) - Square by Square movement, step in something, deal with the consequences.
-* **Quickened Tactician** - Timed turns, 1 Minute for Non-casters, 2 Minutes for Casters.
+* **Improved Tactician** - Timed turns, 3 minutes martial, 5 minutes casters.
+* **Greater Tactician** - Ability orders are hard locked in; once you commit to doing something (action, bonus action, reaction, etc.) you can't take it back.
 
 ### Ability Traits
 

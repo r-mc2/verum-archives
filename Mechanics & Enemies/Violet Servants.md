@@ -8,6 +8,7 @@ Servants are among the strongest of the forces The Enemy & The Herald can deploy
 * The Cataclysmic Parable
 * The Cinderous Champion
 * The Corrupted Hand (Los)
+* The Dilating One
 * The Empty Logic
 * The Feasting Famine
 * The Hated Honor

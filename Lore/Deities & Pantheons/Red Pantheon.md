@@ -18,6 +18,16 @@ These represent the Astral Traveler and her Handmaidens.
 
 (TBD)
 
+### Kasaka
+
+[<img src="https://cdn.discordapp.com/attachments/709112342213820528/782820321371750420/kasaka2.png" alt="Kasaka Handout Art" height="350px" />](https://cdn.discordapp.com/attachments/709112342213820528/782820321371750420/kasaka2.png)
+
+* Known Aliases: (TBD)
+* Domains: (TBD)
+
+(TBD)
+
+
 ### Jhasa
 
 [<img src="https://cdn.discordapp.com/attachments/709112342213820528/782820304467918910/jhasa.png" alt="Jhasa Handout Art" height="350px" />](https://cdn.discordapp.com/attachments/709112342213820528/782820304467918910/jhasa.png)
@@ -62,7 +72,3 @@ These represent the Astral Traveler and her Handmaidens.
 * Domains: (TBD)
 
 (TBD)
-
-### Kasaka
-
-[<img src="https://cdn.discordapp.com/attachments/709112342213820528/782820321371750420/kasaka2.png" alt="Kasaka Handout Art" height="350px" />](https://cdn.discordapp.com/attachments/709112342213820528/782820321371750420/kasaka2.png)
