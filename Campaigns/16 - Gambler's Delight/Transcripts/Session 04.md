@@ -93,7 +93,7 @@ The Seven shattered the mirror, but within a mirror reflections remain. Silence 
 (`17` History check on planting of the seed.)
 
 > **Arcadum**: The planting of the seed, in this case, is in reference to the planting of the World Seed. Which was planted by the Eldar race and created the Elves, the Dwarves, and the Saurian, or lizardfolk as they're known. But there were people that lived before them, and the Cyclops were one of such people. The map that you saw was not as old as that, which would indicate that somebody came here after they were sealed, or they left some sort of keeper behind.<br>
-**Xetor**: Perhaps it may yet still contain what was lost. Take me there.<br>
+**Xetor**: Perhaps it may yet still contain what was lost. Take me there.
 
 Raost pulls out the mirror and looks at Xetor again.
 
