@@ -110,17 +110,17 @@ The creature walks right through Claw.
 > **Arcadum**: Ulm shuts down, the eye is bright, and now the Soul within speaks.
 
 > **Creature**: Traveler, your soul refracts many times. The dangers of your lingering, you know of them do you not? Why do you still linger?<br>
-**Astral Traveler**: I have unfinished business.<br>
+**Astral Traveller**: I have unfinished business.<br>
 **Creature**: I will not question the wisdom of the Traveler. The red star still yet twinkles and I have lost my brother. If we are to gather, we must be found. Tell me Traveler, what of the handmaidens?<br>
-**Astral Traveler**: They are there.<br>
+**Astral Traveller**: They are there.<br>
 **Creature**: Do they yet sleep?<br>
-**Astral Traveler**: All but one.<br>
+**Astral Traveller**: All but one.<br>
 **Creature**: Then it has begun. My brother must be found. The cross must be complete. What of the Green?<br>
-**Astral Traveler**: One has been found.<br>
+**Astral Traveller**: One has been found.<br>
 **Creature**: We have fallen behind. My brother and I are out of place. We must be remade.<br>
-**Astral Traveler**: Yes.<br>
+**Astral Traveller**: Yes.<br>
 **Creature**: Tell me Traveler, has the Indigo been found?<br>
-**Astral Traveler**: No.<br>
+**Astral Traveller**: No.<br>
 **Creature**: Hmm. Then we yet still have time. I release thee now to attend to your duties. This one will find his brother. When the time comes the cross will not fail the prism.
 
 > **Arcadum**: With that, Ulm returns to herself.

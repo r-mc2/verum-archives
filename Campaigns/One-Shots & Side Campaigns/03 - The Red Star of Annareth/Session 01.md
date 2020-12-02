@@ -6,7 +6,7 @@ Aired: 08/18/2020
 
 Moe & Belanovan make their way up the tower and come across a room with tapestries and a curious mosaic on the floor.
 
-> **Arcadum**: The mosaic here represents a woman's face, one that you recognize. It seems to be the visage of the Astral Traveler.<br>
+> **Arcadum**: The mosaic here represents a woman's face, one that you recognize. It seems to be the visage of the Astral Traveller.<br>
 On the walls there are several tapestries, and you see that there are six of them.
 
 ### Tapestries
@@ -90,7 +90,7 @@ Write that down in capital bolded letters, please.<br>
 Moe and Belanovan move towards the strange device Arcadum pointed out earlier and Lumina starts playing:
 > **Arcadum**: You stand in one of the holiest places, for before you lies a contraption. An apparatus, a device, whose function is unclear, and daunting to attempt to know. However, attempt to know you do. As you look upon [the engine](https://i.imgur.com/nhH9Rc8.jpg), you see that it has several different points of focus, specifically there are six points of focus. Each of them appears to be a different mirrored piece of glass, focused onto a central point, where there is an orb of mirrored glass that reflects the light in all directions. However, all around it, there is a construction of metal and material that form an almost blueprinted cage, it expands outwards, the longer you look the more that you see contained within this central orb is the Astral Sea itself. You can see it, shifting, twisting. You can see the halved pieces, the spherical separations of each of the different nebulae, and within it the central point where your home of Kalkatesh can be found.
 >
-> All around you the ethereal energy of the red light pulses out, and with each pulse it washes over you in an overwhelming light, and then you see them. Spirits yet inhabit this engine, there are seven places where the spirits are marked, and one is awoken. The central spirit, the Astral Traveler. Six other spirits yet remain to be awoken, and in front of you there lies a place where a hand may be placed.
+> All around you the ethereal energy of the red light pulses out, and with each pulse it washes over you in an overwhelming light, and then you see them. Spirits yet inhabit this engine, there are seven places where the spirits are marked, and one is awoken. The central spirit, the Astral Traveller. Six other spirits yet remain to be awoken, and in front of you there lies a place where a hand may be placed.
 >
 > So, do I have a volunteer?
 
@@ -100,7 +100,7 @@ Moe and Belanovan move towards the strange device Arcadum pointed out earlier an
 
 (Moe and Belanovan flip a coin [1d2], and Moe is selected)
 
-> **Arcadum**: Moe places his hand on the device, and it springs to life. Power flows all around you, the Astral Sea parts, the stars sparkle, light from all directions flow around Moe. The arcane energy blows him nearly back, his hat goes flying free if not for the chin straps, he holds, gripping onto the device. Holding his place, holding his hand down upon the device. Within he sees it, the central point, a star of six points, and a center. The Astral Traveler rises up ahead of him, and around her are six handmaidens.
+> **Arcadum**: Moe places his hand on the device, and it springs to life. Power flows all around you, the Astral Sea parts, the stars sparkle, light from all directions flow around Moe. The arcane energy blows him nearly back, his hat goes flying free if not for the chin straps, he holds, gripping onto the device. Holding his place, holding his hand down upon the device. Within he sees it, the central point, a star of six points, and a center. The Astral Traveller rises up ahead of him, and around her are six handmaidens.
 >
 > Moe Kowbull, through the concourse of destiny you are the first player to ever have walked to the threshold, and so it falls to you, if you wish for this strength I will name you Shaper.<br>
 **Moe**: I accept.<br>
@@ -114,8 +114,8 @@ Moe and Belanovan move towards the strange device Arcadum pointed out earlier an
 
 ---
 
-Arcadum further discussing the role of Shaper, The Astral Traveler, her Handmaidens, and how Moe is now responsible for awakening the other handmaidens:
-> **Arcadum**: In the Living World, courageous maidens gather their strength to travel to the Red Star, and as the hand of the handmaiden of the Astral Traveler it will be up to you to bestow upon them her grace. There is a prestige mission that is currently being created.
+Arcadum further discussing the role of Shaper, The Astral Traveller, her Handmaidens, and how Moe is now responsible for awakening the other handmaidens:
+> **Arcadum**: In the Living World, courageous maidens gather their strength to travel to the Red Star, and as the hand of the handmaiden of the Astral Traveller it will be up to you to bestow upon them her grace. There is a prestige mission that is currently being created.
 
 
 ## Full Transcript

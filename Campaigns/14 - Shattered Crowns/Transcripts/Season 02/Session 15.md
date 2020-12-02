@@ -191,7 +191,7 @@ The group continues to ask questions of the AI, Sai. Most with short one-line an
 
 ### The Red Star of Annareth
 
-Ikkar shows Sai the symbol of the red star and revelations about Annareth, The Astral Traveler, and her Handmaidens is revealed:
+Ikkar shows Sai the symbol of the red star and revelations about Annareth, The Astral Traveller, and her Handmaidens is revealed:
 
 > **Sai**: This is the red star of Annareth.<br>
 **Ikkar**: Who's Annareth?<br>
@@ -209,17 +209,17 @@ Ikkar shows Sai the symbol of the red star and revelations about Annareth, The A
 [<img src="https://i.imgur.com/eh6aOuj.jpg" alt="Galaxy map location of Annareth" height="250px" />](https://i.imgur.com/eh6aOuj.jpg)
 
 > **Ikkar**: Drifter, the names Versa, Kasaka, they're all disciples of Taladon, or disciples of Annareth? What's their connection?<br>
-**Sai**: Negative. They are the six handmaidens to the Astral Traveler.<br>
+**Sai**: Negative. They are the six handmaidens to the Astral Traveller.<br>
 **Ikkar**: I'm sorry, what?<br>
-**Sai**: The hand maidens to the Astral Traveler. The inscription and inscribing of the disciple of Taladon, Annareth, bespoke of the six handmaidens who serve the Astral Traveler. It is rumored that the Astral Traveler is somehow connected to the first iteration. The final gift of Taladon was this knowledge.<br>
+**Sai**: The hand maidens to the Astral Traveller. The inscription and inscribing of the disciple of Taladon, Annareth, bespoke of the six handmaidens who serve the Astral Traveller. It is rumored that the Astral Traveller is somehow connected to the first iteration. The final gift of Taladon was this knowledge.<br>
 **Ikkar**: So, all these hand maidens, they're real people? Are they living, dead, immortal?<br>
 **Sai**: They are deitic.<br>
-**Scrumpo**: So the Astral Traveler is the big deity then, who is that?<br>
+**Scrumpo**: So the Astral Traveller is the big deity then, who is that?<br>
 **Sai**: The Astral tra-a-v-<br>
 **Arcadum**: One second please. One moment.<br>
 
 > **Arcadum**: As the creature suddenly freezes, its face suddenly becomes contorted, and it no longer looks the same. And then, a voice will sound out:<br>
-**Tiff (The Astral Traveler)**: Be careful what you seek, at the star the fates will meet.<br>
+**Tiff (The Astral Traveller)**: Be careful what you seek, at the star the fates will meet.<br>
 **Arcadum**: And then the creature returns to what it was.
 
 ### 20 More Questions With Sai

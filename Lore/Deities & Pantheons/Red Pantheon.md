@@ -1,13 +1,13 @@
 # Red Pantheon
 As of right now, a pantheon of deities that has not fully been brought to the forefront, not restored to their former glory.
 
-These represent the Astral Traveler and her Handmaidens.
+These represent the Astral Traveller and her Handmaidens.
 
 <!-- WIP [<img src="https://cdn.discordapp.com/attachments/709112342213820528/782817366344990750/unknown.png" alt="The Pantheon Seal at the Red Star" height="350px" />](https://cdn.discordapp.com/attachments/709112342213820528/782817366344990750/unknown.png) -->
 
-## Astral Traveler
+## Astral Traveller
 
-[<img src="https://cdn.discordapp.com/attachments/709112342213820528/782820298361143326/astraltraveler3.png" alt="Astral Traveler's Handout Art" height="350px" />](https://cdn.discordapp.com/attachments/709112342213820528/782820298361143326/astraltraveler3.png)
+[<img src="https://cdn.discordapp.com/attachments/709112342213820528/782820298361143326/astraltraveler3.png" alt="Astral Traveller's Handout Art" height="350px" />](https://cdn.discordapp.com/attachments/709112342213820528/782820298361143326/astraltraveler3.png)
 
 * Known Aliases: (TBD)
 * Domains: (TBD)

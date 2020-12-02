@@ -87,7 +87,7 @@ A woman stands before you. Ethereal. Hair like raidiant fire. She floats with a 
 The Violet Servant raises its weapon...<br>
 ***Arcadum snaps.<br>
 **Arcadum**: ...and dissipates. The woman walks and stands before Moe. Your question echoes again, "What does The Violet fear?" and she answers:<br>
-> **The Astral Traveler**: My grave.
+> **The Astral Traveller**: My grave.
 
 Session Ends.
 

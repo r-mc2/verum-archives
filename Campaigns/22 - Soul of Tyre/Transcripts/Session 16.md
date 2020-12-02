@@ -265,7 +265,7 @@ Falcon says Koga's name and it summons him back. Hackne will give Koga the scrol
 **Braktor**: I knew his son- that was a Twelvestar, that tried to stop all this before it could ever happen. I don't suppose you remember any V names? I'm just worried if I say it I'll die.<br>
 ***Braktor** will write down Ventil on the paper and give it to Koga.<br>
 **Koga**: Ventil?<br>
-**Arcadum**: There is a flash of power, across creation there at the Red Star, power cracks, and surges forward. Out through creation, the Astral Traveler turns her gaze toward the Vault.
+**Arcadum**: There is a flash of power, across creation there at the Red Star, power cracks, and surges forward. Out through creation, the Astral Traveller turns her gaze toward the Vault.
 
 > **Arcadum**: You know something happened, but you don't know what. That was purely cinematic.
 

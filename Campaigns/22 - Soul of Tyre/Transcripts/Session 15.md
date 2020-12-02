@@ -294,12 +294,12 @@ The creature will then speak.<br>
 **Falcon**: I just woke up a couple days ago. I'm still trying to figure what's going on out as well.<br>
 **Braktor**: We're not creatures of Memory like yourself, time grinds away at what we know.<br>
 
-> **Belanovan**: What is the significance of the Astral Traveler and their grave?<br>
-**Uni**: That is a curious one. The Astral Traveler is not as potent as this Seven, but potent still in what it represents. Whereas we all are bound where we are, she moves with absolute freedom. There is no land she cannot walk, no mind she cannot see, no heart she cannot touch.<br>
+> **Belanovan**: What is the significance of the Astral Traveller and their grave?<br>
+**Uni**: That is a curious one. The Astral Traveller is not as potent as this Seven, but potent still in what it represents. Whereas we all are bound where we are, she moves with absolute freedom. There is no land she cannot walk, no mind she cannot see, no heart she cannot touch.<br>
 **Braktor**: Would this still be the case if she manifested into someone?<br>
 **Uni**: That I do not know.<br>
 **Ozzie**: Why would the Enemy fear her grave?<br>
-**Uni**: All things die, but she is not yet dead. So why would it fear a grave? An interesting question. There are many forms of life, of memory, and manifestation. I know not which the Astral Traveler is, but perhaps it is a place, and what can be found there, that the Enemy fears.<br>
+**Uni**: All things die, but she is not yet dead. So why would it fear a grave? An interesting question. There are many forms of life, of memory, and manifestation. I know not which the Astral Traveller is, but perhaps it is a place, and what can be found there, that the Enemy fears.<br>
 **Belanovan**: If the Enemy was one of these colors, would there be a way to get him back to his old world? Because maybe he doesn't like his new world?<br>
 **Falcon**: That would be nice to go home again.<br>
 **Braktor**: I don't think that's true. I don't think there's any appeasing it.<br>

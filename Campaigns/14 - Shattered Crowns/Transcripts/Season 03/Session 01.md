@@ -22,7 +22,7 @@ Something is knocking on the outside of the ship, requesting entry.
 
 After some diliberation with Sai on "proper space etiquette" on receiving a visitor, the party decides to recieve this unknown visitor on the bridge. Eventually, Vinnidinci Vaskael Valakain Beatorix Mateslayer (a.k.a. "Beatorix" or "Rixie") makes her way to them and introduces herself.
 
-[<img src="https://cdn.discordapp.com/attachments/716723358682710118/782806287011545118/artstation_1439931_4434015_Dark_esrgan.png" alt="Beatorix's Handout Art" height="350px" />](https://cdn.discordapp.com/attachments/716723358682710118/782806287011545118/artstation_1439931_4434015_Dark_esrgan.png)
+[<img src="https://i.imgur.com/tkAQOGY.jpg" alt="Beatorix's Handout Art" height="350px" />](https://i.imgur.com/tkAQOGY.jpg)
 
 Through some religion checks it is revealed that she is of the Shar'kai, the Ash Elves. They are a warrior race and should be treated with respect.
 
@@ -163,7 +163,7 @@ Returning to the machine:
 
 (Insert continued joke about "two of yourself" and "pleasure" 😉)
 
-### The Astral Traveler
+### The Astral Traveller
 
 > **Drifter Sai**: My lords. That is an- that is a navigational array!<br>
 **Huck**: Uh, pardon?<br>
@@ -212,7 +212,7 @@ Some further deliberation on supplies, where to go first, which planets are clos
 **Drifter Sai**: She knows your burden. She wishes f-f-for it to be lessened.<br>
 **Iron Pipe**: Well, I don't want to die.<br>
 **Scrumpo**: As long as we have some way of knowing what we're looking for, this will be easy for us.<br>
-Mother says you need much fuel, you need strength. You must gather the shattered realms of- the pieces of-<br>
+**Drifter Sai**: Mother says you need much fuel, you need strength. You must gather the shattered realms of- the pieces of-<br>
 **Arcadum**: Drifter Sai will start to buckle and the red light leaves his eyes and falls to the ground.<br>
 ***Iron Pipe** moves over to him.<br>
 **Iron Pipe**: Are you okay?<br>
@@ -253,7 +253,7 @@ Mother says you need much fuel, you need strength. You must gather the shattered
 **Huck**: Scrumpo, the two things I've learned about women: one is you don't ask their age, and two is you don't ask to drink their blood. At least not on the first date. Okay? Show some respect.<br>
 **Astral Traveller**: I apologize. I do not have blood.<br>
 ***Guy** sighs.<br>
-**Guy**: They never do. Either to blood will blow me up, make me fat, or they don't have it.<br>
+**Guy**: They never do. Either the blood will blow me up, make me fat, or they don't have it.<br>
 **Ikkar**: (to Guy) You've really had a rough run of it.<br>
 **Guy**: Oh, I know, Ikkar. Thank you.<br>
 **Scrumpo**: So can we take whatever we want from this place to help us?<br>
@@ -363,7 +363,7 @@ Some sassy back and forth on whether or not Pipe replaced Ronnie with his suit, 
 **Arcadum**: The current population of Kalkatesh is: 42,375,316.<br>
 **Guy**: I can't even concieve of that number! Why does it have to be one of us?
 
-The party spends a great deal of time debating what to do about Ronnie, finter pointing at the incident, and some self loathing. Should they go after him first, maybe doing a flyby of Kalkatesh and deal with Ronnie? Continue on with their exploration of the other planets? Also, finally, a bit of discussion in-character about what Guy did with Inu (i.e. the discussion about the Songblade Trials). Eventually...
+The party spends a great deal of time debating what to do about Ronnie, finger pointing at the incident, and some self loathing. Should they go after him first, maybe doing a flyby of Kalkatesh and deal with Ronnie? Continue on with their exploration of the other planets? Also, finally, a bit of discussion in-character about what Guy did with Inu (i.e. the discussion about the Songblade Trials). Eventually...
 
 > **Guy**: Alright, Astral Traveller, my last shot in the dark here. What if, and a big what if, what if we were able to sort everything? Fix The Wheel, defeat The Enemy, what happens to Ronnie then?<br>
 **Astral Traveller**: I am unsure.<br>
@@ -388,7 +388,7 @@ The area around Pipe and Guy darkens and Babylon happily accepts the new oath.
 
 > **Arcadum**: Alright, Guy, Iron Pipe, by his oath, will automatically side with you in the next major argument that the party has, on penalty of punnishment of Babylon. The oath is sealed.
 
-### Raquel & The Dilated One
+### Raquel & The Dilating One
 
 Scrumpo heads back out to the ship and collects the clock they stored some of the Violet energies they got from the flames in Arendell's room and makes a prayer to Raquel:
 
@@ -405,7 +405,7 @@ Scrumpo heads back out to the ship and collects the clock they stored some of th
 
 The map is covered in Violet light.
 
-> **Arcadum**: And there through the swirling, infinite expanse of the Astra Sea reality shatters as a creature pulls itself free. It appears to be a humanoid creature, it's hair is black and long, it's face is covered in skin where only a mouth remains. Clocks are stabbed into its mottled flesh and it weilds a war scythe made from sand that seems to be edged in glass. And, Scrumpo, listen well, for upon its summoning you are so infinitesimally smaller than it is, that it does not even notice your presence and you hear it speak to its master:
+> **Arcadum**: And there through the swirling, infinite expanse of the Astra Sea reality shatters as a creature pulls itself free. It appears to be a humanoid creature, it's hair is black and long, it's face is covered in skin where only a mouth remains. Clocks are stabbed into its mottled flesh and it wields a war scythe made from sand that seems to be edged in glass. And, Scrumpo, listen well, for upon its summoning you are so infinitesimally smaller than it is, that it does not even notice your presence and you hear it speak to its master:
 
 > **Dilating One**: My Lord, you have summoned me again, speak your orders and I shall see them done.<br>
 **???:** Seek thee the broken pieces. Seek thee that which was lost.
@@ -435,7 +435,7 @@ Scrumpo chooses to wait outside, but back up in the room with the navigational a
 **Huck**: A second voice? What like another one?<br>
 **Drifter Sai**: Two Speakers, those that can speak in its service. With every word they utter its strength grows.<br>
 **Huck**: Okay, so w-what do we do? Where-<br>
-**Drifter Sai**: We must complete the mission given. I am an instrument to be weilded.<br>
+**Drifter Sai**: We must complete the mission given. I am an instrument to be wielded.<br>
 **Huck**: Look, Pipe, I know- I know you wanna go see Ronnie and we will! We will, we have to clean up- Now, Pipe, look, you're a Lord of Flowing Water. Who's a Lord of Flowing Water?<br>
 ***Iron Pipe** curls up on the floor next to a table.<br>
 **Iron Pipe**: Ronnie was!<br>

@@ -154,7 +154,7 @@ But it was not the covenant of Time that allowed the betrayal, but rather the co
 
 > **Hizigori**: And that covenant was *Mercy*. For the Traitor's sorrow allowance was made. By the Traitor's sorrow a rule was broken. And for the Traitor's sorrow Mercy was given. And the Prism cracked, and *the time for Mercy has passed*. And that, Guardian, is why the Traitor's Blade is one of your own.
 
-> **Moe**: You spoke of the red covenant and of Wisdom, as a Shaper I know that we serve the Astral Traveler, and she told me The Enemy feared her grave more than anything. Is she the cause of this rift? Did they know each other?<br>
+> **Moe**: You spoke of the red covenant and of Wisdom, as a Shaper I know that we serve the Astral Traveller, and she told me The Enemy feared her grave more than anything. Is she the cause of this rift? Did they know each other?<br>
 **Arcadum**: The Dragon's gaze will fall to Toot, slowly it will lean toward him, until it is inches towards his face, the great dragon fills his vision, everything he can see.<br>
 **Hizigori**: Brace yourself.<br>
 **Arcadum**: The dragon will see that you are ready.
@@ -162,7 +162,7 @@ But it was not the covenant of Time that allowed the betrayal, but rather the co
 (The party all hold hands and place hands upon Toot to support The Bearer of The Eye)
 
 > **Arcadum**: As each of you place your hands upon Toot, and upon each other, and stand against the weight of knowledge as one, the dragon will begin to answer. (To be clear what was your question, Criken?)<br>
-**Moe**: What is the nature of the relationship between the Astral Traveler and the Enemy? And more specifically, is her death the cause of this rift?<br>
+**Moe**: What is the nature of the relationship between the Astral Traveller and the Enemy? And more specifically, is her death the cause of this rift?<br>
 **Hizigori**: Their story begins in a place at the-
 
 (Third saving throw: `24+4+2=30`)
@@ -179,7 +179,7 @@ The words of the dragon fall away, as the information you receive is from the me
 ***Toot** will turn to Ahst, and just smiles.
 
 > **Arcadum**: Toot this is what you see:<br>
-You see the glowing Red Star, you see the expanse of the Astral Sea, and on a small, simple, stool, just in the middle of the Astral Sea on a small rock, you see yourself sitting. Sadly counting the days as they pass. Suddenly you look in at yourself, you sense that you are seeing yourself, and you feel a smile cross your face. Your hand will go up before your face, so that you can see it, and you will give yourself a reassuring gesture, specifically the Okay symbol, and then you will see yourself point, and with that your vision zooms forward as you walk through the astral sea at mind numbing blazing speeds, speeds that are impossible for any except you. You are the Astral Traveler, and you stand before the Twilight Station.
+You see the glowing Red Star, you see the expanse of the Astral Sea, and on a small, simple, stool, just in the middle of the Astral Sea on a small rock, you see yourself sitting. Sadly counting the days as they pass. Suddenly you look in at yourself, you sense that you are seeing yourself, and you feel a smile cross your face. Your hand will go up before your face, so that you can see it, and you will give yourself a reassuring gesture, specifically the Okay symbol, and then you will see yourself point, and with that your vision zooms forward as you walk through the astral sea at mind numbing blazing speeds, speeds that are impossible for any except you. You are the Astral Traveller, and you stand before the Twilight Station.
 >
 > However, as you walk through the Twilight Station you begin to see pieces, bits and pieces of it reform, like a reverie in your mind. As you reminisce about what it once was, you see the old dilapidated buildings left over upon the isle shift back to what they were. A pleasant village, a simple place. You smiled as you stood in the garden, you watched the sun rise over the horizon. The wind kissed your face, and you were happy.<br>
 The memories fade, however, as you look at what you've become. What even is the measure of being human anymore, what even is the truth of it? These are words, questions in which you have no answer, no matter how much Wisdom you gather.<br>
