@@ -32,6 +32,7 @@ Much of this information was original from the disparate sources retained by the
 * [Idio's Notes on Rivitah-->Derok Drampf](https://docs.google.com/document/d/1Hxpg5dBHQWF-8hL_5HUgaj3EYeN8Dby4IgEPL9zFQqo)
 * [Shattered Crowns Session 12 -- Discussions w/ Drifter Sai](https://docs.google.com/document/d/1_tLVxJfyZgKFFjXh8edNAOcYAFAyX9Wy0VyyMjjxjto)
 * [Shattered Crowns Season 2 Episode 11 - Full God Con Transcript](https://docs.google.com/document/d/1ni-YAl-S-n31FqpZZZ7hLBP9X7PWKghLieG6TcECoIE)
+* [Astral Traveler and Handmaidens: Artist's Reference Guide](https://docs.google.com/spreadsheets/d/15kBK5Zjlki9RcG_ijlUpxdYXateyB-PaWEKX9in4bFI/)
 
 ### Reddit Threads
 
