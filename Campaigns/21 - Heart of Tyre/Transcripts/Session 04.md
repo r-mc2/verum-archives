@@ -2,6 +2,24 @@
 
 Aired: 08/03/2020
 
+<details><summary>Table of Contents (Click to Show/Hide)</summary>
+<p>
+
+- [Relevant Lore](#relevant-lore)
+  - [A Failed Exit](#a-failed-exit)
+  - [The Brass King Speaks](#the-brass-king-speaks)
+  - [The Brass King's Gift](#the-brass-kings-gift)
+  - [Erin & Seren Have A Chat](#erin--seren-have-a-chat)
+  - [Antonius' Revelation](#antonius-revelation)
+  - [Changelings & Tomen](#changelings--tomen)
+  - [Ives' Redemption](#ives-redemption)
+- [Full Transcript](#full-transcript)
+
+</p>
+</details>
+
+---
+
 ## Relevant Lore
 
 After the events of last session the group heads back out towards the front desk and Ives uses the return crystal to go back to camp. Except, it seems to fizzle out.
