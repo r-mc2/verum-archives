@@ -20,7 +20,7 @@ Lumina begins to play.
 **Aleo**: “My sweetness, I thought you were-“<br>
 ***Woman** places a finger upon his mouth, and shakes her head, and turns to face him toward you. He will nod, power surging through his body.<br>
 **Aleo**: Fine. Torchbearers, my love's faded from this world, and the responsibility she bore now weighs upon your shoulders. We may not have ever met, but there is a kinship between us, and as such, if you are to bear the burden that my wife once did, then I will make sure that you are worthy of it! Cause no one is worthy of her, least of all me. Draw your weapons, and send me home. Please.<br>
-I hope not to fail you, Minthis. I hope… I hope to earn my spot with you and your comrades, I know I was never… equal to you. I couldn’t even save you in the end.
+I hope not to fail you, Minthis. I hope… I hope to earn my spot with you and your comrades, I know I was never… equal to you. I couldn’t even save you in the end.<br>
 ***Minthis** will not hear any of that nonsense, and will stand behind him, shining with a white light. And then it happens, the ring repairs and places itself back upon his finger where it belongs.<br>
 **Arcadum**: She may be dead, faded from this world. But the hope that she lended to this world is not.<br>
 ***Aleo**’s eyes shine slightly with a soft Violet shade.<br>

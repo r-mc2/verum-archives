@@ -2,6 +2,32 @@
 
 Aired: 11/29/2020
 
+<details><summary open>Table of Contents (Click to Show/Hide)</summary>
+<p>
+
+- [Relevant Lore](#relevant-lore)
+  - [Previously On...](#previously-on)
+  - [The Red Star](#the-red-star)
+    - [The Spell Forge](#the-spell-forge)
+  - [The Red Pantheon](#the-red-pantheon)
+  - [A Shaper Portal](#a-shaper-portal)
+  - [The Top Floor](#the-top-floor)
+  - [The Astral Traveller](#the-astral-traveller)
+  - [Pictures From Home](#pictures-from-home)
+  - [Ronnie The Dog](#ronnie-the-dog)
+  - [An Oath](#an-oath)
+  - [Raquel & The Dilating One](#raquel--the-dilating-one)
+  - [Rampart](#rampart)
+  - [Astral Sea Mechanics](#astral-sea-mechanics)
+  - [A Potential Course](#a-potential-course)
+  - [Vessel Features](#vessel-features)
+- [Full Transcript](#full-transcript)
+
+</p>
+</details>
+
+---
+
 ## Relevant Lore
 
 ### Previously On...
