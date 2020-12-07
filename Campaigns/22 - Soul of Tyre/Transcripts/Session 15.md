@@ -73,6 +73,9 @@ The group discusses what this means in reference to what they can ask of it.
 >
 > **Belanovan**: Who used the power of the Violet before the Enemy?<br>
 **Uni**: T’was the storyteller of course.<br>
+**Braktor**: Goddammit.<br>
+**Hackne**: Is it bad to ask who that is?<br>
+**Braktor**: I wouldn’t say it’s bad, well it is, but, it’s not important anymore.
 
 > **Party**: Do we know who created the towers?<br>
 **Uni**: The Towers were created by the Seven, but not just any Seven. By the first Seven, and furtherm-<br>
