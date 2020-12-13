@@ -253,7 +253,7 @@ Falcon will see slight etching of the lifestream, as expected.
 **Andy (Falcon)**: So are these wooden masks made of the rotted wood of Phlan, or just their shape?<br>
 **Arcadum**: Their visage. They aren't from there cause that's copyright infringement.<br>
 
-> **Ozzie**: So is it significant?
+> **Ozzie**: So is it significant?<br>
 **Falcon**: It reminds me of the trees where I started my own adventures.<br>
 **Ozzie**: Where's that?<br>
 **Falcon**: Back in Phlan, I don't know if that place exists in this world anymore. That's where I tried to go, and it took me here.<br>
