@@ -46,7 +46,7 @@ Eustace true sights the White Terror, and sees exactly the same thing, no change
 > **Toot**: Do you have a Genesis Seed?<br>
 **White Terror**: I know of such a seed. A genesis seed. A difficult artifact to create. Even more difficult to command the power of.<br>
 **White Terror**: Why do you ask, exactly?<br>
-**Moe**: From our knowledge it's kind of a finite amount.
+**Moe**: From our knowledge it's kind of a finite amount.<br>
 **White Terror**: Very well. There are yet some places that fragments of the world tree can be found. From the first planting of the world seed in Kalkatesh thousands of years ago. You could seek these places out, and strengthen the stream of life. Listen well. The Genesis Seed is a precious, precious thing to find. It is a piece of not only the physical tree, but also a representation of the portal of life, swirling from one to another. I have no knowledge that can help, simply the Genesis Seeds are rare, if you do collect them be sure to use them wisely.
 
 > **Party**: Where are you gonna go if we free you?<br>
