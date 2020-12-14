@@ -1,5 +1,8 @@
 Party fights the Akai, and saves the village.
 
+Finale special ability:
+>**Cross Slash** - As a reaction, you may use 1 strand of life to grant an ally advantaage on their next attack. If that attack hits its target, you may attack, if both attacks hit, your attack is considered a critical hit. If either attack misses you may not use this ability for 2 rounds.
+
 After the fight Pipe inspects the cybernetic warriors. They seem to be following the metal path, much like yourself, though their appearance seems more sinister and less functional. Some changes are purely detrimental and offer no benefit to the replacement of the flesh. In addition to that, the technology they are using, the construct material, matches your own, but there is something else. The more you look the more you uncover, these beings are the same, exactly the same. Like they are produced from a mold.
 
 
